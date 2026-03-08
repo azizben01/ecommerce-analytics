@@ -179,3 +179,33 @@ print("✅ SPARK ANALYTICS COMPLETE!")
 print("="*60)
 
 spark.stop()
+
+
+
+#Script to get the top selling product from transaction in the fat of ADID
+# from pyspark.sql import SparkSession
+# from pyspark.sql.functions import explode, col, sum
+
+# # Create Spark session
+# spark = SparkSession.builder.appName("TopProducts").getOrCreate()
+
+# # Load transactions
+# transactions_df = spark.read.option("multiLine", "true").json("data/transactions.json")
+
+# # Explode items and calculate top products
+# top_products = transactions_df.select(
+#     explode("items").alias("item")
+# ).select(
+#     col("item.product_id"),
+#     col("item.quantity"),
+#     col("item.subtotal")
+# ).groupBy("product_id").agg(
+#     sum("quantity").alias("total_quantity"),
+#     sum("subtotal").alias("total_revenue")
+# ).orderBy(col("total_revenue").desc())
+
+# # Show results
+# print("\n🏆 TOP SELLING PRODUCTS:")
+# top_products.show(10, truncate=False)
+
+# spark.stop()
