@@ -1,0 +1,4002 @@
+[
+  {
+    "product_id": "prod_00000",
+    "name": "Standard Product",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_01",
+    "base_price": 55.43,
+    "current_stock": 58,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 75.43,
+        "date": "2026-01-11T17:06:50.794069"
+      },
+      {
+        "price": 55.43,
+        "date": "2026-01-31T17:06:50.794069"
+      }
+    ],
+    "creation_date": "2026-01-11T17:06:50.794069"
+  },
+  {
+    "product_id": "prod_00001",
+    "name": "Team Product",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_02",
+    "base_price": 177.52,
+    "current_stock": 95,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 193.52,
+        "date": "2026-02-08T18:22:46.272842"
+      },
+      {
+        "price": 177.52,
+        "date": "2026-02-28T18:22:46.272842"
+      }
+    ],
+    "creation_date": "2026-02-08T18:22:46.272842"
+  },
+  {
+    "product_id": "prod_00002",
+    "name": "Good Product",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_00",
+    "base_price": 291.11,
+    "current_stock": 51,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 318.11,
+        "date": "2026-02-09T19:08:41.273073"
+      },
+      {
+        "price": 291.11,
+        "date": "2026-03-01T19:08:41.273073"
+      }
+    ],
+    "creation_date": "2026-02-09T19:08:41.273073"
+  },
+  {
+    "product_id": "prod_00003",
+    "name": "Teacher Product",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_02",
+    "base_price": 235.87,
+    "current_stock": 162,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 264.87,
+        "date": "2026-02-21T19:41:40.727203"
+      },
+      {
+        "price": 235.87,
+        "date": "2026-03-13T19:41:40.727203"
+      }
+    ],
+    "creation_date": "2026-02-21T19:41:40.727203"
+  },
+  {
+    "product_id": "prod_00004",
+    "name": "More Product",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_02",
+    "base_price": 70.78,
+    "current_stock": 119,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 75.78,
+        "date": "2026-01-04T02:01:18.422807"
+      },
+      {
+        "price": 70.78,
+        "date": "2026-01-24T02:01:18.422807"
+      }
+    ],
+    "creation_date": "2026-01-04T02:01:18.422807"
+  },
+  {
+    "product_id": "prod_00005",
+    "name": "Face Product",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_01",
+    "base_price": 156.8,
+    "current_stock": 67,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 187.8,
+        "date": "2026-01-07T00:37:17.004509"
+      },
+      {
+        "price": 156.8,
+        "date": "2026-01-27T00:37:17.004509"
+      }
+    ],
+    "creation_date": "2026-01-07T00:37:17.004509"
+  },
+  {
+    "product_id": "prod_00006",
+    "name": "Reason Product",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_00",
+    "base_price": 113.76,
+    "current_stock": 86,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 123.76,
+        "date": "2025-12-31T07:37:31.655099"
+      },
+      {
+        "price": 113.76,
+        "date": "2026-01-20T07:37:31.655099"
+      }
+    ],
+    "creation_date": "2025-12-31T07:37:31.655099"
+  },
+  {
+    "product_id": "prod_00007",
+    "name": "Carry Product",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_02",
+    "base_price": 85.09,
+    "current_stock": 122,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 91.09,
+        "date": "2026-01-08T20:35:53.205269"
+      },
+      {
+        "price": 85.09,
+        "date": "2026-01-28T20:35:53.205269"
+      }
+    ],
+    "creation_date": "2026-01-08T20:35:53.205269"
+  },
+  {
+    "product_id": "prod_00008",
+    "name": "Suggest Product",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_00",
+    "base_price": 40.0,
+    "current_stock": 10,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 59.0,
+        "date": "2026-03-03T22:24:45.641087"
+      },
+      {
+        "price": 40.0,
+        "date": "2026-03-23T22:24:45.641087"
+      }
+    ],
+    "creation_date": "2026-03-03T22:24:45.641087"
+  },
+  {
+    "product_id": "prod_00009",
+    "name": "Act Product",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_01",
+    "base_price": 59.18,
+    "current_stock": 187,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 64.18,
+        "date": "2026-02-11T13:02:56.629483"
+      },
+      {
+        "price": 59.18,
+        "date": "2026-03-03T13:02:56.629483"
+      }
+    ],
+    "creation_date": "2026-02-11T13:02:56.629483"
+  },
+  {
+    "product_id": "prod_00010",
+    "name": "Car Product",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_01",
+    "base_price": 220.38,
+    "current_stock": 180,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 235.38,
+        "date": "2026-01-24T01:45:11.913437"
+      },
+      {
+        "price": 220.38,
+        "date": "2026-02-13T01:45:11.913437"
+      }
+    ],
+    "creation_date": "2026-01-24T01:45:11.913437"
+  },
+  {
+    "product_id": "prod_00011",
+    "name": "Understand Product",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_01",
+    "base_price": 60.38,
+    "current_stock": 58,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 71.38,
+        "date": "2026-01-08T19:14:13.815041"
+      },
+      {
+        "price": 60.38,
+        "date": "2026-01-28T19:14:13.815041"
+      }
+    ],
+    "creation_date": "2026-01-08T19:14:13.815041"
+  },
+  {
+    "product_id": "prod_00012",
+    "name": "Run Product",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_01",
+    "base_price": 297.71,
+    "current_stock": 122,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 303.71,
+        "date": "2026-01-18T05:52:31.259534"
+      },
+      {
+        "price": 297.71,
+        "date": "2026-02-07T05:52:31.259534"
+      }
+    ],
+    "creation_date": "2026-01-18T05:52:31.259534"
+  },
+  {
+    "product_id": "prod_00013",
+    "name": "Year Product",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_02",
+    "base_price": 131.11,
+    "current_stock": 138,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 146.11,
+        "date": "2025-12-12T01:27:57.307223"
+      },
+      {
+        "price": 131.11,
+        "date": "2026-01-01T01:27:57.307223"
+      }
+    ],
+    "creation_date": "2025-12-12T01:27:57.307223"
+  },
+  {
+    "product_id": "prod_00014",
+    "name": "Second Product",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_01",
+    "base_price": 195.98,
+    "current_stock": 117,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 235.98,
+        "date": "2026-02-07T01:41:28.841081"
+      },
+      {
+        "price": 195.98,
+        "date": "2026-02-27T01:41:28.841081"
+      }
+    ],
+    "creation_date": "2026-02-07T01:41:28.841081"
+  },
+  {
+    "product_id": "prod_00015",
+    "name": "Standard Product",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_00",
+    "base_price": 185.34,
+    "current_stock": 36,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 190.34,
+        "date": "2026-02-14T08:20:55.546020"
+      },
+      {
+        "price": 185.34,
+        "date": "2026-03-06T08:20:55.546020"
+      }
+    ],
+    "creation_date": "2026-02-14T08:20:55.546020"
+  },
+  {
+    "product_id": "prod_00016",
+    "name": "Eight Product",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_00",
+    "base_price": 144.55,
+    "current_stock": 63,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 174.55,
+        "date": "2026-02-05T13:10:53.021259"
+      },
+      {
+        "price": 144.55,
+        "date": "2026-02-25T13:10:53.021259"
+      }
+    ],
+    "creation_date": "2026-02-05T13:10:53.021259"
+  },
+  {
+    "product_id": "prod_00017",
+    "name": "Build Product",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_01",
+    "base_price": 120.24,
+    "current_stock": 6,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 143.24,
+        "date": "2025-12-13T08:10:05.640553"
+      },
+      {
+        "price": 120.24,
+        "date": "2026-01-02T08:10:05.640553"
+      }
+    ],
+    "creation_date": "2025-12-13T08:10:05.640553"
+  },
+  {
+    "product_id": "prod_00018",
+    "name": "Face Product",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_02",
+    "base_price": 239.46,
+    "current_stock": 44,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 254.46,
+        "date": "2026-01-16T19:32:41.661888"
+      },
+      {
+        "price": 239.46,
+        "date": "2026-02-05T19:32:41.661888"
+      }
+    ],
+    "creation_date": "2026-01-16T19:32:41.661888"
+  },
+  {
+    "product_id": "prod_00019",
+    "name": "Interesting Product",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_00",
+    "base_price": 219.56,
+    "current_stock": 163,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 227.56,
+        "date": "2026-01-07T20:02:49.637342"
+      },
+      {
+        "price": 219.56,
+        "date": "2026-01-27T20:02:49.637342"
+      }
+    ],
+    "creation_date": "2026-01-07T20:02:49.637342"
+  },
+  {
+    "product_id": "prod_00020",
+    "name": "Decide Product",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_00",
+    "base_price": 142.8,
+    "current_stock": 42,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 148.8,
+        "date": "2026-03-02T19:50:26.765707"
+      },
+      {
+        "price": 142.8,
+        "date": "2026-03-22T19:50:26.765707"
+      }
+    ],
+    "creation_date": "2026-03-02T19:50:26.765707"
+  },
+  {
+    "product_id": "prod_00021",
+    "name": "Wife Product",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_02",
+    "base_price": 60.12,
+    "current_stock": 51,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 79.12,
+        "date": "2026-02-21T10:50:50.930698"
+      },
+      {
+        "price": 60.12,
+        "date": "2026-03-13T10:50:50.930698"
+      }
+    ],
+    "creation_date": "2026-02-21T10:50:50.930698"
+  },
+  {
+    "product_id": "prod_00022",
+    "name": "Attorney Product",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_00",
+    "base_price": 11.32,
+    "current_stock": 121,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 49.32,
+        "date": "2025-12-16T12:33:03.347290"
+      },
+      {
+        "price": 11.32,
+        "date": "2026-01-05T12:33:03.347290"
+      }
+    ],
+    "creation_date": "2025-12-16T12:33:03.347290"
+  },
+  {
+    "product_id": "prod_00023",
+    "name": "Prepare Product",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_02",
+    "base_price": 130.58,
+    "current_stock": 91,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 156.58,
+        "date": "2026-01-31T00:43:53.074720"
+      },
+      {
+        "price": 130.58,
+        "date": "2026-02-20T00:43:53.074720"
+      }
+    ],
+    "creation_date": "2026-01-31T00:43:53.074720"
+  },
+  {
+    "product_id": "prod_00024",
+    "name": "Impact Product",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_02",
+    "base_price": 260.61,
+    "current_stock": 3,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 298.61,
+        "date": "2025-12-29T23:05:04.650062"
+      },
+      {
+        "price": 260.61,
+        "date": "2026-01-18T23:05:04.650062"
+      }
+    ],
+    "creation_date": "2025-12-29T23:05:04.650062"
+  },
+  {
+    "product_id": "prod_00025",
+    "name": "Fire Product",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_02",
+    "base_price": 223.11,
+    "current_stock": 62,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 229.11,
+        "date": "2026-02-11T06:48:11.587578"
+      },
+      {
+        "price": 223.11,
+        "date": "2026-03-03T06:48:11.587578"
+      }
+    ],
+    "creation_date": "2026-02-11T06:48:11.587578"
+  },
+  {
+    "product_id": "prod_00026",
+    "name": "Other Product",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_00",
+    "base_price": 36.99,
+    "current_stock": 168,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 44.99,
+        "date": "2026-01-02T19:57:56.541166"
+      },
+      {
+        "price": 36.99,
+        "date": "2026-01-22T19:57:56.541166"
+      }
+    ],
+    "creation_date": "2026-01-02T19:57:56.541166"
+  },
+  {
+    "product_id": "prod_00027",
+    "name": "Middle Product",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_02",
+    "base_price": 108.77,
+    "current_stock": 138,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 141.76999999999998,
+        "date": "2025-12-08T15:24:40.909600"
+      },
+      {
+        "price": 108.77,
+        "date": "2025-12-28T15:24:40.909600"
+      }
+    ],
+    "creation_date": "2025-12-08T15:24:40.909600"
+  },
+  {
+    "product_id": "prod_00028",
+    "name": "What Product",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_02",
+    "base_price": 265.63,
+    "current_stock": 0,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 295.63,
+        "date": "2026-02-08T20:35:42.608487"
+      },
+      {
+        "price": 265.63,
+        "date": "2026-02-28T20:35:42.608487"
+      }
+    ],
+    "creation_date": "2026-02-08T20:35:42.608487"
+  },
+  {
+    "product_id": "prod_00029",
+    "name": "Economy Product",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_00",
+    "base_price": 185.12,
+    "current_stock": 164,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 219.12,
+        "date": "2026-01-26T20:42:23.120986"
+      },
+      {
+        "price": 185.12,
+        "date": "2026-02-15T20:42:23.120986"
+      }
+    ],
+    "creation_date": "2026-01-26T20:42:23.120986"
+  },
+  {
+    "product_id": "prod_00030",
+    "name": "Nothing Product",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_02",
+    "base_price": 112.71,
+    "current_stock": 30,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 128.70999999999998,
+        "date": "2025-12-12T23:16:47.998775"
+      },
+      {
+        "price": 112.71,
+        "date": "2026-01-01T23:16:47.998775"
+      }
+    ],
+    "creation_date": "2025-12-12T23:16:47.998775"
+  },
+  {
+    "product_id": "prod_00031",
+    "name": "Education Product",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_02",
+    "base_price": 212.77,
+    "current_stock": 93,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 220.77,
+        "date": "2026-02-15T11:26:11.304590"
+      },
+      {
+        "price": 212.77,
+        "date": "2026-03-07T11:26:11.304590"
+      }
+    ],
+    "creation_date": "2026-02-15T11:26:11.304590"
+  },
+  {
+    "product_id": "prod_00032",
+    "name": "Drive Product",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_02",
+    "base_price": 280.13,
+    "current_stock": 128,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 303.13,
+        "date": "2026-01-27T09:22:29.176117"
+      },
+      {
+        "price": 280.13,
+        "date": "2026-02-16T09:22:29.176117"
+      }
+    ],
+    "creation_date": "2026-01-27T09:22:29.176117"
+  },
+  {
+    "product_id": "prod_00033",
+    "name": "Focus Product",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_02",
+    "base_price": 241.09,
+    "current_stock": 49,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 273.09000000000003,
+        "date": "2026-01-09T10:25:32.531365"
+      },
+      {
+        "price": 241.09,
+        "date": "2026-01-29T10:25:32.531365"
+      }
+    ],
+    "creation_date": "2026-01-09T10:25:32.531365"
+  },
+  {
+    "product_id": "prod_00034",
+    "name": "Coach Product",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_02",
+    "base_price": 40.46,
+    "current_stock": 109,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 58.46,
+        "date": "2025-12-13T21:42:49.506910"
+      },
+      {
+        "price": 40.46,
+        "date": "2026-01-02T21:42:49.506910"
+      }
+    ],
+    "creation_date": "2025-12-13T21:42:49.506910"
+  },
+  {
+    "product_id": "prod_00035",
+    "name": "Nor Product",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_01",
+    "base_price": 232.1,
+    "current_stock": 153,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 261.1,
+        "date": "2025-12-30T21:24:49.552029"
+      },
+      {
+        "price": 232.1,
+        "date": "2026-01-19T21:24:49.552029"
+      }
+    ],
+    "creation_date": "2025-12-30T21:24:49.552029"
+  },
+  {
+    "product_id": "prod_00036",
+    "name": "Around Product",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_01",
+    "base_price": 52.39,
+    "current_stock": 186,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 62.39,
+        "date": "2026-01-13T05:19:02.994064"
+      },
+      {
+        "price": 52.39,
+        "date": "2026-02-02T05:19:02.994064"
+      }
+    ],
+    "creation_date": "2026-01-13T05:19:02.994064"
+  },
+  {
+    "product_id": "prod_00037",
+    "name": "Standard Product",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_02",
+    "base_price": 273.94,
+    "current_stock": 84,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 295.94,
+        "date": "2026-02-15T10:35:51.786911"
+      },
+      {
+        "price": 273.94,
+        "date": "2026-03-07T10:35:51.786911"
+      }
+    ],
+    "creation_date": "2026-02-15T10:35:51.786911"
+  },
+  {
+    "product_id": "prod_00038",
+    "name": "Seem Product",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_00",
+    "base_price": 113.22,
+    "current_stock": 198,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 136.22,
+        "date": "2026-02-08T22:15:56.342757"
+      },
+      {
+        "price": 113.22,
+        "date": "2026-02-28T22:15:56.342757"
+      }
+    ],
+    "creation_date": "2026-02-08T22:15:56.342757"
+  },
+  {
+    "product_id": "prod_00039",
+    "name": "Partner Product",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_00",
+    "base_price": 92.89,
+    "current_stock": 161,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 107.89,
+        "date": "2025-12-10T03:57:29.087161"
+      },
+      {
+        "price": 92.89,
+        "date": "2025-12-30T03:57:29.087161"
+      }
+    ],
+    "creation_date": "2025-12-10T03:57:29.087161"
+  },
+  {
+    "product_id": "prod_00040",
+    "name": "Large Product",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_02",
+    "base_price": 235.07,
+    "current_stock": 80,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 272.07,
+        "date": "2026-01-02T20:16:19.636047"
+      },
+      {
+        "price": 235.07,
+        "date": "2026-01-22T20:16:19.636047"
+      }
+    ],
+    "creation_date": "2026-01-02T20:16:19.636047"
+  },
+  {
+    "product_id": "prod_00041",
+    "name": "Various Product",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_01",
+    "base_price": 47.96,
+    "current_stock": 165,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 87.96000000000001,
+        "date": "2026-03-04T21:37:24.040076"
+      },
+      {
+        "price": 47.96,
+        "date": "2026-03-24T21:37:24.040076"
+      }
+    ],
+    "creation_date": "2026-03-04T21:37:24.040076"
+  },
+  {
+    "product_id": "prod_00042",
+    "name": "Front Product",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_00",
+    "base_price": 265.77,
+    "current_stock": 63,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 280.77,
+        "date": "2025-12-20T18:34:39.510215"
+      },
+      {
+        "price": 265.77,
+        "date": "2026-01-09T18:34:39.510215"
+      }
+    ],
+    "creation_date": "2025-12-20T18:34:39.510215"
+  },
+  {
+    "product_id": "prod_00043",
+    "name": "Term Product",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_01",
+    "base_price": 178.36,
+    "current_stock": 69,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 186.36,
+        "date": "2025-12-12T07:48:11.742893"
+      },
+      {
+        "price": 178.36,
+        "date": "2026-01-01T07:48:11.742893"
+      }
+    ],
+    "creation_date": "2025-12-12T07:48:11.742893"
+  },
+  {
+    "product_id": "prod_00044",
+    "name": "On Product",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_02",
+    "base_price": 201.23,
+    "current_stock": 16,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 225.23,
+        "date": "2026-03-01T00:11:07.848301"
+      },
+      {
+        "price": 201.23,
+        "date": "2026-03-21T00:11:07.848301"
+      }
+    ],
+    "creation_date": "2026-03-01T00:11:07.848301"
+  },
+  {
+    "product_id": "prod_00045",
+    "name": "Method Product",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_01",
+    "base_price": 95.96,
+    "current_stock": 182,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 116.96,
+        "date": "2026-01-22T06:50:20.242557"
+      },
+      {
+        "price": 95.96,
+        "date": "2026-02-11T06:50:20.242557"
+      }
+    ],
+    "creation_date": "2026-01-22T06:50:20.242557"
+  },
+  {
+    "product_id": "prod_00046",
+    "name": "Watch Product",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_02",
+    "base_price": 12.65,
+    "current_stock": 158,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 38.65,
+        "date": "2026-03-07T03:32:52.711187"
+      },
+      {
+        "price": 12.65,
+        "date": "2026-03-27T03:32:52.711187"
+      }
+    ],
+    "creation_date": "2026-03-07T03:32:52.711187"
+  },
+  {
+    "product_id": "prod_00047",
+    "name": "Leader Product",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_01",
+    "base_price": 280.12,
+    "current_stock": 77,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 288.12,
+        "date": "2026-02-15T02:45:28.156021"
+      },
+      {
+        "price": 280.12,
+        "date": "2026-03-07T02:45:28.156021"
+      }
+    ],
+    "creation_date": "2026-02-15T02:45:28.156021"
+  },
+  {
+    "product_id": "prod_00048",
+    "name": "Everything Product",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_02",
+    "base_price": 171.97,
+    "current_stock": 29,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 202.97,
+        "date": "2026-02-09T13:22:42.796821"
+      },
+      {
+        "price": 171.97,
+        "date": "2026-03-01T13:22:42.796821"
+      }
+    ],
+    "creation_date": "2026-02-09T13:22:42.796821"
+  },
+  {
+    "product_id": "prod_00049",
+    "name": "Get Product",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_01",
+    "base_price": 245.39,
+    "current_stock": 41,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 273.39,
+        "date": "2026-01-27T16:40:52.353074"
+      },
+      {
+        "price": 245.39,
+        "date": "2026-02-16T16:40:52.353074"
+      }
+    ],
+    "creation_date": "2026-01-27T16:40:52.353074"
+  },
+  {
+    "product_id": "prod_00050",
+    "name": "Give Product",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_02",
+    "base_price": 82.97,
+    "current_stock": 178,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 87.97,
+        "date": "2026-01-23T08:37:22.230165"
+      },
+      {
+        "price": 82.97,
+        "date": "2026-02-12T08:37:22.230165"
+      }
+    ],
+    "creation_date": "2026-01-23T08:37:22.230165"
+  },
+  {
+    "product_id": "prod_00051",
+    "name": "Particularly Product",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_02",
+    "base_price": 39.28,
+    "current_stock": 69,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 76.28,
+        "date": "2025-12-31T11:28:10.411522"
+      },
+      {
+        "price": 39.28,
+        "date": "2026-01-20T11:28:10.411522"
+      }
+    ],
+    "creation_date": "2025-12-31T11:28:10.411522"
+  },
+  {
+    "product_id": "prod_00052",
+    "name": "Stand Product",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_01",
+    "base_price": 213.87,
+    "current_stock": 12,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 224.87,
+        "date": "2026-01-21T15:11:26.864449"
+      },
+      {
+        "price": 213.87,
+        "date": "2026-02-10T15:11:26.864449"
+      }
+    ],
+    "creation_date": "2026-01-21T15:11:26.864449"
+  },
+  {
+    "product_id": "prod_00053",
+    "name": "After Product",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_01",
+    "base_price": 77.68,
+    "current_stock": 141,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 95.68,
+        "date": "2026-01-28T17:41:40.669356"
+      },
+      {
+        "price": 77.68,
+        "date": "2026-02-17T17:41:40.669356"
+      }
+    ],
+    "creation_date": "2026-01-28T17:41:40.669356"
+  },
+  {
+    "product_id": "prod_00054",
+    "name": "Operation Product",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_01",
+    "base_price": 178.54,
+    "current_stock": 106,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 196.54,
+        "date": "2025-12-26T03:38:53.085197"
+      },
+      {
+        "price": 178.54,
+        "date": "2026-01-15T03:38:53.085197"
+      }
+    ],
+    "creation_date": "2025-12-26T03:38:53.085197"
+  },
+  {
+    "product_id": "prod_00055",
+    "name": "Along Product",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_01",
+    "base_price": 273.2,
+    "current_stock": 30,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 294.2,
+        "date": "2025-12-29T13:38:37.759813"
+      },
+      {
+        "price": 273.2,
+        "date": "2026-01-18T13:38:37.759813"
+      }
+    ],
+    "creation_date": "2025-12-29T13:38:37.759813"
+  },
+  {
+    "product_id": "prod_00056",
+    "name": "Very Product",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_01",
+    "base_price": 234.4,
+    "current_stock": 46,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 267.4,
+        "date": "2026-01-09T06:10:50.846274"
+      },
+      {
+        "price": 234.4,
+        "date": "2026-01-29T06:10:50.846274"
+      }
+    ],
+    "creation_date": "2026-01-09T06:10:50.846274"
+  },
+  {
+    "product_id": "prod_00057",
+    "name": "Site Product",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_01",
+    "base_price": 53.69,
+    "current_stock": 152,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 70.69,
+        "date": "2026-01-30T06:54:21.009211"
+      },
+      {
+        "price": 53.69,
+        "date": "2026-02-19T06:54:21.009211"
+      }
+    ],
+    "creation_date": "2026-01-30T06:54:21.009211"
+  },
+  {
+    "product_id": "prod_00058",
+    "name": "Visit Product",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_01",
+    "base_price": 219.62,
+    "current_stock": 99,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 253.62,
+        "date": "2025-12-14T10:31:04.251945"
+      },
+      {
+        "price": 219.62,
+        "date": "2026-01-03T10:31:04.251945"
+      }
+    ],
+    "creation_date": "2025-12-14T10:31:04.251945"
+  },
+  {
+    "product_id": "prod_00059",
+    "name": "Religious Product",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_01",
+    "base_price": 34.78,
+    "current_stock": 25,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 57.78,
+        "date": "2025-12-08T16:55:50.403139"
+      },
+      {
+        "price": 34.78,
+        "date": "2025-12-28T16:55:50.403139"
+      }
+    ],
+    "creation_date": "2025-12-08T16:55:50.403139"
+  },
+  {
+    "product_id": "prod_00060",
+    "name": "Tax Product",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_00",
+    "base_price": 105.06,
+    "current_stock": 36,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 118.06,
+        "date": "2026-03-05T08:12:53.802632"
+      },
+      {
+        "price": 105.06,
+        "date": "2026-03-25T08:12:53.802632"
+      }
+    ],
+    "creation_date": "2026-03-05T08:12:53.802632"
+  },
+  {
+    "product_id": "prod_00061",
+    "name": "Quite Product",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_02",
+    "base_price": 171.12,
+    "current_stock": 27,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 199.12,
+        "date": "2026-02-13T13:28:47.838215"
+      },
+      {
+        "price": 171.12,
+        "date": "2026-03-05T13:28:47.838215"
+      }
+    ],
+    "creation_date": "2026-02-13T13:28:47.838215"
+  },
+  {
+    "product_id": "prod_00062",
+    "name": "At Product",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_00",
+    "base_price": 208.3,
+    "current_stock": 9,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 222.3,
+        "date": "2026-01-28T12:25:26.754292"
+      },
+      {
+        "price": 208.3,
+        "date": "2026-02-17T12:25:26.754292"
+      }
+    ],
+    "creation_date": "2026-01-28T12:25:26.754292"
+  },
+  {
+    "product_id": "prod_00063",
+    "name": "Once Product",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_02",
+    "base_price": 295.46,
+    "current_stock": 4,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 303.46,
+        "date": "2025-12-31T23:44:55.993575"
+      },
+      {
+        "price": 295.46,
+        "date": "2026-01-20T23:44:55.993575"
+      }
+    ],
+    "creation_date": "2025-12-31T23:44:55.993575"
+  },
+  {
+    "product_id": "prod_00064",
+    "name": "When Product",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_01",
+    "base_price": 191.23,
+    "current_stock": 51,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 231.23,
+        "date": "2026-02-26T01:16:44.921627"
+      },
+      {
+        "price": 191.23,
+        "date": "2026-03-18T01:16:44.921627"
+      }
+    ],
+    "creation_date": "2026-02-26T01:16:44.921627"
+  },
+  {
+    "product_id": "prod_00065",
+    "name": "Agency Product",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_02",
+    "base_price": 255.22,
+    "current_stock": 175,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 281.22,
+        "date": "2026-01-31T19:22:07.685370"
+      },
+      {
+        "price": 255.22,
+        "date": "2026-02-20T19:22:07.685370"
+      }
+    ],
+    "creation_date": "2026-01-31T19:22:07.685370"
+  },
+  {
+    "product_id": "prod_00066",
+    "name": "Already Product",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_01",
+    "base_price": 142.51,
+    "current_stock": 114,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 160.51,
+        "date": "2026-02-22T17:02:59.102969"
+      },
+      {
+        "price": 142.51,
+        "date": "2026-03-14T17:02:59.102969"
+      }
+    ],
+    "creation_date": "2026-02-22T17:02:59.102969"
+  },
+  {
+    "product_id": "prod_00067",
+    "name": "Soon Product",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_00",
+    "base_price": 166.84,
+    "current_stock": 163,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 182.84,
+        "date": "2026-01-01T02:27:27.928112"
+      },
+      {
+        "price": 166.84,
+        "date": "2026-01-21T02:27:27.928112"
+      }
+    ],
+    "creation_date": "2026-01-01T02:27:27.928112"
+  },
+  {
+    "product_id": "prod_00068",
+    "name": "Resource Product",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_01",
+    "base_price": 30.14,
+    "current_stock": 119,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 41.14,
+        "date": "2026-01-14T08:39:14.229764"
+      },
+      {
+        "price": 30.14,
+        "date": "2026-02-03T08:39:14.229764"
+      }
+    ],
+    "creation_date": "2026-01-14T08:39:14.229764"
+  },
+  {
+    "product_id": "prod_00069",
+    "name": "List Product",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_02",
+    "base_price": 128.21,
+    "current_stock": 55,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 141.21,
+        "date": "2026-02-23T17:27:56.658617"
+      },
+      {
+        "price": 128.21,
+        "date": "2026-03-15T17:27:56.658617"
+      }
+    ],
+    "creation_date": "2026-02-23T17:27:56.658617"
+  },
+  {
+    "product_id": "prod_00070",
+    "name": "Since Product",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_02",
+    "base_price": 176.51,
+    "current_stock": 133,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 182.51,
+        "date": "2026-02-20T02:08:00.534775"
+      },
+      {
+        "price": 176.51,
+        "date": "2026-03-12T02:08:00.534775"
+      }
+    ],
+    "creation_date": "2026-02-20T02:08:00.534775"
+  },
+  {
+    "product_id": "prod_00071",
+    "name": "Also Product",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_00",
+    "base_price": 65.52,
+    "current_stock": 98,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 90.52,
+        "date": "2025-12-10T14:56:25.858807"
+      },
+      {
+        "price": 65.52,
+        "date": "2025-12-30T14:56:25.858807"
+      }
+    ],
+    "creation_date": "2025-12-10T14:56:25.858807"
+  },
+  {
+    "product_id": "prod_00072",
+    "name": "Reflect Product",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_00",
+    "base_price": 297.67,
+    "current_stock": 189,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 336.67,
+        "date": "2026-02-21T11:34:06.004031"
+      },
+      {
+        "price": 297.67,
+        "date": "2026-03-13T11:34:06.004031"
+      }
+    ],
+    "creation_date": "2026-02-21T11:34:06.004031"
+  },
+  {
+    "product_id": "prod_00073",
+    "name": "Mrs Product",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_02",
+    "base_price": 248.88,
+    "current_stock": 138,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 275.88,
+        "date": "2025-12-10T11:35:54.273350"
+      },
+      {
+        "price": 248.88,
+        "date": "2025-12-30T11:35:54.273350"
+      }
+    ],
+    "creation_date": "2025-12-10T11:35:54.273350"
+  },
+  {
+    "product_id": "prod_00074",
+    "name": "City Product",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_01",
+    "base_price": 92.63,
+    "current_stock": 105,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 124.63,
+        "date": "2026-02-04T12:14:44.171635"
+      },
+      {
+        "price": 92.63,
+        "date": "2026-02-24T12:14:44.171635"
+      }
+    ],
+    "creation_date": "2026-02-04T12:14:44.171635"
+  },
+  {
+    "product_id": "prod_00075",
+    "name": "Recognize Product",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_02",
+    "base_price": 202.38,
+    "current_stock": 59,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 209.38,
+        "date": "2025-12-18T06:58:23.822560"
+      },
+      {
+        "price": 202.38,
+        "date": "2026-01-07T06:58:23.822560"
+      }
+    ],
+    "creation_date": "2025-12-18T06:58:23.822560"
+  },
+  {
+    "product_id": "prod_00076",
+    "name": "Statement Product",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_00",
+    "base_price": 122.69,
+    "current_stock": 128,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 127.69,
+        "date": "2026-01-01T06:50:16.282134"
+      },
+      {
+        "price": 122.69,
+        "date": "2026-01-21T06:50:16.282134"
+      }
+    ],
+    "creation_date": "2026-01-01T06:50:16.282134"
+  },
+  {
+    "product_id": "prod_00077",
+    "name": "Article Product",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_00",
+    "base_price": 155.03,
+    "current_stock": 106,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 194.03,
+        "date": "2026-02-25T15:55:23.477898"
+      },
+      {
+        "price": 155.03,
+        "date": "2026-03-17T15:55:23.477898"
+      }
+    ],
+    "creation_date": "2026-02-25T15:55:23.477898"
+  },
+  {
+    "product_id": "prod_00078",
+    "name": "Inside Product",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_01",
+    "base_price": 206.25,
+    "current_stock": 92,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 225.25,
+        "date": "2026-01-29T07:08:00.505556"
+      },
+      {
+        "price": 206.25,
+        "date": "2026-02-18T07:08:00.505556"
+      }
+    ],
+    "creation_date": "2026-01-29T07:08:00.505556"
+  },
+  {
+    "product_id": "prod_00079",
+    "name": "Election Product",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_01",
+    "base_price": 85.37,
+    "current_stock": 103,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 120.37,
+        "date": "2025-12-18T08:03:39.124284"
+      },
+      {
+        "price": 85.37,
+        "date": "2026-01-07T08:03:39.124284"
+      }
+    ],
+    "creation_date": "2025-12-18T08:03:39.124284"
+  },
+  {
+    "product_id": "prod_00080",
+    "name": "Continue Product",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_02",
+    "base_price": 67.57,
+    "current_stock": 71,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 103.57,
+        "date": "2026-02-02T15:58:39.820780"
+      },
+      {
+        "price": 67.57,
+        "date": "2026-02-22T15:58:39.820780"
+      }
+    ],
+    "creation_date": "2026-02-02T15:58:39.820780"
+  },
+  {
+    "product_id": "prod_00081",
+    "name": "Begin Product",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_00",
+    "base_price": 258.01,
+    "current_stock": 14,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 285.01,
+        "date": "2026-01-31T15:41:55.335178"
+      },
+      {
+        "price": 258.01,
+        "date": "2026-02-20T15:41:55.335178"
+      }
+    ],
+    "creation_date": "2026-01-31T15:41:55.335178"
+  },
+  {
+    "product_id": "prod_00082",
+    "name": "Road Product",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_02",
+    "base_price": 68.4,
+    "current_stock": 56,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 91.4,
+        "date": "2026-03-04T16:01:28.348200"
+      },
+      {
+        "price": 68.4,
+        "date": "2026-03-24T16:01:28.348200"
+      }
+    ],
+    "creation_date": "2026-03-04T16:01:28.348200"
+  },
+  {
+    "product_id": "prod_00083",
+    "name": "Data Product",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_01",
+    "base_price": 245.66,
+    "current_stock": 67,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 266.65999999999997,
+        "date": "2026-01-05T01:25:04.782680"
+      },
+      {
+        "price": 245.66,
+        "date": "2026-01-25T01:25:04.782680"
+      }
+    ],
+    "creation_date": "2026-01-05T01:25:04.782680"
+  },
+  {
+    "product_id": "prod_00084",
+    "name": "Matter Product",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_00",
+    "base_price": 250.74,
+    "current_stock": 122,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 258.74,
+        "date": "2026-02-06T00:42:56.697147"
+      },
+      {
+        "price": 250.74,
+        "date": "2026-02-26T00:42:56.697147"
+      }
+    ],
+    "creation_date": "2026-02-06T00:42:56.697147"
+  },
+  {
+    "product_id": "prod_00085",
+    "name": "Look Product",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_01",
+    "base_price": 223.34,
+    "current_stock": 113,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 243.34,
+        "date": "2025-12-24T23:57:32.414936"
+      },
+      {
+        "price": 223.34,
+        "date": "2026-01-13T23:57:32.414936"
+      }
+    ],
+    "creation_date": "2025-12-24T23:57:32.414936"
+  },
+  {
+    "product_id": "prod_00086",
+    "name": "Degree Product",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_02",
+    "base_price": 233.31,
+    "current_stock": 127,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 256.31,
+        "date": "2026-02-24T06:54:47.249600"
+      },
+      {
+        "price": 233.31,
+        "date": "2026-03-16T06:54:47.249600"
+      }
+    ],
+    "creation_date": "2026-02-24T06:54:47.249600"
+  },
+  {
+    "product_id": "prod_00087",
+    "name": "Science Product",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_02",
+    "base_price": 163.53,
+    "current_stock": 12,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 182.53,
+        "date": "2026-01-05T17:46:59.630459"
+      },
+      {
+        "price": 163.53,
+        "date": "2026-01-25T17:46:59.630459"
+      }
+    ],
+    "creation_date": "2026-01-05T17:46:59.630459"
+  },
+  {
+    "product_id": "prod_00088",
+    "name": "Price Product",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_01",
+    "base_price": 48.76,
+    "current_stock": 182,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 78.75999999999999,
+        "date": "2026-02-21T07:00:02.538939"
+      },
+      {
+        "price": 48.76,
+        "date": "2026-03-13T07:00:02.538939"
+      }
+    ],
+    "creation_date": "2026-02-21T07:00:02.538939"
+  },
+  {
+    "product_id": "prod_00089",
+    "name": "Evening Product",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_01",
+    "base_price": 73.41,
+    "current_stock": 61,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 97.41,
+        "date": "2026-01-13T05:53:32.358642"
+      },
+      {
+        "price": 73.41,
+        "date": "2026-02-02T05:53:32.358642"
+      }
+    ],
+    "creation_date": "2026-01-13T05:53:32.358642"
+  },
+  {
+    "product_id": "prod_00090",
+    "name": "Idea Product",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_02",
+    "base_price": 261.25,
+    "current_stock": 130,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 266.25,
+        "date": "2026-01-28T00:55:49.554039"
+      },
+      {
+        "price": 261.25,
+        "date": "2026-02-17T00:55:49.554039"
+      }
+    ],
+    "creation_date": "2026-01-28T00:55:49.554039"
+  },
+  {
+    "product_id": "prod_00091",
+    "name": "Spring Product",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_00",
+    "base_price": 202.87,
+    "current_stock": 43,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 208.87,
+        "date": "2025-12-10T16:27:53.533139"
+      },
+      {
+        "price": 202.87,
+        "date": "2025-12-30T16:27:53.533139"
+      }
+    ],
+    "creation_date": "2025-12-10T16:27:53.533139"
+  },
+  {
+    "product_id": "prod_00092",
+    "name": "Moment Product",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_00",
+    "base_price": 253.85,
+    "current_stock": 176,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 280.85,
+        "date": "2026-01-11T08:57:11.017192"
+      },
+      {
+        "price": 253.85,
+        "date": "2026-01-31T08:57:11.017192"
+      }
+    ],
+    "creation_date": "2026-01-11T08:57:11.017192"
+  },
+  {
+    "product_id": "prod_00093",
+    "name": "Financial Product",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_01",
+    "base_price": 23.01,
+    "current_stock": 197,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 35.010000000000005,
+        "date": "2026-03-03T05:34:56.915071"
+      },
+      {
+        "price": 23.01,
+        "date": "2026-03-23T05:34:56.915071"
+      }
+    ],
+    "creation_date": "2026-03-03T05:34:56.915071"
+  },
+  {
+    "product_id": "prod_00094",
+    "name": "Customer Product",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_01",
+    "base_price": 133.1,
+    "current_stock": 105,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 144.1,
+        "date": "2025-12-18T18:47:52.260272"
+      },
+      {
+        "price": 133.1,
+        "date": "2026-01-07T18:47:52.260272"
+      }
+    ],
+    "creation_date": "2025-12-18T18:47:52.260272"
+  },
+  {
+    "product_id": "prod_00095",
+    "name": "Provide Product",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_02",
+    "base_price": 129.78,
+    "current_stock": 162,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 142.78,
+        "date": "2025-12-24T14:50:26.110219"
+      },
+      {
+        "price": 129.78,
+        "date": "2026-01-13T14:50:26.110219"
+      }
+    ],
+    "creation_date": "2025-12-24T14:50:26.110219"
+  },
+  {
+    "product_id": "prod_00096",
+    "name": "Put Product",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_00",
+    "base_price": 124.92,
+    "current_stock": 176,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 146.92000000000002,
+        "date": "2026-03-03T08:34:09.808919"
+      },
+      {
+        "price": 124.92,
+        "date": "2026-03-23T08:34:09.808919"
+      }
+    ],
+    "creation_date": "2026-03-03T08:34:09.808919"
+  },
+  {
+    "product_id": "prod_00097",
+    "name": "Election Product",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_02",
+    "base_price": 7.61,
+    "current_stock": 200,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 33.61,
+        "date": "2026-02-07T11:09:09.009427"
+      },
+      {
+        "price": 7.61,
+        "date": "2026-02-27T11:09:09.009427"
+      }
+    ],
+    "creation_date": "2026-02-07T11:09:09.009427"
+  },
+  {
+    "product_id": "prod_00098",
+    "name": "On Product",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_01",
+    "base_price": 65.65,
+    "current_stock": 93,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 82.65,
+        "date": "2025-12-10T11:08:04.561554"
+      },
+      {
+        "price": 65.65,
+        "date": "2025-12-30T11:08:04.561554"
+      }
+    ],
+    "creation_date": "2025-12-10T11:08:04.561554"
+  },
+  {
+    "product_id": "prod_00099",
+    "name": "Evidence Product",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_00",
+    "base_price": 17.86,
+    "current_stock": 88,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 48.86,
+        "date": "2026-01-04T11:40:45.840465"
+      },
+      {
+        "price": 17.86,
+        "date": "2026-01-24T11:40:45.840465"
+      }
+    ],
+    "creation_date": "2026-01-04T11:40:45.840465"
+  },
+  {
+    "product_id": "prod_00100",
+    "name": "Traditional Product",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_02",
+    "base_price": 296.0,
+    "current_stock": 166,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 316.0,
+        "date": "2025-12-08T19:12:42.954948"
+      },
+      {
+        "price": 296.0,
+        "date": "2025-12-28T19:12:42.954948"
+      }
+    ],
+    "creation_date": "2025-12-08T19:12:42.954948"
+  },
+  {
+    "product_id": "prod_00101",
+    "name": "Direction Product",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_00",
+    "base_price": 60.11,
+    "current_stock": 66,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 75.11,
+        "date": "2026-01-18T03:31:02.898746"
+      },
+      {
+        "price": 60.11,
+        "date": "2026-02-07T03:31:02.898746"
+      }
+    ],
+    "creation_date": "2026-01-18T03:31:02.898746"
+  },
+  {
+    "product_id": "prod_00102",
+    "name": "Leg Product",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_02",
+    "base_price": 114.03,
+    "current_stock": 143,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 135.03,
+        "date": "2026-01-18T15:39:46.254472"
+      },
+      {
+        "price": 114.03,
+        "date": "2026-02-07T15:39:46.254472"
+      }
+    ],
+    "creation_date": "2026-01-18T15:39:46.254472"
+  },
+  {
+    "product_id": "prod_00103",
+    "name": "Race Product",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_00",
+    "base_price": 104.69,
+    "current_stock": 151,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 131.69,
+        "date": "2026-01-14T16:57:31.512169"
+      },
+      {
+        "price": 104.69,
+        "date": "2026-02-03T16:57:31.512169"
+      }
+    ],
+    "creation_date": "2026-01-14T16:57:31.512169"
+  },
+  {
+    "product_id": "prod_00104",
+    "name": "Left Product",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_02",
+    "base_price": 195.8,
+    "current_stock": 55,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 204.8,
+        "date": "2025-12-11T01:25:16.982622"
+      },
+      {
+        "price": 195.8,
+        "date": "2025-12-31T01:25:16.982622"
+      }
+    ],
+    "creation_date": "2025-12-11T01:25:16.982622"
+  },
+  {
+    "product_id": "prod_00105",
+    "name": "Consumer Product",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_01",
+    "base_price": 46.61,
+    "current_stock": 188,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 54.61,
+        "date": "2025-12-08T13:50:44.516591"
+      },
+      {
+        "price": 46.61,
+        "date": "2025-12-28T13:50:44.516591"
+      }
+    ],
+    "creation_date": "2025-12-08T13:50:44.516591"
+  },
+  {
+    "product_id": "prod_00106",
+    "name": "Land Product",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_02",
+    "base_price": 97.09,
+    "current_stock": 140,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 107.09,
+        "date": "2026-02-23T08:20:05.681865"
+      },
+      {
+        "price": 97.09,
+        "date": "2026-03-15T08:20:05.681865"
+      }
+    ],
+    "creation_date": "2026-02-23T08:20:05.681865"
+  },
+  {
+    "product_id": "prod_00107",
+    "name": "Fill Product",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_02",
+    "base_price": 110.48,
+    "current_stock": 165,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 133.48000000000002,
+        "date": "2026-01-31T23:03:04.155764"
+      },
+      {
+        "price": 110.48,
+        "date": "2026-02-20T23:03:04.155764"
+      }
+    ],
+    "creation_date": "2026-01-31T23:03:04.155764"
+  },
+  {
+    "product_id": "prod_00108",
+    "name": "Finish Product",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_01",
+    "base_price": 15.37,
+    "current_stock": 171,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 20.369999999999997,
+        "date": "2026-01-29T05:23:54.289986"
+      },
+      {
+        "price": 15.37,
+        "date": "2026-02-18T05:23:54.289986"
+      }
+    ],
+    "creation_date": "2026-01-29T05:23:54.289986"
+  },
+  {
+    "product_id": "prod_00109",
+    "name": "Opportunity Product",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_01",
+    "base_price": 33.47,
+    "current_stock": 193,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 42.47,
+        "date": "2026-02-19T00:23:26.524516"
+      },
+      {
+        "price": 33.47,
+        "date": "2026-03-11T00:23:26.524516"
+      }
+    ],
+    "creation_date": "2026-02-19T00:23:26.524516"
+  },
+  {
+    "product_id": "prod_00110",
+    "name": "Stand Product",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_00",
+    "base_price": 280.91,
+    "current_stock": 79,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 309.91,
+        "date": "2026-02-08T00:19:34.125184"
+      },
+      {
+        "price": 280.91,
+        "date": "2026-02-28T00:19:34.125184"
+      }
+    ],
+    "creation_date": "2026-02-08T00:19:34.125184"
+  },
+  {
+    "product_id": "prod_00111",
+    "name": "Sport Product",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_01",
+    "base_price": 196.63,
+    "current_stock": 25,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 227.63,
+        "date": "2026-02-17T05:37:36.810006"
+      },
+      {
+        "price": 196.63,
+        "date": "2026-03-09T05:37:36.810006"
+      }
+    ],
+    "creation_date": "2026-02-17T05:37:36.810006"
+  },
+  {
+    "product_id": "prod_00112",
+    "name": "Agreement Product",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_01",
+    "base_price": 292.66,
+    "current_stock": 37,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 309.66,
+        "date": "2026-01-20T20:47:20.218581"
+      },
+      {
+        "price": 292.66,
+        "date": "2026-02-09T20:47:20.218581"
+      }
+    ],
+    "creation_date": "2026-01-20T20:47:20.218581"
+  },
+  {
+    "product_id": "prod_00113",
+    "name": "Particular Product",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_02",
+    "base_price": 298.93,
+    "current_stock": 185,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 320.93,
+        "date": "2025-12-09T00:06:16.448687"
+      },
+      {
+        "price": 298.93,
+        "date": "2025-12-29T00:06:16.448687"
+      }
+    ],
+    "creation_date": "2025-12-09T00:06:16.448687"
+  },
+  {
+    "product_id": "prod_00114",
+    "name": "Himself Product",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_02",
+    "base_price": 173.04,
+    "current_stock": 56,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 195.04,
+        "date": "2026-01-11T00:17:37.754469"
+      },
+      {
+        "price": 173.04,
+        "date": "2026-01-31T00:17:37.754469"
+      }
+    ],
+    "creation_date": "2026-01-11T00:17:37.754469"
+  },
+  {
+    "product_id": "prod_00115",
+    "name": "Word Product",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_02",
+    "base_price": 146.48,
+    "current_stock": 110,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 183.48,
+        "date": "2026-03-01T10:04:16.570064"
+      },
+      {
+        "price": 146.48,
+        "date": "2026-03-21T10:04:16.570064"
+      }
+    ],
+    "creation_date": "2026-03-01T10:04:16.570064"
+  },
+  {
+    "product_id": "prod_00116",
+    "name": "Myself Product",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_00",
+    "base_price": 204.82,
+    "current_stock": 23,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 223.82,
+        "date": "2025-12-28T04:24:14.455856"
+      },
+      {
+        "price": 204.82,
+        "date": "2026-01-17T04:24:14.455856"
+      }
+    ],
+    "creation_date": "2025-12-28T04:24:14.455856"
+  },
+  {
+    "product_id": "prod_00117",
+    "name": "Be Product",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_00",
+    "base_price": 265.22,
+    "current_stock": 167,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 298.22,
+        "date": "2026-02-24T15:52:48.072564"
+      },
+      {
+        "price": 265.22,
+        "date": "2026-03-16T15:52:48.072564"
+      }
+    ],
+    "creation_date": "2026-02-24T15:52:48.072564"
+  },
+  {
+    "product_id": "prod_00118",
+    "name": "Include Product",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_02",
+    "base_price": 234.76,
+    "current_stock": 146,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 250.76,
+        "date": "2026-02-23T23:48:28.885324"
+      },
+      {
+        "price": 234.76,
+        "date": "2026-03-15T23:48:28.885324"
+      }
+    ],
+    "creation_date": "2026-02-23T23:48:28.885324"
+  },
+  {
+    "product_id": "prod_00119",
+    "name": "Method Product",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_00",
+    "base_price": 16.34,
+    "current_stock": 29,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 52.34,
+        "date": "2026-02-07T10:13:39.709584"
+      },
+      {
+        "price": 16.34,
+        "date": "2026-02-27T10:13:39.709584"
+      }
+    ],
+    "creation_date": "2026-02-07T10:13:39.709584"
+  },
+  {
+    "product_id": "prod_00120",
+    "name": "Turn Product",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_00",
+    "base_price": 290.19,
+    "current_stock": 34,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 297.19,
+        "date": "2026-02-07T11:58:55.730724"
+      },
+      {
+        "price": 290.19,
+        "date": "2026-02-27T11:58:55.730724"
+      }
+    ],
+    "creation_date": "2026-02-07T11:58:55.730724"
+  },
+  {
+    "product_id": "prod_00121",
+    "name": "Rich Product",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_01",
+    "base_price": 215.08,
+    "current_stock": 142,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 225.08,
+        "date": "2026-02-13T22:30:01.111549"
+      },
+      {
+        "price": 215.08,
+        "date": "2026-03-05T22:30:01.111549"
+      }
+    ],
+    "creation_date": "2026-02-13T22:30:01.111549"
+  },
+  {
+    "product_id": "prod_00122",
+    "name": "However Product",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_02",
+    "base_price": 107.14,
+    "current_stock": 136,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 113.14,
+        "date": "2025-12-10T07:00:15.218046"
+      },
+      {
+        "price": 107.14,
+        "date": "2025-12-30T07:00:15.218046"
+      }
+    ],
+    "creation_date": "2025-12-10T07:00:15.218046"
+  },
+  {
+    "product_id": "prod_00123",
+    "name": "American Product",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_00",
+    "base_price": 291.05,
+    "current_stock": 183,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 297.05,
+        "date": "2026-02-27T05:18:45.388039"
+      },
+      {
+        "price": 291.05,
+        "date": "2026-03-19T05:18:45.388039"
+      }
+    ],
+    "creation_date": "2026-02-27T05:18:45.388039"
+  },
+  {
+    "product_id": "prod_00124",
+    "name": "Identify Product",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_02",
+    "base_price": 268.09,
+    "current_stock": 68,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 308.09,
+        "date": "2026-02-18T06:24:59.426740"
+      },
+      {
+        "price": 268.09,
+        "date": "2026-03-10T06:24:59.426740"
+      }
+    ],
+    "creation_date": "2026-02-18T06:24:59.426740"
+  },
+  {
+    "product_id": "prod_00125",
+    "name": "Thing Product",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_01",
+    "base_price": 256.03,
+    "current_stock": 152,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 281.03,
+        "date": "2026-01-26T12:53:46.714468"
+      },
+      {
+        "price": 256.03,
+        "date": "2026-02-15T12:53:46.714468"
+      }
+    ],
+    "creation_date": "2026-01-26T12:53:46.714468"
+  },
+  {
+    "product_id": "prod_00126",
+    "name": "Animal Product",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_00",
+    "base_price": 163.86,
+    "current_stock": 156,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 186.86,
+        "date": "2026-01-11T13:44:39.075730"
+      },
+      {
+        "price": 163.86,
+        "date": "2026-01-31T13:44:39.075730"
+      }
+    ],
+    "creation_date": "2026-01-11T13:44:39.075730"
+  },
+  {
+    "product_id": "prod_00127",
+    "name": "Manage Product",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_00",
+    "base_price": 98.07,
+    "current_stock": 157,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 103.07,
+        "date": "2026-02-26T12:22:33.858788"
+      },
+      {
+        "price": 98.07,
+        "date": "2026-03-18T12:22:33.858788"
+      }
+    ],
+    "creation_date": "2026-02-26T12:22:33.858788"
+  },
+  {
+    "product_id": "prod_00128",
+    "name": "Sense Product",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_00",
+    "base_price": 14.57,
+    "current_stock": 185,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 24.57,
+        "date": "2025-12-27T23:01:03.521429"
+      },
+      {
+        "price": 14.57,
+        "date": "2026-01-16T23:01:03.521429"
+      }
+    ],
+    "creation_date": "2025-12-27T23:01:03.521429"
+  },
+  {
+    "product_id": "prod_00129",
+    "name": "Your Product",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_02",
+    "base_price": 171.01,
+    "current_stock": 175,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 182.01,
+        "date": "2025-12-17T15:48:50.326066"
+      },
+      {
+        "price": 171.01,
+        "date": "2026-01-06T15:48:50.326066"
+      }
+    ],
+    "creation_date": "2025-12-17T15:48:50.326066"
+  },
+  {
+    "product_id": "prod_00130",
+    "name": "Because Product",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_01",
+    "base_price": 36.75,
+    "current_stock": 56,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 65.75,
+        "date": "2026-02-25T22:33:02.402884"
+      },
+      {
+        "price": 36.75,
+        "date": "2026-03-17T22:33:02.402884"
+      }
+    ],
+    "creation_date": "2026-02-25T22:33:02.402884"
+  },
+  {
+    "product_id": "prod_00131",
+    "name": "Series Product",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_00",
+    "base_price": 168.54,
+    "current_stock": 8,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 200.54,
+        "date": "2025-12-15T20:47:01.198033"
+      },
+      {
+        "price": 168.54,
+        "date": "2026-01-04T20:47:01.198033"
+      }
+    ],
+    "creation_date": "2025-12-15T20:47:01.198033"
+  },
+  {
+    "product_id": "prod_00132",
+    "name": "Significant Product",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_02",
+    "base_price": 266.31,
+    "current_stock": 195,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 284.31,
+        "date": "2026-01-23T23:34:23.297236"
+      },
+      {
+        "price": 266.31,
+        "date": "2026-02-12T23:34:23.297236"
+      }
+    ],
+    "creation_date": "2026-01-23T23:34:23.297236"
+  },
+  {
+    "product_id": "prod_00133",
+    "name": "Future Product",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_02",
+    "base_price": 127.03,
+    "current_stock": 119,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 155.03,
+        "date": "2026-02-21T00:46:55.360243"
+      },
+      {
+        "price": 127.03,
+        "date": "2026-03-13T00:46:55.360243"
+      }
+    ],
+    "creation_date": "2026-02-21T00:46:55.360243"
+  },
+  {
+    "product_id": "prod_00134",
+    "name": "Plan Product",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_02",
+    "base_price": 184.87,
+    "current_stock": 49,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 205.87,
+        "date": "2026-03-07T07:30:32.268920"
+      },
+      {
+        "price": 184.87,
+        "date": "2026-03-27T07:30:32.268920"
+      }
+    ],
+    "creation_date": "2026-03-07T07:30:32.268920"
+  },
+  {
+    "product_id": "prod_00135",
+    "name": "Experience Product",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_02",
+    "base_price": 68.52,
+    "current_stock": 173,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 82.52,
+        "date": "2026-03-01T20:29:29.585712"
+      },
+      {
+        "price": 68.52,
+        "date": "2026-03-21T20:29:29.585712"
+      }
+    ],
+    "creation_date": "2026-03-01T20:29:29.585712"
+  },
+  {
+    "product_id": "prod_00136",
+    "name": "Put Product",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_02",
+    "base_price": 196.19,
+    "current_stock": 95,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 220.19,
+        "date": "2026-02-21T04:52:50.456129"
+      },
+      {
+        "price": 196.19,
+        "date": "2026-03-13T04:52:50.456129"
+      }
+    ],
+    "creation_date": "2026-02-21T04:52:50.456129"
+  },
+  {
+    "product_id": "prod_00137",
+    "name": "Strategy Product",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_02",
+    "base_price": 8.95,
+    "current_stock": 84,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 27.95,
+        "date": "2026-02-23T15:02:26.924165"
+      },
+      {
+        "price": 8.95,
+        "date": "2026-03-15T15:02:26.924165"
+      }
+    ],
+    "creation_date": "2026-02-23T15:02:26.924165"
+  },
+  {
+    "product_id": "prod_00138",
+    "name": "Force Product",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_01",
+    "base_price": 225.25,
+    "current_stock": 181,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 249.25,
+        "date": "2026-02-02T14:51:10.471685"
+      },
+      {
+        "price": 225.25,
+        "date": "2026-02-22T14:51:10.471685"
+      }
+    ],
+    "creation_date": "2026-02-02T14:51:10.471685"
+  },
+  {
+    "product_id": "prod_00139",
+    "name": "Trade Product",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_02",
+    "base_price": 22.65,
+    "current_stock": 91,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 60.65,
+        "date": "2025-12-25T03:35:37.453981"
+      },
+      {
+        "price": 22.65,
+        "date": "2026-01-14T03:35:37.453981"
+      }
+    ],
+    "creation_date": "2025-12-25T03:35:37.453981"
+  },
+  {
+    "product_id": "prod_00140",
+    "name": "Task Product",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_01",
+    "base_price": 190.58,
+    "current_stock": 153,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 210.58,
+        "date": "2026-01-05T00:18:00.836480"
+      },
+      {
+        "price": 190.58,
+        "date": "2026-01-25T00:18:00.836480"
+      }
+    ],
+    "creation_date": "2026-01-05T00:18:00.836480"
+  },
+  {
+    "product_id": "prod_00141",
+    "name": "Scientist Product",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_01",
+    "base_price": 275.89,
+    "current_stock": 67,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 310.89,
+        "date": "2026-02-17T13:28:37.875062"
+      },
+      {
+        "price": 275.89,
+        "date": "2026-03-09T13:28:37.875062"
+      }
+    ],
+    "creation_date": "2026-02-17T13:28:37.875062"
+  },
+  {
+    "product_id": "prod_00142",
+    "name": "Citizen Product",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_00",
+    "base_price": 153.9,
+    "current_stock": 118,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 192.9,
+        "date": "2025-12-13T06:08:25.267809"
+      },
+      {
+        "price": 153.9,
+        "date": "2026-01-02T06:08:25.267809"
+      }
+    ],
+    "creation_date": "2025-12-13T06:08:25.267809"
+  },
+  {
+    "product_id": "prod_00143",
+    "name": "Artist Product",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_01",
+    "base_price": 71.48,
+    "current_stock": 179,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 100.48,
+        "date": "2025-12-11T06:22:07.321675"
+      },
+      {
+        "price": 71.48,
+        "date": "2025-12-31T06:22:07.321675"
+      }
+    ],
+    "creation_date": "2025-12-11T06:22:07.321675"
+  },
+  {
+    "product_id": "prod_00144",
+    "name": "Somebody Product",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_00",
+    "base_price": 214.02,
+    "current_stock": 61,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 246.02,
+        "date": "2026-01-18T11:22:46.668507"
+      },
+      {
+        "price": 214.02,
+        "date": "2026-02-07T11:22:46.668507"
+      }
+    ],
+    "creation_date": "2026-01-18T11:22:46.668507"
+  },
+  {
+    "product_id": "prod_00145",
+    "name": "Policy Product",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_02",
+    "base_price": 16.21,
+    "current_stock": 125,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 40.21,
+        "date": "2026-02-04T01:19:19.861513"
+      },
+      {
+        "price": 16.21,
+        "date": "2026-02-24T01:19:19.861513"
+      }
+    ],
+    "creation_date": "2026-02-04T01:19:19.861513"
+  },
+  {
+    "product_id": "prod_00146",
+    "name": "Behind Product",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_01",
+    "base_price": 202.26,
+    "current_stock": 123,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 230.26,
+        "date": "2025-12-17T05:25:06.073903"
+      },
+      {
+        "price": 202.26,
+        "date": "2026-01-06T05:25:06.073903"
+      }
+    ],
+    "creation_date": "2025-12-17T05:25:06.073903"
+  },
+  {
+    "product_id": "prod_00147",
+    "name": "Around Product",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_02",
+    "base_price": 13.88,
+    "current_stock": 119,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 40.88,
+        "date": "2025-12-28T05:11:59.879956"
+      },
+      {
+        "price": 13.88,
+        "date": "2026-01-17T05:11:59.879956"
+      }
+    ],
+    "creation_date": "2025-12-28T05:11:59.879956"
+  },
+  {
+    "product_id": "prod_00148",
+    "name": "Culture Product",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_00",
+    "base_price": 286.06,
+    "current_stock": 94,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 298.06,
+        "date": "2026-01-21T00:43:56.879419"
+      },
+      {
+        "price": 286.06,
+        "date": "2026-02-10T00:43:56.879419"
+      }
+    ],
+    "creation_date": "2026-01-21T00:43:56.879419"
+  },
+  {
+    "product_id": "prod_00149",
+    "name": "Camera Product",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_02",
+    "base_price": 234.94,
+    "current_stock": 109,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 270.94,
+        "date": "2025-12-18T22:42:53.413190"
+      },
+      {
+        "price": 234.94,
+        "date": "2026-01-07T22:42:53.413190"
+      }
+    ],
+    "creation_date": "2025-12-18T22:42:53.413190"
+  },
+  {
+    "product_id": "prod_00150",
+    "name": "Their Product",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_02",
+    "base_price": 62.37,
+    "current_stock": 162,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 101.37,
+        "date": "2026-01-17T12:11:21.822411"
+      },
+      {
+        "price": 62.37,
+        "date": "2026-02-06T12:11:21.822411"
+      }
+    ],
+    "creation_date": "2026-01-17T12:11:21.822411"
+  },
+  {
+    "product_id": "prod_00151",
+    "name": "Trip Product",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_00",
+    "base_price": 283.98,
+    "current_stock": 93,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 304.98,
+        "date": "2026-02-25T15:31:54.464170"
+      },
+      {
+        "price": 283.98,
+        "date": "2026-03-17T15:31:54.464170"
+      }
+    ],
+    "creation_date": "2026-02-25T15:31:54.464170"
+  },
+  {
+    "product_id": "prod_00152",
+    "name": "House Product",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_00",
+    "base_price": 191.84,
+    "current_stock": 73,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 216.84,
+        "date": "2026-02-03T14:37:26.285375"
+      },
+      {
+        "price": 191.84,
+        "date": "2026-02-23T14:37:26.285375"
+      }
+    ],
+    "creation_date": "2026-02-03T14:37:26.285375"
+  },
+  {
+    "product_id": "prod_00153",
+    "name": "Late Product",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_01",
+    "base_price": 147.02,
+    "current_stock": 78,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 180.02,
+        "date": "2026-02-09T22:32:58.610898"
+      },
+      {
+        "price": 147.02,
+        "date": "2026-03-01T22:32:58.610898"
+      }
+    ],
+    "creation_date": "2026-02-09T22:32:58.610898"
+  },
+  {
+    "product_id": "prod_00154",
+    "name": "Only Product",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_00",
+    "base_price": 297.4,
+    "current_stock": 73,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 304.4,
+        "date": "2025-12-12T01:30:02.831791"
+      },
+      {
+        "price": 297.4,
+        "date": "2026-01-01T01:30:02.831791"
+      }
+    ],
+    "creation_date": "2025-12-12T01:30:02.831791"
+  },
+  {
+    "product_id": "prod_00155",
+    "name": "Pay Product",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_01",
+    "base_price": 280.84,
+    "current_stock": 33,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 285.84,
+        "date": "2026-01-11T14:00:44.617301"
+      },
+      {
+        "price": 280.84,
+        "date": "2026-01-31T14:00:44.617301"
+      }
+    ],
+    "creation_date": "2026-01-11T14:00:44.617301"
+  },
+  {
+    "product_id": "prod_00156",
+    "name": "Hundred Product",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_00",
+    "base_price": 273.43,
+    "current_stock": 174,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 290.43,
+        "date": "2025-12-08T13:34:51.529501"
+      },
+      {
+        "price": 273.43,
+        "date": "2025-12-28T13:34:51.529501"
+      }
+    ],
+    "creation_date": "2025-12-08T13:34:51.529501"
+  },
+  {
+    "product_id": "prod_00157",
+    "name": "Wide Product",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_02",
+    "base_price": 42.6,
+    "current_stock": 124,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 48.6,
+        "date": "2025-12-22T12:42:48.556318"
+      },
+      {
+        "price": 42.6,
+        "date": "2026-01-11T12:42:48.556318"
+      }
+    ],
+    "creation_date": "2025-12-22T12:42:48.556318"
+  },
+  {
+    "product_id": "prod_00158",
+    "name": "Page Product",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_01",
+    "base_price": 97.95,
+    "current_stock": 73,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 137.95,
+        "date": "2026-01-28T10:46:27.991072"
+      },
+      {
+        "price": 97.95,
+        "date": "2026-02-17T10:46:27.991072"
+      }
+    ],
+    "creation_date": "2026-01-28T10:46:27.991072"
+  },
+  {
+    "product_id": "prod_00159",
+    "name": "Color Product",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_00",
+    "base_price": 108.0,
+    "current_stock": 80,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 114.0,
+        "date": "2025-12-20T23:44:05.309272"
+      },
+      {
+        "price": 108.0,
+        "date": "2026-01-09T23:44:05.309272"
+      }
+    ],
+    "creation_date": "2025-12-20T23:44:05.309272"
+  },
+  {
+    "product_id": "prod_00160",
+    "name": "Ago Product",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_00",
+    "base_price": 253.78,
+    "current_stock": 51,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 261.78,
+        "date": "2026-02-28T05:28:20.198263"
+      },
+      {
+        "price": 253.78,
+        "date": "2026-03-20T05:28:20.198263"
+      }
+    ],
+    "creation_date": "2026-02-28T05:28:20.198263"
+  },
+  {
+    "product_id": "prod_00161",
+    "name": "Prevent Product",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_00",
+    "base_price": 259.44,
+    "current_stock": 37,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 291.44,
+        "date": "2026-01-20T18:50:03.523050"
+      },
+      {
+        "price": 259.44,
+        "date": "2026-02-09T18:50:03.523050"
+      }
+    ],
+    "creation_date": "2026-01-20T18:50:03.523050"
+  },
+  {
+    "product_id": "prod_00162",
+    "name": "Certain Product",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_00",
+    "base_price": 16.48,
+    "current_stock": 72,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 27.48,
+        "date": "2026-02-23T12:56:08.472982"
+      },
+      {
+        "price": 16.48,
+        "date": "2026-03-15T12:56:08.472982"
+      }
+    ],
+    "creation_date": "2026-02-23T12:56:08.472982"
+  },
+  {
+    "product_id": "prod_00163",
+    "name": "Might Product",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_00",
+    "base_price": 265.63,
+    "current_stock": 98,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 292.63,
+        "date": "2026-01-04T20:57:16.350870"
+      },
+      {
+        "price": 265.63,
+        "date": "2026-01-24T20:57:16.350870"
+      }
+    ],
+    "creation_date": "2026-01-04T20:57:16.350870"
+  },
+  {
+    "product_id": "prod_00164",
+    "name": "Resource Product",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_01",
+    "base_price": 15.62,
+    "current_stock": 164,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 34.62,
+        "date": "2026-01-27T03:43:56.656592"
+      },
+      {
+        "price": 15.62,
+        "date": "2026-02-16T03:43:56.656592"
+      }
+    ],
+    "creation_date": "2026-01-27T03:43:56.656592"
+  },
+  {
+    "product_id": "prod_00165",
+    "name": "Appear Product",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_01",
+    "base_price": 44.94,
+    "current_stock": 150,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 69.94,
+        "date": "2025-12-22T21:10:51.938329"
+      },
+      {
+        "price": 44.94,
+        "date": "2026-01-11T21:10:51.938329"
+      }
+    ],
+    "creation_date": "2025-12-22T21:10:51.938329"
+  },
+  {
+    "product_id": "prod_00166",
+    "name": "Save Product",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_00",
+    "base_price": 237.94,
+    "current_stock": 8,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 253.94,
+        "date": "2026-02-23T05:11:08.911916"
+      },
+      {
+        "price": 237.94,
+        "date": "2026-03-15T05:11:08.911916"
+      }
+    ],
+    "creation_date": "2026-02-23T05:11:08.911916"
+  },
+  {
+    "product_id": "prod_00167",
+    "name": "Official Product",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_02",
+    "base_price": 42.73,
+    "current_stock": 188,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 75.72999999999999,
+        "date": "2026-02-27T17:53:03.728215"
+      },
+      {
+        "price": 42.73,
+        "date": "2026-03-19T17:53:03.728215"
+      }
+    ],
+    "creation_date": "2026-02-27T17:53:03.728215"
+  },
+  {
+    "product_id": "prod_00168",
+    "name": "Three Product",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_02",
+    "base_price": 93.59,
+    "current_stock": 149,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 102.59,
+        "date": "2026-02-12T02:32:44.314519"
+      },
+      {
+        "price": 93.59,
+        "date": "2026-03-04T02:32:44.314519"
+      }
+    ],
+    "creation_date": "2026-02-12T02:32:44.314519"
+  },
+  {
+    "product_id": "prod_00169",
+    "name": "Approach Product",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_00",
+    "base_price": 140.36,
+    "current_stock": 162,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 180.36,
+        "date": "2026-01-10T03:03:00.555633"
+      },
+      {
+        "price": 140.36,
+        "date": "2026-01-30T03:03:00.555633"
+      }
+    ],
+    "creation_date": "2026-01-10T03:03:00.555633"
+  },
+  {
+    "product_id": "prod_00170",
+    "name": "Value Product",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_02",
+    "base_price": 139.75,
+    "current_stock": 114,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 144.75,
+        "date": "2026-02-10T13:12:22.314505"
+      },
+      {
+        "price": 139.75,
+        "date": "2026-03-02T13:12:22.314505"
+      }
+    ],
+    "creation_date": "2026-02-10T13:12:22.314505"
+  },
+  {
+    "product_id": "prod_00171",
+    "name": "Available Product",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_01",
+    "base_price": 70.68,
+    "current_stock": 22,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 96.68,
+        "date": "2026-01-15T21:47:06.684948"
+      },
+      {
+        "price": 70.68,
+        "date": "2026-02-04T21:47:06.684948"
+      }
+    ],
+    "creation_date": "2026-01-15T21:47:06.684948"
+  },
+  {
+    "product_id": "prod_00172",
+    "name": "Break Product",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_01",
+    "base_price": 249.74,
+    "current_stock": 103,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 255.74,
+        "date": "2025-12-30T01:44:46.995822"
+      },
+      {
+        "price": 249.74,
+        "date": "2026-01-19T01:44:46.995822"
+      }
+    ],
+    "creation_date": "2025-12-30T01:44:46.995822"
+  },
+  {
+    "product_id": "prod_00173",
+    "name": "Think Product",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_01",
+    "base_price": 123.81,
+    "current_stock": 149,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 156.81,
+        "date": "2026-02-25T08:32:01.235156"
+      },
+      {
+        "price": 123.81,
+        "date": "2026-03-17T08:32:01.235156"
+      }
+    ],
+    "creation_date": "2026-02-25T08:32:01.235156"
+  },
+  {
+    "product_id": "prod_00174",
+    "name": "Then Product",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_00",
+    "base_price": 184.96,
+    "current_stock": 34,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 211.96,
+        "date": "2026-01-11T20:04:57.363958"
+      },
+      {
+        "price": 184.96,
+        "date": "2026-01-31T20:04:57.363958"
+      }
+    ],
+    "creation_date": "2026-01-11T20:04:57.363958"
+  },
+  {
+    "product_id": "prod_00175",
+    "name": "Speech Product",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_02",
+    "base_price": 245.53,
+    "current_stock": 187,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 280.53,
+        "date": "2025-12-13T21:29:05.485675"
+      },
+      {
+        "price": 245.53,
+        "date": "2026-01-02T21:29:05.485675"
+      }
+    ],
+    "creation_date": "2025-12-13T21:29:05.485675"
+  },
+  {
+    "product_id": "prod_00176",
+    "name": "Recent Product",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_00",
+    "base_price": 148.99,
+    "current_stock": 100,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 167.99,
+        "date": "2026-02-22T02:45:03.410768"
+      },
+      {
+        "price": 148.99,
+        "date": "2026-03-14T02:45:03.410768"
+      }
+    ],
+    "creation_date": "2026-02-22T02:45:03.410768"
+  },
+  {
+    "product_id": "prod_00177",
+    "name": "Knowledge Product",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_01",
+    "base_price": 108.29,
+    "current_stock": 52,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 134.29000000000002,
+        "date": "2025-12-22T12:24:14.823403"
+      },
+      {
+        "price": 108.29,
+        "date": "2026-01-11T12:24:14.823403"
+      }
+    ],
+    "creation_date": "2025-12-22T12:24:14.823403"
+  },
+  {
+    "product_id": "prod_00178",
+    "name": "Current Product",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_00",
+    "base_price": 288.88,
+    "current_stock": 109,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 299.88,
+        "date": "2026-02-15T09:18:43.644551"
+      },
+      {
+        "price": 288.88,
+        "date": "2026-03-07T09:18:43.644551"
+      }
+    ],
+    "creation_date": "2026-02-15T09:18:43.644551"
+  },
+  {
+    "product_id": "prod_00179",
+    "name": "Coach Product",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_01",
+    "base_price": 67.95,
+    "current_stock": 90,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 81.95,
+        "date": "2026-02-15T22:32:02.465996"
+      },
+      {
+        "price": 67.95,
+        "date": "2026-03-07T22:32:02.465996"
+      }
+    ],
+    "creation_date": "2026-02-15T22:32:02.465996"
+  },
+  {
+    "product_id": "prod_00180",
+    "name": "General Product",
+    "category_id": "cat_007",
+    "subcategory_id": "sub_007_00",
+    "base_price": 274.12,
+    "current_stock": 68,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 294.12,
+        "date": "2026-01-31T05:08:30.003855"
+      },
+      {
+        "price": 274.12,
+        "date": "2026-02-20T05:08:30.003855"
+      }
+    ],
+    "creation_date": "2026-01-31T05:08:30.003855"
+  },
+  {
+    "product_id": "prod_00181",
+    "name": "White Product",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_00",
+    "base_price": 244.32,
+    "current_stock": 67,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 252.32,
+        "date": "2026-03-06T21:51:49.098582"
+      },
+      {
+        "price": 244.32,
+        "date": "2026-03-26T21:51:49.098582"
+      }
+    ],
+    "creation_date": "2026-03-06T21:51:49.098582"
+  },
+  {
+    "product_id": "prod_00182",
+    "name": "Institution Product",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_00",
+    "base_price": 44.31,
+    "current_stock": 80,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 53.31,
+        "date": "2026-01-04T06:11:03.872949"
+      },
+      {
+        "price": 44.31,
+        "date": "2026-01-24T06:11:03.872949"
+      }
+    ],
+    "creation_date": "2026-01-04T06:11:03.872949"
+  },
+  {
+    "product_id": "prod_00183",
+    "name": "Compare Product",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_00",
+    "base_price": 105.1,
+    "current_stock": 37,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 121.1,
+        "date": "2025-12-31T22:17:43.544324"
+      },
+      {
+        "price": 105.1,
+        "date": "2026-01-20T22:17:43.544324"
+      }
+    ],
+    "creation_date": "2025-12-31T22:17:43.544324"
+  },
+  {
+    "product_id": "prod_00184",
+    "name": "Will Product",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_01",
+    "base_price": 244.54,
+    "current_stock": 69,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 255.54,
+        "date": "2025-12-31T21:13:34.516072"
+      },
+      {
+        "price": 244.54,
+        "date": "2026-01-20T21:13:34.516072"
+      }
+    ],
+    "creation_date": "2025-12-31T21:13:34.516072"
+  },
+  {
+    "product_id": "prod_00185",
+    "name": "Knowledge Product",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_02",
+    "base_price": 75.09,
+    "current_stock": 31,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 90.09,
+        "date": "2025-12-24T01:57:31.475056"
+      },
+      {
+        "price": 75.09,
+        "date": "2026-01-13T01:57:31.475056"
+      }
+    ],
+    "creation_date": "2025-12-24T01:57:31.475056"
+  },
+  {
+    "product_id": "prod_00186",
+    "name": "Those Product",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_00",
+    "base_price": 68.17,
+    "current_stock": 93,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 94.17,
+        "date": "2025-12-25T23:14:24.789116"
+      },
+      {
+        "price": 68.17,
+        "date": "2026-01-14T23:14:24.789116"
+      }
+    ],
+    "creation_date": "2025-12-25T23:14:24.789116"
+  },
+  {
+    "product_id": "prod_00187",
+    "name": "Own Product",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_01",
+    "base_price": 111.69,
+    "current_stock": 74,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 142.69,
+        "date": "2026-01-13T15:29:38.785730"
+      },
+      {
+        "price": 111.69,
+        "date": "2026-02-02T15:29:38.785730"
+      }
+    ],
+    "creation_date": "2026-01-13T15:29:38.785730"
+  },
+  {
+    "product_id": "prod_00188",
+    "name": "Across Product",
+    "category_id": "cat_001",
+    "subcategory_id": "sub_001_01",
+    "base_price": 274.66,
+    "current_stock": 89,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 284.66,
+        "date": "2026-01-29T09:47:36.759432"
+      },
+      {
+        "price": 274.66,
+        "date": "2026-02-18T09:47:36.759432"
+      }
+    ],
+    "creation_date": "2026-01-29T09:47:36.759432"
+  },
+  {
+    "product_id": "prod_00189",
+    "name": "Kind Product",
+    "category_id": "cat_000",
+    "subcategory_id": "sub_000_02",
+    "base_price": 12.62,
+    "current_stock": 49,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 22.619999999999997,
+        "date": "2026-02-14T20:00:17.456788"
+      },
+      {
+        "price": 12.62,
+        "date": "2026-03-06T20:00:17.456788"
+      }
+    ],
+    "creation_date": "2026-02-14T20:00:17.456788"
+  },
+  {
+    "product_id": "prod_00190",
+    "name": "Middle Product",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_00",
+    "base_price": 112.66,
+    "current_stock": 11,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 132.66,
+        "date": "2025-12-16T14:47:54.980636"
+      },
+      {
+        "price": 112.66,
+        "date": "2026-01-05T14:47:54.980636"
+      }
+    ],
+    "creation_date": "2025-12-16T14:47:54.980636"
+  },
+  {
+    "product_id": "prod_00191",
+    "name": "Special Product",
+    "category_id": "cat_004",
+    "subcategory_id": "sub_004_01",
+    "base_price": 17.37,
+    "current_stock": 64,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 50.370000000000005,
+        "date": "2025-12-21T00:59:08.268344"
+      },
+      {
+        "price": 17.37,
+        "date": "2026-01-10T00:59:08.268344"
+      }
+    ],
+    "creation_date": "2025-12-21T00:59:08.268344"
+  },
+  {
+    "product_id": "prod_00192",
+    "name": "Area Product",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_00",
+    "base_price": 219.07,
+    "current_stock": 1,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 246.07,
+        "date": "2026-02-06T12:43:49.531992"
+      },
+      {
+        "price": 219.07,
+        "date": "2026-02-26T12:43:49.531992"
+      }
+    ],
+    "creation_date": "2026-02-06T12:43:49.531992"
+  },
+  {
+    "product_id": "prod_00193",
+    "name": "Manage Product",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_01",
+    "base_price": 201.59,
+    "current_stock": 83,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 213.59,
+        "date": "2025-12-25T21:23:22.442015"
+      },
+      {
+        "price": 201.59,
+        "date": "2026-01-14T21:23:22.442015"
+      }
+    ],
+    "creation_date": "2025-12-25T21:23:22.442015"
+  },
+  {
+    "product_id": "prod_00194",
+    "name": "You Product",
+    "category_id": "cat_005",
+    "subcategory_id": "sub_005_00",
+    "base_price": 79.35,
+    "current_stock": 154,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 98.35,
+        "date": "2025-12-27T22:53:52.153598"
+      },
+      {
+        "price": 79.35,
+        "date": "2026-01-16T22:53:52.153598"
+      }
+    ],
+    "creation_date": "2025-12-27T22:53:52.153598"
+  },
+  {
+    "product_id": "prod_00195",
+    "name": "Natural Product",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_02",
+    "base_price": 143.82,
+    "current_stock": 147,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 183.82,
+        "date": "2026-02-07T15:25:58.954910"
+      },
+      {
+        "price": 143.82,
+        "date": "2026-02-27T15:25:58.954910"
+      }
+    ],
+    "creation_date": "2026-02-07T15:25:58.954910"
+  },
+  {
+    "product_id": "prod_00196",
+    "name": "Customer Product",
+    "category_id": "cat_006",
+    "subcategory_id": "sub_006_00",
+    "base_price": 287.51,
+    "current_stock": 84,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 311.51,
+        "date": "2026-01-29T11:03:44.766973"
+      },
+      {
+        "price": 287.51,
+        "date": "2026-02-18T11:03:44.766973"
+      }
+    ],
+    "creation_date": "2026-01-29T11:03:44.766973"
+  },
+  {
+    "product_id": "prod_00197",
+    "name": "Available Product",
+    "category_id": "cat_002",
+    "subcategory_id": "sub_002_01",
+    "base_price": 79.41,
+    "current_stock": 31,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 107.41,
+        "date": "2026-03-03T22:47:23.363336"
+      },
+      {
+        "price": 79.41,
+        "date": "2026-03-23T22:47:23.363336"
+      }
+    ],
+    "creation_date": "2026-03-03T22:47:23.363336"
+  },
+  {
+    "product_id": "prod_00198",
+    "name": "Rest Product",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_02",
+    "base_price": 176.9,
+    "current_stock": 57,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 181.9,
+        "date": "2026-02-24T01:52:17.128727"
+      },
+      {
+        "price": 176.9,
+        "date": "2026-03-16T01:52:17.128727"
+      }
+    ],
+    "creation_date": "2026-02-24T01:52:17.128727"
+  },
+  {
+    "product_id": "prod_00199",
+    "name": "Want Product",
+    "category_id": "cat_003",
+    "subcategory_id": "sub_003_01",
+    "base_price": 290.09,
+    "current_stock": 58,
+    "is_active": true,
+    "price_history": [
+      {
+        "price": 329.09,
+        "date": "2026-02-08T02:44:15.935932"
+      },
+      {
+        "price": 290.09,
+        "date": "2026-02-28T02:44:15.935932"
+      }
+    ],
+    "creation_date": "2026-02-08T02:44:15.935932"
+  }
+]

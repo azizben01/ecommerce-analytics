@@ -1,0 +1,3935 @@
+[
+  {
+    "transaction_id": "txn_12e7ea5b3d2d",
+    "session_id": "sess_cb21980096",
+    "user_id": "user_000000",
+    "timestamp": "2026-02-20T06:17:07.962401",
+    "items": [
+      {
+        "product_id": "prod_00085",
+        "quantity": 3,
+        "unit_price": 223.34,
+        "subtotal": 670.02
+      }
+    ],
+    "subtotal": 670.02,
+    "discount": 65.07,
+    "total": 604.95,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_2c113c425574",
+    "session_id": "sess_fef62c7fe9",
+    "user_id": "user_000002",
+    "timestamp": "2026-01-28T05:28:16.119740",
+    "items": [
+      {
+        "product_id": "prod_00070",
+        "quantity": 1,
+        "unit_price": 176.51,
+        "subtotal": 176.51
+      }
+    ],
+    "subtotal": 176.51,
+    "discount": 16.71,
+    "total": 159.8,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_ac314ff78ed3",
+    "session_id": "sess_02718f86da",
+    "user_id": "user_000003",
+    "timestamp": "2026-03-07T05:02:31.025443",
+    "items": [
+      {
+        "product_id": "prod_00121",
+        "quantity": 2,
+        "unit_price": 215.08,
+        "subtotal": 430.16
+      }
+    ],
+    "subtotal": 430.16,
+    "discount": 30.74,
+    "total": 399.42,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_d80dc455bd2d",
+    "session_id": "sess_75ca8971f7",
+    "user_id": "user_000003",
+    "timestamp": "2026-01-09T13:53:02.833876",
+    "items": [
+      {
+        "product_id": "prod_00085",
+        "quantity": 2,
+        "unit_price": 223.34,
+        "subtotal": 446.68
+      }
+    ],
+    "subtotal": 446.68,
+    "discount": 32.55,
+    "total": 414.13,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_822ecb6c29c9",
+    "session_id": "sess_658f56fafd",
+    "user_id": "user_000004",
+    "timestamp": "2025-12-17T08:20:24.828489",
+    "items": [
+      {
+        "product_id": "prod_00199",
+        "quantity": 2,
+        "unit_price": 290.09,
+        "subtotal": 580.18
+      }
+    ],
+    "subtotal": 580.18,
+    "discount": 71.4,
+    "total": 508.78,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_459b5c6ae171",
+    "session_id": "sess_9cc25bcdff",
+    "user_id": "user_000004",
+    "timestamp": "2026-01-25T20:18:46.158831",
+    "items": [
+      {
+        "product_id": "prod_00024",
+        "quantity": 2,
+        "unit_price": 260.61,
+        "subtotal": 521.22
+      }
+    ],
+    "subtotal": 521.22,
+    "discount": 66.13,
+    "total": 455.09,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_80a856390b5f",
+    "session_id": "sess_d53fdf8896",
+    "user_id": "user_000004",
+    "timestamp": "2025-12-07T23:53:22.528843",
+    "items": [
+      {
+        "product_id": "prod_00042",
+        "quantity": 3,
+        "unit_price": 265.77,
+        "subtotal": 797.31
+      }
+    ],
+    "subtotal": 797.31,
+    "discount": 53.79,
+    "total": 743.52,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_32286887d652",
+    "session_id": "sess_c2a37fa895",
+    "user_id": "user_000005",
+    "timestamp": "2026-02-02T07:06:08.986110",
+    "items": [
+      {
+        "product_id": "prod_00194",
+        "quantity": 3,
+        "unit_price": 79.35,
+        "subtotal": 238.04999999999998
+      }
+    ],
+    "subtotal": 238.05,
+    "discount": 27.0,
+    "total": 211.05,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_f5eef565f96c",
+    "session_id": "sess_5c01d7e5ee",
+    "user_id": "user_000005",
+    "timestamp": "2025-12-09T15:53:56.256326",
+    "items": [
+      {
+        "product_id": "prod_00072",
+        "quantity": 2,
+        "unit_price": 297.67,
+        "subtotal": 595.34
+      }
+    ],
+    "subtotal": 595.34,
+    "discount": 48.71,
+    "total": 546.63,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_4dbc4dc1b9d9",
+    "session_id": "sess_ae054a329c",
+    "user_id": "user_000005",
+    "timestamp": "2026-01-14T09:00:19.538690",
+    "items": [
+      {
+        "product_id": "prod_00178",
+        "quantity": 2,
+        "unit_price": 288.88,
+        "subtotal": 577.76
+      }
+    ],
+    "subtotal": 577.76,
+    "discount": 82.35,
+    "total": 495.41,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_7eb8f813b363",
+    "session_id": "sess_1a953051a8",
+    "user_id": "user_000006",
+    "timestamp": "2026-02-16T16:51:42.068231",
+    "items": [
+      {
+        "product_id": "prod_00117",
+        "quantity": 2,
+        "unit_price": 265.22,
+        "subtotal": 530.44
+      }
+    ],
+    "subtotal": 530.44,
+    "discount": 76.26,
+    "total": 454.18,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_2eac99aece98",
+    "session_id": "sess_82cc69faa9",
+    "user_id": "user_000006",
+    "timestamp": "2026-02-07T20:37:36.523128",
+    "items": [
+      {
+        "product_id": "prod_00041",
+        "quantity": 3,
+        "unit_price": 47.96,
+        "subtotal": 143.88
+      }
+    ],
+    "subtotal": 143.88,
+    "discount": 16.42,
+    "total": 127.46,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_d7060d249a3b",
+    "session_id": "sess_418d1504db",
+    "user_id": "user_000007",
+    "timestamp": "2026-02-16T15:08:44.607761",
+    "items": [
+      {
+        "product_id": "prod_00151",
+        "quantity": 3,
+        "unit_price": 283.98,
+        "subtotal": 851.94
+      }
+    ],
+    "subtotal": 851.94,
+    "discount": 89.73,
+    "total": 762.21,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_0b597fceb968",
+    "session_id": "sess_ece07a929c",
+    "user_id": "user_000008",
+    "timestamp": "2025-12-19T03:11:58.212774",
+    "items": [
+      {
+        "product_id": "prod_00092",
+        "quantity": 3,
+        "unit_price": 253.85,
+        "subtotal": 761.55
+      }
+    ],
+    "subtotal": 761.55,
+    "discount": 111.33,
+    "total": 650.22,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_601f1f189dbb",
+    "session_id": "sess_b78574dd22",
+    "user_id": "user_000008",
+    "timestamp": "2025-12-24T01:20:04.903511",
+    "items": [
+      {
+        "product_id": "prod_00178",
+        "quantity": 2,
+        "unit_price": 288.88,
+        "subtotal": 577.76
+      }
+    ],
+    "subtotal": 577.76,
+    "discount": 51.65,
+    "total": 526.11,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_6e529294a596",
+    "session_id": "sess_2f975a8d30",
+    "user_id": "user_000008",
+    "timestamp": "2026-02-20T21:47:15.164884",
+    "items": [
+      {
+        "product_id": "prod_00028",
+        "quantity": 3,
+        "unit_price": 265.63,
+        "subtotal": 796.89
+      }
+    ],
+    "subtotal": 796.89,
+    "discount": 62.08,
+    "total": 734.81,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_4d04946e3ed3",
+    "session_id": "sess_198f60a19c",
+    "user_id": "user_000009",
+    "timestamp": "2025-12-21T20:56:36.983418",
+    "items": [
+      {
+        "product_id": "prod_00150",
+        "quantity": 3,
+        "unit_price": 62.37,
+        "subtotal": 187.10999999999999
+      }
+    ],
+    "subtotal": 187.11,
+    "discount": 24.64,
+    "total": 162.47,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_b57e9125f2b3",
+    "session_id": "sess_278d2f7bac",
+    "user_id": "user_000009",
+    "timestamp": "2026-02-26T05:33:11.101391",
+    "items": [
+      {
+        "product_id": "prod_00053",
+        "quantity": 3,
+        "unit_price": 77.68,
+        "subtotal": 233.04000000000002
+      }
+    ],
+    "subtotal": 233.04,
+    "discount": 24.52,
+    "total": 208.52,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_89f83eec43e2",
+    "session_id": "sess_8e421e7cc8",
+    "user_id": "user_000009",
+    "timestamp": "2026-02-18T00:49:44.223931",
+    "items": [
+      {
+        "product_id": "prod_00111",
+        "quantity": 2,
+        "unit_price": 196.63,
+        "subtotal": 393.26
+      }
+    ],
+    "subtotal": 393.26,
+    "discount": 35.35,
+    "total": 357.91,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_02dcba54aae1",
+    "session_id": "sess_c4179b9494",
+    "user_id": "user_000011",
+    "timestamp": "2025-12-15T20:54:32.084241",
+    "items": [
+      {
+        "product_id": "prod_00158",
+        "quantity": 2,
+        "unit_price": 97.95,
+        "subtotal": 195.9
+      }
+    ],
+    "subtotal": 195.9,
+    "discount": 18.2,
+    "total": 177.7,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_c5e8dc85bc4a",
+    "session_id": "sess_eea0e23b1c",
+    "user_id": "user_000012",
+    "timestamp": "2026-01-30T02:58:46.683909",
+    "items": [
+      {
+        "product_id": "prod_00129",
+        "quantity": 3,
+        "unit_price": 171.01,
+        "subtotal": 513.03
+      }
+    ],
+    "subtotal": 513.03,
+    "discount": 26.06,
+    "total": 486.97,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_ccae362ab9a9",
+    "session_id": "sess_e0ac080a9f",
+    "user_id": "user_000012",
+    "timestamp": "2026-01-27T03:59:55.873367",
+    "items": [
+      {
+        "product_id": "prod_00077",
+        "quantity": 1,
+        "unit_price": 155.03,
+        "subtotal": 155.03
+      }
+    ],
+    "subtotal": 155.03,
+    "discount": 21.28,
+    "total": 133.75,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_da6525241451",
+    "session_id": "sess_8e50482e2b",
+    "user_id": "user_000013",
+    "timestamp": "2026-02-05T16:14:38.939375",
+    "items": [
+      {
+        "product_id": "prod_00187",
+        "quantity": 2,
+        "unit_price": 111.69,
+        "subtotal": 223.38
+      }
+    ],
+    "subtotal": 223.38,
+    "discount": 26.65,
+    "total": 196.73,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_1190f5efff7c",
+    "session_id": "sess_3a4d552d05",
+    "user_id": "user_000013",
+    "timestamp": "2026-01-11T16:59:39.924292",
+    "items": [
+      {
+        "product_id": "prod_00056",
+        "quantity": 2,
+        "unit_price": 234.4,
+        "subtotal": 468.8
+      }
+    ],
+    "subtotal": 468.8,
+    "discount": 52.7,
+    "total": 416.1,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_b72d947541b2",
+    "session_id": "sess_7bf23bd5d2",
+    "user_id": "user_000014",
+    "timestamp": "2026-01-02T14:38:10.159556",
+    "items": [
+      {
+        "product_id": "prod_00195",
+        "quantity": 3,
+        "unit_price": 143.82,
+        "subtotal": 431.46
+      }
+    ],
+    "subtotal": 431.46,
+    "discount": 35.07,
+    "total": 396.39,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_f3310acb4965",
+    "session_id": "sess_387fbe50ed",
+    "user_id": "user_000014",
+    "timestamp": "2026-01-03T22:11:23.076415",
+    "items": [
+      {
+        "product_id": "prod_00069",
+        "quantity": 3,
+        "unit_price": 128.21,
+        "subtotal": 384.63
+      }
+    ],
+    "subtotal": 384.63,
+    "discount": 39.26,
+    "total": 345.37,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_ff7275025f39",
+    "session_id": "sess_061df06864",
+    "user_id": "user_000015",
+    "timestamp": "2026-02-14T11:13:36.180341",
+    "items": [
+      {
+        "product_id": "prod_00135",
+        "quantity": 3,
+        "unit_price": 68.52,
+        "subtotal": 205.56
+      }
+    ],
+    "subtotal": 205.56,
+    "discount": 28.52,
+    "total": 177.04,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_7e84468b995d",
+    "session_id": "sess_7122391eb7",
+    "user_id": "user_000016",
+    "timestamp": "2026-02-02T15:43:13.239593",
+    "items": [
+      {
+        "product_id": "prod_00172",
+        "quantity": 3,
+        "unit_price": 249.74,
+        "subtotal": 749.22
+      }
+    ],
+    "subtotal": 749.22,
+    "discount": 78.57,
+    "total": 670.65,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_50851d4fe799",
+    "session_id": "sess_1c024b84d4",
+    "user_id": "user_000016",
+    "timestamp": "2025-12-09T18:35:12.734855",
+    "items": [
+      {
+        "product_id": "prod_00053",
+        "quantity": 3,
+        "unit_price": 77.68,
+        "subtotal": 233.04000000000002
+      }
+    ],
+    "subtotal": 233.04,
+    "discount": 11.76,
+    "total": 221.28,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_1bb91bb533e2",
+    "session_id": "sess_1038861a28",
+    "user_id": "user_000016",
+    "timestamp": "2026-03-06T19:53:34.620014",
+    "items": [
+      {
+        "product_id": "prod_00027",
+        "quantity": 1,
+        "unit_price": 108.77,
+        "subtotal": 108.77
+      }
+    ],
+    "subtotal": 108.77,
+    "discount": 9.06,
+    "total": 99.71,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_ed1139f87567",
+    "session_id": "sess_e6f133c4a8",
+    "user_id": "user_000017",
+    "timestamp": "2026-03-01T11:37:50.426524",
+    "items": [
+      {
+        "product_id": "prod_00166",
+        "quantity": 1,
+        "unit_price": 237.94,
+        "subtotal": 237.94
+      }
+    ],
+    "subtotal": 237.94,
+    "discount": 21.98,
+    "total": 215.96,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_9dde5a2e07cb",
+    "session_id": "sess_8b647056cf",
+    "user_id": "user_000017",
+    "timestamp": "2026-02-05T00:37:45.611537",
+    "items": [
+      {
+        "product_id": "prod_00008",
+        "quantity": 3,
+        "unit_price": 40.0,
+        "subtotal": 120.0
+      }
+    ],
+    "subtotal": 120.0,
+    "discount": 16.26,
+    "total": 103.74,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_37dfc4534451",
+    "session_id": "sess_0a8867123b",
+    "user_id": "user_000018",
+    "timestamp": "2026-01-04T10:47:30.791985",
+    "items": [
+      {
+        "product_id": "prod_00144",
+        "quantity": 2,
+        "unit_price": 214.02,
+        "subtotal": 428.04
+      }
+    ],
+    "subtotal": 428.04,
+    "discount": 49.74,
+    "total": 378.3,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_4a28425e0b3e",
+    "session_id": "sess_4a1e7c96ee",
+    "user_id": "user_000018",
+    "timestamp": "2026-01-10T23:16:50.078526",
+    "items": [
+      {
+        "product_id": "prod_00158",
+        "quantity": 3,
+        "unit_price": 97.95,
+        "subtotal": 293.85
+      }
+    ],
+    "subtotal": 293.85,
+    "discount": 22.22,
+    "total": 271.63,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_8077b9475b8d",
+    "session_id": "sess_94590c6f1c",
+    "user_id": "user_000019",
+    "timestamp": "2026-02-11T22:06:50.243198",
+    "items": [
+      {
+        "product_id": "prod_00064",
+        "quantity": 3,
+        "unit_price": 191.23,
+        "subtotal": 573.6899999999999
+      }
+    ],
+    "subtotal": 573.69,
+    "discount": 80.32,
+    "total": 493.37,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_915ea4fa3edb",
+    "session_id": "sess_432067576c",
+    "user_id": "user_000019",
+    "timestamp": "2026-03-06T18:50:33.668238",
+    "items": [
+      {
+        "product_id": "prod_00185",
+        "quantity": 1,
+        "unit_price": 75.09,
+        "subtotal": 75.09
+      }
+    ],
+    "subtotal": 75.09,
+    "discount": 7.33,
+    "total": 67.76,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_3573a1e26273",
+    "session_id": "sess_9a9ede1ea1",
+    "user_id": "user_000020",
+    "timestamp": "2025-12-15T18:14:57.111543",
+    "items": [
+      {
+        "product_id": "prod_00061",
+        "quantity": 1,
+        "unit_price": 171.12,
+        "subtotal": 171.12
+      }
+    ],
+    "subtotal": 171.12,
+    "discount": 12.9,
+    "total": 158.22,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_05c2471d801a",
+    "session_id": "sess_59ef26db57",
+    "user_id": "user_000021",
+    "timestamp": "2026-03-01T01:14:38.350466",
+    "items": [
+      {
+        "product_id": "prod_00018",
+        "quantity": 3,
+        "unit_price": 239.46,
+        "subtotal": 718.38
+      }
+    ],
+    "subtotal": 718.38,
+    "discount": 77.57,
+    "total": 640.81,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_06b55d6fb9f4",
+    "session_id": "sess_11924861b1",
+    "user_id": "user_000021",
+    "timestamp": "2025-12-20T08:50:11.616131",
+    "items": [
+      {
+        "product_id": "prod_00057",
+        "quantity": 1,
+        "unit_price": 53.69,
+        "subtotal": 53.69
+      }
+    ],
+    "subtotal": 53.69,
+    "discount": 5.12,
+    "total": 48.57,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_bb918433af36",
+    "session_id": "sess_7d10051832",
+    "user_id": "user_000022",
+    "timestamp": "2026-02-28T01:38:10.604343",
+    "items": [
+      {
+        "product_id": "prod_00133",
+        "quantity": 1,
+        "unit_price": 127.03,
+        "subtotal": 127.03
+      }
+    ],
+    "subtotal": 127.03,
+    "discount": 7.72,
+    "total": 119.31,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_8b540c9ff4e3",
+    "session_id": "sess_d8d00bb4b6",
+    "user_id": "user_000022",
+    "timestamp": "2025-12-12T04:10:23.278019",
+    "items": [
+      {
+        "product_id": "prod_00179",
+        "quantity": 3,
+        "unit_price": 67.95,
+        "subtotal": 203.85000000000002
+      }
+    ],
+    "subtotal": 203.85,
+    "discount": 26.27,
+    "total": 177.58,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_a435c82bbec8",
+    "session_id": "sess_4e7b45d3e3",
+    "user_id": "user_000022",
+    "timestamp": "2026-01-01T09:54:06.819616",
+    "items": [
+      {
+        "product_id": "prod_00123",
+        "quantity": 2,
+        "unit_price": 291.05,
+        "subtotal": 582.1
+      }
+    ],
+    "subtotal": 582.1,
+    "discount": 55.82,
+    "total": 526.28,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_0743f3979144",
+    "session_id": "sess_630dbb3e27",
+    "user_id": "user_000023",
+    "timestamp": "2025-12-24T11:34:18.619615",
+    "items": [
+      {
+        "product_id": "prod_00021",
+        "quantity": 3,
+        "unit_price": 60.12,
+        "subtotal": 180.35999999999999
+      }
+    ],
+    "subtotal": 180.36,
+    "discount": 18.23,
+    "total": 162.13,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_3900bd675885",
+    "session_id": "sess_898be3d5f4",
+    "user_id": "user_000023",
+    "timestamp": "2026-02-27T03:08:02.731090",
+    "items": [
+      {
+        "product_id": "prod_00193",
+        "quantity": 2,
+        "unit_price": 201.59,
+        "subtotal": 403.18
+      }
+    ],
+    "subtotal": 403.18,
+    "discount": 54.66,
+    "total": 348.52,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_8a0d944445c5",
+    "session_id": "sess_7e03549188",
+    "user_id": "user_000023",
+    "timestamp": "2025-12-27T16:46:24.787105",
+    "items": [
+      {
+        "product_id": "prod_00026",
+        "quantity": 2,
+        "unit_price": 36.99,
+        "subtotal": 73.98
+      }
+    ],
+    "subtotal": 73.98,
+    "discount": 9.52,
+    "total": 64.46,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_5695dfa0904f",
+    "session_id": "sess_e5c86b5a0c",
+    "user_id": "user_000023",
+    "timestamp": "2025-12-26T07:06:17.482493",
+    "items": [
+      {
+        "product_id": "prod_00062",
+        "quantity": 3,
+        "unit_price": 208.3,
+        "subtotal": 624.9000000000001
+      }
+    ],
+    "subtotal": 624.9,
+    "discount": 32.32,
+    "total": 592.58,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_274e9a37800c",
+    "session_id": "sess_4015ba44f1",
+    "user_id": "user_000023",
+    "timestamp": "2026-01-28T13:43:26.451974",
+    "items": [
+      {
+        "product_id": "prod_00130",
+        "quantity": 1,
+        "unit_price": 36.75,
+        "subtotal": 36.75
+      }
+    ],
+    "subtotal": 36.75,
+    "discount": 4.94,
+    "total": 31.81,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_95d6416e6793",
+    "session_id": "sess_3671412ed1",
+    "user_id": "user_000024",
+    "timestamp": "2026-02-26T19:25:06.845993",
+    "items": [
+      {
+        "product_id": "prod_00085",
+        "quantity": 1,
+        "unit_price": 223.34,
+        "subtotal": 223.34
+      }
+    ],
+    "subtotal": 223.34,
+    "discount": 29.73,
+    "total": 193.61,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_cfa1cd528e3c",
+    "session_id": "sess_8bae486f6c",
+    "user_id": "user_000024",
+    "timestamp": "2026-02-08T19:51:01.571879",
+    "items": [
+      {
+        "product_id": "prod_00180",
+        "quantity": 1,
+        "unit_price": 274.12,
+        "subtotal": 274.12
+      }
+    ],
+    "subtotal": 274.12,
+    "discount": 34.89,
+    "total": 239.23,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_b4824c242fa0",
+    "session_id": "sess_0c16b36d10",
+    "user_id": "user_000025",
+    "timestamp": "2026-01-01T01:42:46.587523",
+    "items": [
+      {
+        "product_id": "prod_00166",
+        "quantity": 2,
+        "unit_price": 237.94,
+        "subtotal": 475.88
+      }
+    ],
+    "subtotal": 475.88,
+    "discount": 52.85,
+    "total": 423.03,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_4c1201bcf89d",
+    "session_id": "sess_50e1843752",
+    "user_id": "user_000025",
+    "timestamp": "2025-12-22T18:47:01.741563",
+    "items": [
+      {
+        "product_id": "prod_00134",
+        "quantity": 3,
+        "unit_price": 184.87,
+        "subtotal": 554.61
+      }
+    ],
+    "subtotal": 554.61,
+    "discount": 44.28,
+    "total": 510.33,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_0d91234b75f3",
+    "session_id": "sess_0603619bfe",
+    "user_id": "user_000026",
+    "timestamp": "2026-03-05T16:53:43.322229",
+    "items": [
+      {
+        "product_id": "prod_00132",
+        "quantity": 1,
+        "unit_price": 266.31,
+        "subtotal": 266.31
+      }
+    ],
+    "subtotal": 266.31,
+    "discount": 34.86,
+    "total": 231.45,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_5169cc3fc850",
+    "session_id": "sess_ebbb2f6a75",
+    "user_id": "user_000026",
+    "timestamp": "2026-01-29T20:51:17.552060",
+    "items": [
+      {
+        "product_id": "prod_00058",
+        "quantity": 2,
+        "unit_price": 219.62,
+        "subtotal": 439.24
+      }
+    ],
+    "subtotal": 439.24,
+    "discount": 46.7,
+    "total": 392.54,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_fe6ee7b9581f",
+    "session_id": "sess_bd9bd8d8b6",
+    "user_id": "user_000027",
+    "timestamp": "2026-02-05T06:17:21.711041",
+    "items": [
+      {
+        "product_id": "prod_00168",
+        "quantity": 2,
+        "unit_price": 93.59,
+        "subtotal": 187.18
+      }
+    ],
+    "subtotal": 187.18,
+    "discount": 14.72,
+    "total": 172.46,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_504d42f582ce",
+    "session_id": "sess_36479de806",
+    "user_id": "user_000028",
+    "timestamp": "2026-02-18T12:47:52.591974",
+    "items": [
+      {
+        "product_id": "prod_00037",
+        "quantity": 3,
+        "unit_price": 273.94,
+        "subtotal": 821.8199999999999
+      }
+    ],
+    "subtotal": 821.82,
+    "discount": 111.84,
+    "total": 709.98,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_eecc6ea9936c",
+    "session_id": "sess_375c9354fd",
+    "user_id": "user_000028",
+    "timestamp": "2025-12-19T16:51:18.964152",
+    "items": [
+      {
+        "product_id": "prod_00168",
+        "quantity": 1,
+        "unit_price": 93.59,
+        "subtotal": 93.59
+      }
+    ],
+    "subtotal": 93.59,
+    "discount": 13.16,
+    "total": 80.43,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_b65ad98056d9",
+    "session_id": "sess_72751af882",
+    "user_id": "user_000028",
+    "timestamp": "2025-12-30T04:13:40.839496",
+    "items": [
+      {
+        "product_id": "prod_00000",
+        "quantity": 3,
+        "unit_price": 55.43,
+        "subtotal": 166.29
+      }
+    ],
+    "subtotal": 166.29,
+    "discount": 16.58,
+    "total": 149.71,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_d96315742b4a",
+    "session_id": "sess_730cc5bb68",
+    "user_id": "user_000028",
+    "timestamp": "2026-02-12T05:29:51.091871",
+    "items": [
+      {
+        "product_id": "prod_00044",
+        "quantity": 2,
+        "unit_price": 201.23,
+        "subtotal": 402.46
+      }
+    ],
+    "subtotal": 402.46,
+    "discount": 49.53,
+    "total": 352.93,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_750756f33a2f",
+    "session_id": "sess_f2c8d5aa03",
+    "user_id": "user_000029",
+    "timestamp": "2026-02-07T16:42:29.063003",
+    "items": [
+      {
+        "product_id": "prod_00194",
+        "quantity": 3,
+        "unit_price": 79.35,
+        "subtotal": 238.04999999999998
+      }
+    ],
+    "subtotal": 238.05,
+    "discount": 26.86,
+    "total": 211.19,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_ac8944fff123",
+    "session_id": "sess_c7774b039a",
+    "user_id": "user_000030",
+    "timestamp": "2026-03-05T18:17:52.371913",
+    "items": [
+      {
+        "product_id": "prod_00126",
+        "quantity": 1,
+        "unit_price": 163.86,
+        "subtotal": 163.86
+      }
+    ],
+    "subtotal": 163.86,
+    "discount": 20.49,
+    "total": 143.37,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_ff0b57a6ecbc",
+    "session_id": "sess_f390d9953e",
+    "user_id": "user_000030",
+    "timestamp": "2025-12-11T15:39:04.935075",
+    "items": [
+      {
+        "product_id": "prod_00063",
+        "quantity": 2,
+        "unit_price": 295.46,
+        "subtotal": 590.92
+      }
+    ],
+    "subtotal": 590.92,
+    "discount": 47.46,
+    "total": 543.46,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_3651f6198f27",
+    "session_id": "sess_fba2cbc61b",
+    "user_id": "user_000030",
+    "timestamp": "2026-01-12T12:34:06.856040",
+    "items": [
+      {
+        "product_id": "prod_00043",
+        "quantity": 3,
+        "unit_price": 178.36,
+        "subtotal": 535.08
+      }
+    ],
+    "subtotal": 535.08,
+    "discount": 44.59,
+    "total": 490.49,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_b53cc71f683d",
+    "session_id": "sess_ff73f3c1da",
+    "user_id": "user_000031",
+    "timestamp": "2026-01-15T18:41:26.807721",
+    "items": [
+      {
+        "product_id": "prod_00100",
+        "quantity": 1,
+        "unit_price": 296.0,
+        "subtotal": 296.0
+      }
+    ],
+    "subtotal": 296.0,
+    "discount": 17.87,
+    "total": 278.13,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_0589d0dbb756",
+    "session_id": "sess_135947342c",
+    "user_id": "user_000031",
+    "timestamp": "2026-01-01T22:26:01.197889",
+    "items": [
+      {
+        "product_id": "prod_00043",
+        "quantity": 2,
+        "unit_price": 178.36,
+        "subtotal": 356.72
+      }
+    ],
+    "subtotal": 356.72,
+    "discount": 20.0,
+    "total": 336.72,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_407d6daac02d",
+    "session_id": "sess_05645f5797",
+    "user_id": "user_000032",
+    "timestamp": "2026-01-01T23:53:10.059170",
+    "items": [
+      {
+        "product_id": "prod_00125",
+        "quantity": 3,
+        "unit_price": 256.03,
+        "subtotal": 768.0899999999999
+      }
+    ],
+    "subtotal": 768.09,
+    "discount": 42.27,
+    "total": 725.82,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_14e66fea26b4",
+    "session_id": "sess_10b6527cbf",
+    "user_id": "user_000032",
+    "timestamp": "2026-01-12T16:09:33.866500",
+    "items": [
+      {
+        "product_id": "prod_00075",
+        "quantity": 1,
+        "unit_price": 202.38,
+        "subtotal": 202.38
+      }
+    ],
+    "subtotal": 202.38,
+    "discount": 23.95,
+    "total": 178.43,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_d22c439d8bad",
+    "session_id": "sess_2fa469890d",
+    "user_id": "user_000033",
+    "timestamp": "2026-02-15T11:37:30.927363",
+    "items": [
+      {
+        "product_id": "prod_00177",
+        "quantity": 1,
+        "unit_price": 108.29,
+        "subtotal": 108.29
+      }
+    ],
+    "subtotal": 108.29,
+    "discount": 9.98,
+    "total": 98.31,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_6233dbea5918",
+    "session_id": "sess_a302245084",
+    "user_id": "user_000034",
+    "timestamp": "2025-12-25T21:54:42.370046",
+    "items": [
+      {
+        "product_id": "prod_00171",
+        "quantity": 2,
+        "unit_price": 70.68,
+        "subtotal": 141.36
+      }
+    ],
+    "subtotal": 141.36,
+    "discount": 14.78,
+    "total": 126.58,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_a74ad2232114",
+    "session_id": "sess_a8be321694",
+    "user_id": "user_000035",
+    "timestamp": "2025-12-10T19:19:15.415606",
+    "items": [
+      {
+        "product_id": "prod_00064",
+        "quantity": 1,
+        "unit_price": 191.23,
+        "subtotal": 191.23
+      }
+    ],
+    "subtotal": 191.23,
+    "discount": 17.91,
+    "total": 173.32,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_a9e2d5891b75",
+    "session_id": "sess_5a60e3414c",
+    "user_id": "user_000035",
+    "timestamp": "2026-02-06T18:39:52.526636",
+    "items": [
+      {
+        "product_id": "prod_00000",
+        "quantity": 3,
+        "unit_price": 55.43,
+        "subtotal": 166.29
+      }
+    ],
+    "subtotal": 166.29,
+    "discount": 12.35,
+    "total": 153.94,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_35215a56d8c0",
+    "session_id": "sess_74b898b928",
+    "user_id": "user_000036",
+    "timestamp": "2026-03-07T13:42:11.886479",
+    "items": [
+      {
+        "product_id": "prod_00148",
+        "quantity": 1,
+        "unit_price": 286.06,
+        "subtotal": 286.06
+      }
+    ],
+    "subtotal": 286.06,
+    "discount": 14.45,
+    "total": 271.61,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_2d6bc02ff8c1",
+    "session_id": "sess_878205eff0",
+    "user_id": "user_000036",
+    "timestamp": "2026-02-20T04:51:40.525998",
+    "items": [
+      {
+        "product_id": "prod_00083",
+        "quantity": 2,
+        "unit_price": 245.66,
+        "subtotal": 491.32
+      }
+    ],
+    "subtotal": 491.32,
+    "discount": 25.7,
+    "total": 465.62,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_709bd5ca97ca",
+    "session_id": "sess_99a64fcef5",
+    "user_id": "user_000037",
+    "timestamp": "2026-03-06T09:16:40.237370",
+    "items": [
+      {
+        "product_id": "prod_00087",
+        "quantity": 3,
+        "unit_price": 163.53,
+        "subtotal": 490.59000000000003
+      }
+    ],
+    "subtotal": 490.59,
+    "discount": 68.63,
+    "total": 421.96,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_eda12f46f4fd",
+    "session_id": "sess_35ac551912",
+    "user_id": "user_000037",
+    "timestamp": "2026-01-27T01:17:07.576802",
+    "items": [
+      {
+        "product_id": "prod_00126",
+        "quantity": 3,
+        "unit_price": 163.86,
+        "subtotal": 491.58000000000004
+      }
+    ],
+    "subtotal": 491.58,
+    "discount": 46.52,
+    "total": 445.06,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_7efdcf92acc5",
+    "session_id": "sess_57ffc01c60",
+    "user_id": "user_000037",
+    "timestamp": "2026-03-06T01:40:55.409950",
+    "items": [
+      {
+        "product_id": "prod_00070",
+        "quantity": 2,
+        "unit_price": 176.51,
+        "subtotal": 353.02
+      }
+    ],
+    "subtotal": 353.02,
+    "discount": 39.66,
+    "total": 313.36,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_bb44234b54ab",
+    "session_id": "sess_b112cc76b6",
+    "user_id": "user_000037",
+    "timestamp": "2025-12-28T17:13:33.723759",
+    "items": [
+      {
+        "product_id": "prod_00093",
+        "quantity": 1,
+        "unit_price": 23.01,
+        "subtotal": 23.01
+      }
+    ],
+    "subtotal": 23.01,
+    "discount": 3.43,
+    "total": 19.58,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_41ffa18a63f6",
+    "session_id": "sess_a843fc3110",
+    "user_id": "user_000038",
+    "timestamp": "2026-02-21T06:13:13.953152",
+    "items": [
+      {
+        "product_id": "prod_00095",
+        "quantity": 1,
+        "unit_price": 129.78,
+        "subtotal": 129.78
+      }
+    ],
+    "subtotal": 129.78,
+    "discount": 18.41,
+    "total": 111.37,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_cafadc7195b4",
+    "session_id": "sess_729c53582f",
+    "user_id": "user_000038",
+    "timestamp": "2025-12-22T14:43:44.963171",
+    "items": [
+      {
+        "product_id": "prod_00119",
+        "quantity": 1,
+        "unit_price": 16.34,
+        "subtotal": 16.34
+      }
+    ],
+    "subtotal": 16.34,
+    "discount": 1.12,
+    "total": 15.22,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_2b128ceb789b",
+    "session_id": "sess_43d1999586",
+    "user_id": "user_000040",
+    "timestamp": "2026-02-22T04:46:19.328113",
+    "items": [
+      {
+        "product_id": "prod_00189",
+        "quantity": 2,
+        "unit_price": 12.62,
+        "subtotal": 25.24
+      }
+    ],
+    "subtotal": 25.24,
+    "discount": 3.46,
+    "total": 21.78,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_ccc1f0ce8ea9",
+    "session_id": "sess_0c0d17efa4",
+    "user_id": "user_000040",
+    "timestamp": "2026-02-24T08:56:18.638122",
+    "items": [
+      {
+        "product_id": "prod_00182",
+        "quantity": 3,
+        "unit_price": 44.31,
+        "subtotal": 132.93
+      }
+    ],
+    "subtotal": 132.93,
+    "discount": 16.19,
+    "total": 116.74,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_5135249d10c6",
+    "session_id": "sess_92db460ac4",
+    "user_id": "user_000041",
+    "timestamp": "2026-01-31T23:15:19.071397",
+    "items": [
+      {
+        "product_id": "prod_00108",
+        "quantity": 3,
+        "unit_price": 15.37,
+        "subtotal": 46.11
+      }
+    ],
+    "subtotal": 46.11,
+    "discount": 5.13,
+    "total": 40.98,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_34119af14366",
+    "session_id": "sess_f1697b31be",
+    "user_id": "user_000041",
+    "timestamp": "2025-12-25T16:01:11.618664",
+    "items": [
+      {
+        "product_id": "prod_00006",
+        "quantity": 3,
+        "unit_price": 113.76,
+        "subtotal": 341.28000000000003
+      }
+    ],
+    "subtotal": 341.28,
+    "discount": 45.67,
+    "total": 295.61,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_118186c4f33d",
+    "session_id": "sess_0765410a3a",
+    "user_id": "user_000042",
+    "timestamp": "2025-12-21T09:16:09.242947",
+    "items": [
+      {
+        "product_id": "prod_00122",
+        "quantity": 2,
+        "unit_price": 107.14,
+        "subtotal": 214.28
+      }
+    ],
+    "subtotal": 214.28,
+    "discount": 11.24,
+    "total": 203.04,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_aef165fc9497",
+    "session_id": "sess_ae02304f49",
+    "user_id": "user_000044",
+    "timestamp": "2026-01-27T16:54:29.134908",
+    "items": [
+      {
+        "product_id": "prod_00193",
+        "quantity": 1,
+        "unit_price": 201.59,
+        "subtotal": 201.59
+      }
+    ],
+    "subtotal": 201.59,
+    "discount": 13.85,
+    "total": 187.74,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_109350511bc8",
+    "session_id": "sess_c1eeb18dcf",
+    "user_id": "user_000044",
+    "timestamp": "2025-12-08T23:15:59.902339",
+    "items": [
+      {
+        "product_id": "prod_00117",
+        "quantity": 2,
+        "unit_price": 265.22,
+        "subtotal": 530.44
+      }
+    ],
+    "subtotal": 530.44,
+    "discount": 36.04,
+    "total": 494.4,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_fc70597adecf",
+    "session_id": "sess_0ffc0efb49",
+    "user_id": "user_000044",
+    "timestamp": "2025-12-17T20:03:15.093132",
+    "items": [
+      {
+        "product_id": "prod_00115",
+        "quantity": 3,
+        "unit_price": 146.48,
+        "subtotal": 439.43999999999994
+      }
+    ],
+    "subtotal": 439.44,
+    "discount": 61.77,
+    "total": 377.67,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_1edd49f399f3",
+    "session_id": "sess_d2ae27d69e",
+    "user_id": "user_000044",
+    "timestamp": "2026-02-15T21:28:29.329962",
+    "items": [
+      {
+        "product_id": "prod_00173",
+        "quantity": 3,
+        "unit_price": 123.81,
+        "subtotal": 371.43
+      }
+    ],
+    "subtotal": 371.43,
+    "discount": 30.15,
+    "total": 341.28,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_067a35089196",
+    "session_id": "sess_af5c97f767",
+    "user_id": "user_000045",
+    "timestamp": "2026-01-19T11:25:08.860718",
+    "items": [
+      {
+        "product_id": "prod_00058",
+        "quantity": 1,
+        "unit_price": 219.62,
+        "subtotal": 219.62
+      }
+    ],
+    "subtotal": 219.62,
+    "discount": 20.04,
+    "total": 199.58,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_f26dd8f427ec",
+    "session_id": "sess_9550ec4dd5",
+    "user_id": "user_000045",
+    "timestamp": "2026-01-22T09:24:51.641607",
+    "items": [
+      {
+        "product_id": "prod_00149",
+        "quantity": 1,
+        "unit_price": 234.94,
+        "subtotal": 234.94
+      }
+    ],
+    "subtotal": 234.94,
+    "discount": 29.73,
+    "total": 205.21,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_765a01fab88c",
+    "session_id": "sess_5378d1a3bd",
+    "user_id": "user_000045",
+    "timestamp": "2025-12-08T18:05:02.785895",
+    "items": [
+      {
+        "product_id": "prod_00124",
+        "quantity": 1,
+        "unit_price": 268.09,
+        "subtotal": 268.09
+      }
+    ],
+    "subtotal": 268.09,
+    "discount": 28.96,
+    "total": 239.13,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_2b7e293ec353",
+    "session_id": "sess_b18bba38af",
+    "user_id": "user_000046",
+    "timestamp": "2026-02-11T05:16:24.887146",
+    "items": [
+      {
+        "product_id": "prod_00108",
+        "quantity": 3,
+        "unit_price": 15.37,
+        "subtotal": 46.11
+      }
+    ],
+    "subtotal": 46.11,
+    "discount": 6.51,
+    "total": 39.6,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_61034198c64d",
+    "session_id": "sess_16470ed6f4",
+    "user_id": "user_000046",
+    "timestamp": "2026-01-04T23:53:26.174951",
+    "items": [
+      {
+        "product_id": "prod_00036",
+        "quantity": 1,
+        "unit_price": 52.39,
+        "subtotal": 52.39
+      }
+    ],
+    "subtotal": 52.39,
+    "discount": 3.62,
+    "total": 48.77,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_f870bbd80952",
+    "session_id": "sess_011a230392",
+    "user_id": "user_000046",
+    "timestamp": "2025-12-30T14:52:57.019182",
+    "items": [
+      {
+        "product_id": "prod_00161",
+        "quantity": 2,
+        "unit_price": 259.44,
+        "subtotal": 518.88
+      }
+    ],
+    "subtotal": 518.88,
+    "discount": 29.21,
+    "total": 489.67,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_fef5990e0b2d",
+    "session_id": "sess_802fe6187e",
+    "user_id": "user_000046",
+    "timestamp": "2026-02-06T11:08:21.272840",
+    "items": [
+      {
+        "product_id": "prod_00043",
+        "quantity": 3,
+        "unit_price": 178.36,
+        "subtotal": 535.08
+      }
+    ],
+    "subtotal": 535.08,
+    "discount": 65.79,
+    "total": 469.29,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_2fe77e080e92",
+    "session_id": "sess_72ba888d8e",
+    "user_id": "user_000047",
+    "timestamp": "2026-02-01T02:31:10.658967",
+    "items": [
+      {
+        "product_id": "prod_00065",
+        "quantity": 3,
+        "unit_price": 255.22,
+        "subtotal": 765.66
+      }
+    ],
+    "subtotal": 765.66,
+    "discount": 99.81,
+    "total": 665.85,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_1648d09368aa",
+    "session_id": "sess_2fdb6d1595",
+    "user_id": "user_000047",
+    "timestamp": "2026-01-06T04:53:49.184540",
+    "items": [
+      {
+        "product_id": "prod_00155",
+        "quantity": 2,
+        "unit_price": 280.84,
+        "subtotal": 561.68
+      }
+    ],
+    "subtotal": 561.68,
+    "discount": 31.3,
+    "total": 530.38,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_1fda5ac87d28",
+    "session_id": "sess_f620403b95",
+    "user_id": "user_000047",
+    "timestamp": "2026-02-27T17:06:57.072905",
+    "items": [
+      {
+        "product_id": "prod_00129",
+        "quantity": 1,
+        "unit_price": 171.01,
+        "subtotal": 171.01
+      }
+    ],
+    "subtotal": 171.01,
+    "discount": 20.54,
+    "total": 150.47,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_90008a261ac6",
+    "session_id": "sess_391b3ff62b",
+    "user_id": "user_000047",
+    "timestamp": "2025-12-27T16:20:08.488307",
+    "items": [
+      {
+        "product_id": "prod_00076",
+        "quantity": 1,
+        "unit_price": 122.69,
+        "subtotal": 122.69
+      }
+    ],
+    "subtotal": 122.69,
+    "discount": 11.39,
+    "total": 111.3,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_c03a89e1ed85",
+    "session_id": "sess_3be3a69056",
+    "user_id": "user_000048",
+    "timestamp": "2026-01-05T10:41:47.512630",
+    "items": [
+      {
+        "product_id": "prod_00079",
+        "quantity": 1,
+        "unit_price": 85.37,
+        "subtotal": 85.37
+      }
+    ],
+    "subtotal": 85.37,
+    "discount": 10.47,
+    "total": 74.9,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_0054f25f76d6",
+    "session_id": "sess_4cb47ecb04",
+    "user_id": "user_000049",
+    "timestamp": "2026-02-09T05:56:26.191144",
+    "items": [
+      {
+        "product_id": "prod_00115",
+        "quantity": 1,
+        "unit_price": 146.48,
+        "subtotal": 146.48
+      }
+    ],
+    "subtotal": 146.48,
+    "discount": 15.57,
+    "total": 130.91,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_50344b5af964",
+    "session_id": "sess_62aef5b7f9",
+    "user_id": "user_000049",
+    "timestamp": "2026-03-01T12:39:33.502821",
+    "items": [
+      {
+        "product_id": "prod_00014",
+        "quantity": 2,
+        "unit_price": 195.98,
+        "subtotal": 391.96
+      }
+    ],
+    "subtotal": 391.96,
+    "discount": 34.36,
+    "total": 357.6,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_203f7c261d1b",
+    "session_id": "sess_7d69dec31c",
+    "user_id": "user_000050",
+    "timestamp": "2026-01-03T09:16:06.185279",
+    "items": [
+      {
+        "product_id": "prod_00041",
+        "quantity": 1,
+        "unit_price": 47.96,
+        "subtotal": 47.96
+      }
+    ],
+    "subtotal": 47.96,
+    "discount": 5.69,
+    "total": 42.27,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_751a8059ec82",
+    "session_id": "sess_20b669a7e7",
+    "user_id": "user_000050",
+    "timestamp": "2025-12-24T18:23:16.587208",
+    "items": [
+      {
+        "product_id": "prod_00100",
+        "quantity": 1,
+        "unit_price": 296.0,
+        "subtotal": 296.0
+      }
+    ],
+    "subtotal": 296.0,
+    "discount": 23.24,
+    "total": 272.76,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_a904d4022a24",
+    "session_id": "sess_4c00cb2e88",
+    "user_id": "user_000053",
+    "timestamp": "2026-01-12T10:09:48.809684",
+    "items": [
+      {
+        "product_id": "prod_00009",
+        "quantity": 2,
+        "unit_price": 59.18,
+        "subtotal": 118.36
+      }
+    ],
+    "subtotal": 118.36,
+    "discount": 9.45,
+    "total": 108.91,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_cc64e625e2e5",
+    "session_id": "sess_ea345450d1",
+    "user_id": "user_000054",
+    "timestamp": "2026-01-16T17:48:19.529431",
+    "items": [
+      {
+        "product_id": "prod_00074",
+        "quantity": 1,
+        "unit_price": 92.63,
+        "subtotal": 92.63
+      }
+    ],
+    "subtotal": 92.63,
+    "discount": 7.34,
+    "total": 85.29,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_d4460878acff",
+    "session_id": "sess_3ec2b628eb",
+    "user_id": "user_000054",
+    "timestamp": "2026-01-02T07:20:58.554957",
+    "items": [
+      {
+        "product_id": "prod_00164",
+        "quantity": 1,
+        "unit_price": 15.62,
+        "subtotal": 15.62
+      }
+    ],
+    "subtotal": 15.62,
+    "discount": 1.89,
+    "total": 13.73,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_f4b72c64934b",
+    "session_id": "sess_3055e71a0b",
+    "user_id": "user_000054",
+    "timestamp": "2025-12-27T09:21:20.934831",
+    "items": [
+      {
+        "product_id": "prod_00005",
+        "quantity": 2,
+        "unit_price": 156.8,
+        "subtotal": 313.6
+      }
+    ],
+    "subtotal": 313.6,
+    "discount": 42.67,
+    "total": 270.93,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_0ddd082f2dbb",
+    "session_id": "sess_d4d4183a34",
+    "user_id": "user_000054",
+    "timestamp": "2025-12-31T11:05:42.486254",
+    "items": [
+      {
+        "product_id": "prod_00096",
+        "quantity": 2,
+        "unit_price": 124.92,
+        "subtotal": 249.84
+      }
+    ],
+    "subtotal": 249.84,
+    "discount": 35.44,
+    "total": 214.4,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_22b34d8e3ebe",
+    "session_id": "sess_f28291224f",
+    "user_id": "user_000054",
+    "timestamp": "2026-02-10T13:17:02.686997",
+    "items": [
+      {
+        "product_id": "prod_00064",
+        "quantity": 3,
+        "unit_price": 191.23,
+        "subtotal": 573.6899999999999
+      }
+    ],
+    "subtotal": 573.69,
+    "discount": 41.54,
+    "total": 532.15,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_e98fd86ef4f4",
+    "session_id": "sess_01d30cee36",
+    "user_id": "user_000056",
+    "timestamp": "2025-12-25T15:43:29.562890",
+    "items": [
+      {
+        "product_id": "prod_00045",
+        "quantity": 1,
+        "unit_price": 95.96,
+        "subtotal": 95.96
+      }
+    ],
+    "subtotal": 95.96,
+    "discount": 10.67,
+    "total": 85.29,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_611bb4123a74",
+    "session_id": "sess_c365489c1a",
+    "user_id": "user_000056",
+    "timestamp": "2025-12-11T02:37:18.850252",
+    "items": [
+      {
+        "product_id": "prod_00069",
+        "quantity": 2,
+        "unit_price": 128.21,
+        "subtotal": 256.42
+      }
+    ],
+    "subtotal": 256.42,
+    "discount": 19.28,
+    "total": 237.14,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_25d0393c618c",
+    "session_id": "sess_f5deb0703e",
+    "user_id": "user_000057",
+    "timestamp": "2026-01-10T21:40:16.896967",
+    "items": [
+      {
+        "product_id": "prod_00039",
+        "quantity": 1,
+        "unit_price": 92.89,
+        "subtotal": 92.89
+      }
+    ],
+    "subtotal": 92.89,
+    "discount": 7.28,
+    "total": 85.61,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_3700df9ee4d3",
+    "session_id": "sess_221837c455",
+    "user_id": "user_000058",
+    "timestamp": "2025-12-28T08:04:01.855389",
+    "items": [
+      {
+        "product_id": "prod_00007",
+        "quantity": 2,
+        "unit_price": 85.09,
+        "subtotal": 170.18
+      }
+    ],
+    "subtotal": 170.18,
+    "discount": 20.08,
+    "total": 150.1,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_48967be17b0d",
+    "session_id": "sess_7cf36f3680",
+    "user_id": "user_000058",
+    "timestamp": "2026-02-25T21:29:28.287093",
+    "items": [
+      {
+        "product_id": "prod_00126",
+        "quantity": 1,
+        "unit_price": 163.86,
+        "subtotal": 163.86
+      }
+    ],
+    "subtotal": 163.86,
+    "discount": 12.76,
+    "total": 151.1,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_1a99300f2571",
+    "session_id": "sess_e5aa82d34c",
+    "user_id": "user_000059",
+    "timestamp": "2026-01-11T06:43:20.888712",
+    "items": [
+      {
+        "product_id": "prod_00125",
+        "quantity": 1,
+        "unit_price": 256.03,
+        "subtotal": 256.03
+      }
+    ],
+    "subtotal": 256.03,
+    "discount": 35.8,
+    "total": 220.23,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_233543b7fbe7",
+    "session_id": "sess_6054bf8269",
+    "user_id": "user_000060",
+    "timestamp": "2026-02-14T07:01:09.374750",
+    "items": [
+      {
+        "product_id": "prod_00118",
+        "quantity": 1,
+        "unit_price": 234.76,
+        "subtotal": 234.76
+      }
+    ],
+    "subtotal": 234.76,
+    "discount": 26.59,
+    "total": 208.17,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_b4ab0ea6cff0",
+    "session_id": "sess_980385b21e",
+    "user_id": "user_000060",
+    "timestamp": "2026-02-21T07:59:33.587744",
+    "items": [
+      {
+        "product_id": "prod_00128",
+        "quantity": 1,
+        "unit_price": 14.57,
+        "subtotal": 14.57
+      }
+    ],
+    "subtotal": 14.57,
+    "discount": 1.57,
+    "total": 13.0,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_d12f209fb550",
+    "session_id": "sess_c03b43c975",
+    "user_id": "user_000060",
+    "timestamp": "2025-12-18T07:29:40.425574",
+    "items": [
+      {
+        "product_id": "prod_00018",
+        "quantity": 1,
+        "unit_price": 239.46,
+        "subtotal": 239.46
+      }
+    ],
+    "subtotal": 239.46,
+    "discount": 18.54,
+    "total": 220.92,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_39032b1bd9c6",
+    "session_id": "sess_68c1701c76",
+    "user_id": "user_000062",
+    "timestamp": "2026-01-22T20:32:16.365628",
+    "items": [
+      {
+        "product_id": "prod_00174",
+        "quantity": 1,
+        "unit_price": 184.96,
+        "subtotal": 184.96
+      }
+    ],
+    "subtotal": 184.96,
+    "discount": 20.77,
+    "total": 164.19,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_ab23b224dd53",
+    "session_id": "sess_b2be2f320e",
+    "user_id": "user_000063",
+    "timestamp": "2026-02-09T12:08:25.261992",
+    "items": [
+      {
+        "product_id": "prod_00197",
+        "quantity": 2,
+        "unit_price": 79.41,
+        "subtotal": 158.82
+      }
+    ],
+    "subtotal": 158.82,
+    "discount": 10.2,
+    "total": 148.62,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_be73c985caa9",
+    "session_id": "sess_b68e801304",
+    "user_id": "user_000063",
+    "timestamp": "2026-01-08T17:18:35.062966",
+    "items": [
+      {
+        "product_id": "prod_00017",
+        "quantity": 1,
+        "unit_price": 120.24,
+        "subtotal": 120.24
+      }
+    ],
+    "subtotal": 120.24,
+    "discount": 11.43,
+    "total": 108.81,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_5bb028f4851f",
+    "session_id": "sess_dc14e8c597",
+    "user_id": "user_000064",
+    "timestamp": "2026-01-12T21:09:52.282451",
+    "items": [
+      {
+        "product_id": "prod_00101",
+        "quantity": 3,
+        "unit_price": 60.11,
+        "subtotal": 180.32999999999998
+      }
+    ],
+    "subtotal": 180.33,
+    "discount": 19.58,
+    "total": 160.75,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_9c4357de1a35",
+    "session_id": "sess_d6e1bbef69",
+    "user_id": "user_000064",
+    "timestamp": "2025-12-15T21:36:04.183164",
+    "items": [
+      {
+        "product_id": "prod_00064",
+        "quantity": 2,
+        "unit_price": 191.23,
+        "subtotal": 382.46
+      }
+    ],
+    "subtotal": 382.46,
+    "discount": 52.61,
+    "total": 329.85,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_78d002128e4b",
+    "session_id": "sess_5802aa93da",
+    "user_id": "user_000064",
+    "timestamp": "2025-12-30T02:28:42.502729",
+    "items": [
+      {
+        "product_id": "prod_00072",
+        "quantity": 1,
+        "unit_price": 297.67,
+        "subtotal": 297.67
+      }
+    ],
+    "subtotal": 297.67,
+    "discount": 28.33,
+    "total": 269.34,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_be41827569cb",
+    "session_id": "sess_55acafa2c1",
+    "user_id": "user_000065",
+    "timestamp": "2026-02-18T07:05:11.506551",
+    "items": [
+      {
+        "product_id": "prod_00015",
+        "quantity": 2,
+        "unit_price": 185.34,
+        "subtotal": 370.68
+      }
+    ],
+    "subtotal": 370.68,
+    "discount": 40.36,
+    "total": 330.32,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_aaea15fef881",
+    "session_id": "sess_b4f4d5f40d",
+    "user_id": "user_000067",
+    "timestamp": "2026-02-11T01:51:34.319976",
+    "items": [
+      {
+        "product_id": "prod_00090",
+        "quantity": 1,
+        "unit_price": 261.25,
+        "subtotal": 261.25
+      }
+    ],
+    "subtotal": 261.25,
+    "discount": 18.49,
+    "total": 242.76,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_cdddfe59f5d6",
+    "session_id": "sess_10cf7445a3",
+    "user_id": "user_000068",
+    "timestamp": "2026-02-02T15:45:49.246384",
+    "items": [
+      {
+        "product_id": "prod_00172",
+        "quantity": 2,
+        "unit_price": 249.74,
+        "subtotal": 499.48
+      }
+    ],
+    "subtotal": 499.48,
+    "discount": 66.8,
+    "total": 432.68,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_86e46215951d",
+    "session_id": "sess_f2f433f7c8",
+    "user_id": "user_000069",
+    "timestamp": "2026-02-18T01:12:24.287931",
+    "items": [
+      {
+        "product_id": "prod_00046",
+        "quantity": 1,
+        "unit_price": 12.65,
+        "subtotal": 12.65
+      }
+    ],
+    "subtotal": 12.65,
+    "discount": 1.04,
+    "total": 11.61,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_210b618f39bb",
+    "session_id": "sess_97a68b65a9",
+    "user_id": "user_000069",
+    "timestamp": "2026-02-14T12:42:05.000042",
+    "items": [
+      {
+        "product_id": "prod_00088",
+        "quantity": 2,
+        "unit_price": 48.76,
+        "subtotal": 97.52
+      }
+    ],
+    "subtotal": 97.52,
+    "discount": 6.14,
+    "total": 91.38,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_385f66fadf0f",
+    "session_id": "sess_dbc8a7f584",
+    "user_id": "user_000069",
+    "timestamp": "2026-01-23T00:33:19.657952",
+    "items": [
+      {
+        "product_id": "prod_00091",
+        "quantity": 1,
+        "unit_price": 202.87,
+        "subtotal": 202.87
+      }
+    ],
+    "subtotal": 202.87,
+    "discount": 26.98,
+    "total": 175.89,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_e8f290ec6837",
+    "session_id": "sess_ca5b0383b7",
+    "user_id": "user_000069",
+    "timestamp": "2026-01-20T22:01:48.203760",
+    "items": [
+      {
+        "product_id": "prod_00197",
+        "quantity": 3,
+        "unit_price": 79.41,
+        "subtotal": 238.23
+      }
+    ],
+    "subtotal": 238.23,
+    "discount": 30.56,
+    "total": 207.67,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_b915e80d0160",
+    "session_id": "sess_5229782274",
+    "user_id": "user_000070",
+    "timestamp": "2026-02-06T00:32:44.729136",
+    "items": [
+      {
+        "product_id": "prod_00127",
+        "quantity": 3,
+        "unit_price": 98.07,
+        "subtotal": 294.21
+      }
+    ],
+    "subtotal": 294.21,
+    "discount": 23.32,
+    "total": 270.89,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_41ce7ff17134",
+    "session_id": "sess_f8d2aab64f",
+    "user_id": "user_000072",
+    "timestamp": "2026-01-10T16:22:09.656768",
+    "items": [
+      {
+        "product_id": "prod_00119",
+        "quantity": 2,
+        "unit_price": 16.34,
+        "subtotal": 32.68
+      }
+    ],
+    "subtotal": 32.68,
+    "discount": 4.88,
+    "total": 27.8,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_f5a57427ea79",
+    "session_id": "sess_c6a1b04b62",
+    "user_id": "user_000072",
+    "timestamp": "2026-01-11T10:47:33.008714",
+    "items": [
+      {
+        "product_id": "prod_00018",
+        "quantity": 2,
+        "unit_price": 239.46,
+        "subtotal": 478.92
+      }
+    ],
+    "subtotal": 478.92,
+    "discount": 34.79,
+    "total": 444.13,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_6ae4f5587a32",
+    "session_id": "sess_d0e313c920",
+    "user_id": "user_000072",
+    "timestamp": "2026-01-16T20:12:33.346616",
+    "items": [
+      {
+        "product_id": "prod_00014",
+        "quantity": 2,
+        "unit_price": 195.98,
+        "subtotal": 391.96
+      }
+    ],
+    "subtotal": 391.96,
+    "discount": 21.34,
+    "total": 370.62,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_5b930f6a6798",
+    "session_id": "sess_0135481489",
+    "user_id": "user_000073",
+    "timestamp": "2025-12-18T23:37:03.317718",
+    "items": [
+      {
+        "product_id": "prod_00120",
+        "quantity": 3,
+        "unit_price": 290.19,
+        "subtotal": 870.5699999999999
+      }
+    ],
+    "subtotal": 870.57,
+    "discount": 74.7,
+    "total": 795.87,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_782a5804afeb",
+    "session_id": "sess_e32ce271b4",
+    "user_id": "user_000073",
+    "timestamp": "2026-01-25T02:16:43.724260",
+    "items": [
+      {
+        "product_id": "prod_00187",
+        "quantity": 1,
+        "unit_price": 111.69,
+        "subtotal": 111.69
+      }
+    ],
+    "subtotal": 111.69,
+    "discount": 7.07,
+    "total": 104.62,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_31b29e834858",
+    "session_id": "sess_987cbbf5d1",
+    "user_id": "user_000073",
+    "timestamp": "2025-12-30T06:12:24.341714",
+    "items": [
+      {
+        "product_id": "prod_00011",
+        "quantity": 1,
+        "unit_price": 60.38,
+        "subtotal": 60.38
+      }
+    ],
+    "subtotal": 60.38,
+    "discount": 7.24,
+    "total": 53.14,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_96c57fe42729",
+    "session_id": "sess_6ff035276a",
+    "user_id": "user_000074",
+    "timestamp": "2025-12-09T23:11:16.342235",
+    "items": [
+      {
+        "product_id": "prod_00005",
+        "quantity": 3,
+        "unit_price": 156.8,
+        "subtotal": 470.40000000000003
+      }
+    ],
+    "subtotal": 470.4,
+    "discount": 43.26,
+    "total": 427.14,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_503074424a93",
+    "session_id": "sess_5d121d0f34",
+    "user_id": "user_000074",
+    "timestamp": "2026-02-15T12:35:28.510254",
+    "items": [
+      {
+        "product_id": "prod_00041",
+        "quantity": 1,
+        "unit_price": 47.96,
+        "subtotal": 47.96
+      }
+    ],
+    "subtotal": 47.96,
+    "discount": 6.62,
+    "total": 41.34,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_fc0aa207a01d",
+    "session_id": "sess_ed332d62a1",
+    "user_id": "user_000075",
+    "timestamp": "2026-02-09T23:26:53.462520",
+    "items": [
+      {
+        "product_id": "prod_00184",
+        "quantity": 2,
+        "unit_price": 244.54,
+        "subtotal": 489.08
+      }
+    ],
+    "subtotal": 489.08,
+    "discount": 64.87,
+    "total": 424.21,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_f9bd85f2dad5",
+    "session_id": "sess_709cea3629",
+    "user_id": "user_000075",
+    "timestamp": "2025-12-27T12:23:41.521333",
+    "items": [
+      {
+        "product_id": "prod_00179",
+        "quantity": 3,
+        "unit_price": 67.95,
+        "subtotal": 203.85000000000002
+      }
+    ],
+    "subtotal": 203.85,
+    "discount": 24.78,
+    "total": 179.07,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_9245496dc320",
+    "session_id": "sess_5f9cd53524",
+    "user_id": "user_000075",
+    "timestamp": "2026-02-21T22:30:26.045042",
+    "items": [
+      {
+        "product_id": "prod_00045",
+        "quantity": 1,
+        "unit_price": 95.96,
+        "subtotal": 95.96
+      }
+    ],
+    "subtotal": 95.96,
+    "discount": 7.2,
+    "total": 88.76,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_4aeab9309e8b",
+    "session_id": "sess_39e893a4f8",
+    "user_id": "user_000077",
+    "timestamp": "2026-01-07T00:33:24.871397",
+    "items": [
+      {
+        "product_id": "prod_00055",
+        "quantity": 2,
+        "unit_price": 273.2,
+        "subtotal": 546.4
+      }
+    ],
+    "subtotal": 546.4,
+    "discount": 65.36,
+    "total": 481.04,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_8f8f93179612",
+    "session_id": "sess_3e05b7514a",
+    "user_id": "user_000077",
+    "timestamp": "2026-01-11T09:10:40.598603",
+    "items": [
+      {
+        "product_id": "prod_00020",
+        "quantity": 3,
+        "unit_price": 142.8,
+        "subtotal": 428.40000000000003
+      }
+    ],
+    "subtotal": 428.4,
+    "discount": 47.54,
+    "total": 380.86,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_6d180eefe5a9",
+    "session_id": "sess_ba4834bed8",
+    "user_id": "user_000078",
+    "timestamp": "2026-01-01T03:14:16.301429",
+    "items": [
+      {
+        "product_id": "prod_00186",
+        "quantity": 3,
+        "unit_price": 68.17,
+        "subtotal": 204.51
+      }
+    ],
+    "subtotal": 204.51,
+    "discount": 12.41,
+    "total": 192.1,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_cea9998ddada",
+    "session_id": "sess_f504ca2524",
+    "user_id": "user_000079",
+    "timestamp": "2026-02-10T20:19:00.057413",
+    "items": [
+      {
+        "product_id": "prod_00076",
+        "quantity": 1,
+        "unit_price": 122.69,
+        "subtotal": 122.69
+      }
+    ],
+    "subtotal": 122.69,
+    "discount": 8.5,
+    "total": 114.19,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_7fba047269a4",
+    "session_id": "sess_6310c4893f",
+    "user_id": "user_000081",
+    "timestamp": "2026-02-25T12:09:44.556053",
+    "items": [
+      {
+        "product_id": "prod_00152",
+        "quantity": 3,
+        "unit_price": 191.84,
+        "subtotal": 575.52
+      }
+    ],
+    "subtotal": 575.52,
+    "discount": 80.28,
+    "total": 495.24,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_be0a6dd2aa3a",
+    "session_id": "sess_d75a4b5a6a",
+    "user_id": "user_000082",
+    "timestamp": "2026-02-13T06:19:52.451643",
+    "items": [
+      {
+        "product_id": "prod_00159",
+        "quantity": 3,
+        "unit_price": 108.0,
+        "subtotal": 324.0
+      }
+    ],
+    "subtotal": 324.0,
+    "discount": 24.88,
+    "total": 299.12,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_39ff992f9655",
+    "session_id": "sess_fda4e0a819",
+    "user_id": "user_000082",
+    "timestamp": "2026-01-31T06:27:53.590255",
+    "items": [
+      {
+        "product_id": "prod_00080",
+        "quantity": 2,
+        "unit_price": 67.57,
+        "subtotal": 135.14
+      }
+    ],
+    "subtotal": 135.14,
+    "discount": 7.89,
+    "total": 127.25,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_6a3853dc5e0f",
+    "session_id": "sess_fe350b1ccc",
+    "user_id": "user_000083",
+    "timestamp": "2026-02-20T04:43:57.342045",
+    "items": [
+      {
+        "product_id": "prod_00094",
+        "quantity": 3,
+        "unit_price": 133.1,
+        "subtotal": 399.29999999999995
+      }
+    ],
+    "subtotal": 399.3,
+    "discount": 53.45,
+    "total": 345.85,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_fb944f0f5ca0",
+    "session_id": "sess_3155a577c6",
+    "user_id": "user_000083",
+    "timestamp": "2026-02-03T03:53:20.512800",
+    "items": [
+      {
+        "product_id": "prod_00060",
+        "quantity": 1,
+        "unit_price": 105.06,
+        "subtotal": 105.06
+      }
+    ],
+    "subtotal": 105.06,
+    "discount": 12.06,
+    "total": 93.0,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_21f07c3dcb69",
+    "session_id": "sess_47662565cb",
+    "user_id": "user_000083",
+    "timestamp": "2026-02-28T20:22:18.810118",
+    "items": [
+      {
+        "product_id": "prod_00005",
+        "quantity": 3,
+        "unit_price": 156.8,
+        "subtotal": 470.40000000000003
+      }
+    ],
+    "subtotal": 470.4,
+    "discount": 36.23,
+    "total": 434.17,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_f1e56f8d3c66",
+    "session_id": "sess_d7878c9cb6",
+    "user_id": "user_000084",
+    "timestamp": "2026-01-22T23:39:35.052503",
+    "items": [
+      {
+        "product_id": "prod_00123",
+        "quantity": 2,
+        "unit_price": 291.05,
+        "subtotal": 582.1
+      }
+    ],
+    "subtotal": 582.1,
+    "discount": 44.08,
+    "total": 538.02,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_43b40a1ea651",
+    "session_id": "sess_f31908df70",
+    "user_id": "user_000084",
+    "timestamp": "2025-12-13T12:41:41.987332",
+    "items": [
+      {
+        "product_id": "prod_00022",
+        "quantity": 3,
+        "unit_price": 11.32,
+        "subtotal": 33.96
+      }
+    ],
+    "subtotal": 33.96,
+    "discount": 1.81,
+    "total": 32.15,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_f7060d09a41f",
+    "session_id": "sess_b84bcb4528",
+    "user_id": "user_000084",
+    "timestamp": "2026-02-06T19:50:51.905202",
+    "items": [
+      {
+        "product_id": "prod_00040",
+        "quantity": 1,
+        "unit_price": 235.07,
+        "subtotal": 235.07
+      }
+    ],
+    "subtotal": 235.07,
+    "discount": 26.32,
+    "total": 208.75,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_fdf563500c9f",
+    "session_id": "sess_60610f4aa8",
+    "user_id": "user_000084",
+    "timestamp": "2026-01-21T09:29:14.340144",
+    "items": [
+      {
+        "product_id": "prod_00140",
+        "quantity": 3,
+        "unit_price": 190.58,
+        "subtotal": 571.74
+      }
+    ],
+    "subtotal": 571.74,
+    "discount": 43.01,
+    "total": 528.73,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_185ae130918d",
+    "session_id": "sess_1666d3addb",
+    "user_id": "user_000084",
+    "timestamp": "2026-02-07T19:05:44.193471",
+    "items": [
+      {
+        "product_id": "prod_00166",
+        "quantity": 3,
+        "unit_price": 237.94,
+        "subtotal": 713.8199999999999
+      }
+    ],
+    "subtotal": 713.82,
+    "discount": 90.35,
+    "total": 623.47,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_6e6f8a40c1a3",
+    "session_id": "sess_fb8f0dd577",
+    "user_id": "user_000086",
+    "timestamp": "2025-12-22T08:56:26.461948",
+    "items": [
+      {
+        "product_id": "prod_00164",
+        "quantity": 1,
+        "unit_price": 15.62,
+        "subtotal": 15.62
+      }
+    ],
+    "subtotal": 15.62,
+    "discount": 1.75,
+    "total": 13.87,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_5c065be97388",
+    "session_id": "sess_8add603a9f",
+    "user_id": "user_000086",
+    "timestamp": "2025-12-25T05:56:57.202222",
+    "items": [
+      {
+        "product_id": "prod_00032",
+        "quantity": 2,
+        "unit_price": 280.13,
+        "subtotal": 560.26
+      }
+    ],
+    "subtotal": 560.26,
+    "discount": 82.98,
+    "total": 477.28,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_3da1c44d7dd3",
+    "session_id": "sess_fd7553034e",
+    "user_id": "user_000086",
+    "timestamp": "2026-03-02T20:55:15.811591",
+    "items": [
+      {
+        "product_id": "prod_00158",
+        "quantity": 2,
+        "unit_price": 97.95,
+        "subtotal": 195.9
+      }
+    ],
+    "subtotal": 195.9,
+    "discount": 16.46,
+    "total": 179.44,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_2a3a546ec8b8",
+    "session_id": "sess_cc4dcda1ef",
+    "user_id": "user_000087",
+    "timestamp": "2026-02-17T09:32:16.120619",
+    "items": [
+      {
+        "product_id": "prod_00075",
+        "quantity": 1,
+        "unit_price": 202.38,
+        "subtotal": 202.38
+      }
+    ],
+    "subtotal": 202.38,
+    "discount": 10.15,
+    "total": 192.23,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_6f480b2e554d",
+    "session_id": "sess_91fcb79f10",
+    "user_id": "user_000089",
+    "timestamp": "2026-03-02T21:49:35.510215",
+    "items": [
+      {
+        "product_id": "prod_00102",
+        "quantity": 2,
+        "unit_price": 114.03,
+        "subtotal": 228.06
+      }
+    ],
+    "subtotal": 228.06,
+    "discount": 14.74,
+    "total": 213.32,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_f9d847a84b54",
+    "session_id": "sess_66e8987835",
+    "user_id": "user_000089",
+    "timestamp": "2026-01-02T05:00:59.818545",
+    "items": [
+      {
+        "product_id": "prod_00050",
+        "quantity": 1,
+        "unit_price": 82.97,
+        "subtotal": 82.97
+      }
+    ],
+    "subtotal": 82.97,
+    "discount": 5.46,
+    "total": 77.51,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_fb84b31c5acd",
+    "session_id": "sess_b2b86506e8",
+    "user_id": "user_000089",
+    "timestamp": "2025-12-27T10:28:54.896016",
+    "items": [
+      {
+        "product_id": "prod_00164",
+        "quantity": 2,
+        "unit_price": 15.62,
+        "subtotal": 31.24
+      }
+    ],
+    "subtotal": 31.24,
+    "discount": 2.0,
+    "total": 29.24,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_248694a3f0b6",
+    "session_id": "sess_15ba3b0598",
+    "user_id": "user_000090",
+    "timestamp": "2026-01-01T10:47:54.942840",
+    "items": [
+      {
+        "product_id": "prod_00130",
+        "quantity": 1,
+        "unit_price": 36.75,
+        "subtotal": 36.75
+      }
+    ],
+    "subtotal": 36.75,
+    "discount": 2.39,
+    "total": 34.36,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_c52abcc0f2dd",
+    "session_id": "sess_94a5742c63",
+    "user_id": "user_000091",
+    "timestamp": "2026-01-28T21:00:02.751566",
+    "items": [
+      {
+        "product_id": "prod_00011",
+        "quantity": 1,
+        "unit_price": 60.38,
+        "subtotal": 60.38
+      }
+    ],
+    "subtotal": 60.38,
+    "discount": 5.41,
+    "total": 54.97,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_8dc0d905773e",
+    "session_id": "sess_73a334fece",
+    "user_id": "user_000091",
+    "timestamp": "2026-02-02T08:52:01.744709",
+    "items": [
+      {
+        "product_id": "prod_00148",
+        "quantity": 1,
+        "unit_price": 286.06,
+        "subtotal": 286.06
+      }
+    ],
+    "subtotal": 286.06,
+    "discount": 21.75,
+    "total": 264.31,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_718c069f4115",
+    "session_id": "sess_8879465b2b",
+    "user_id": "user_000092",
+    "timestamp": "2026-02-17T01:27:30.377633",
+    "items": [
+      {
+        "product_id": "prod_00069",
+        "quantity": 2,
+        "unit_price": 128.21,
+        "subtotal": 256.42
+      }
+    ],
+    "subtotal": 256.42,
+    "discount": 37.12,
+    "total": 219.3,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_062d7d9e6254",
+    "session_id": "sess_c58d3f50c7",
+    "user_id": "user_000093",
+    "timestamp": "2026-03-03T20:46:18.782640",
+    "items": [
+      {
+        "product_id": "prod_00145",
+        "quantity": 2,
+        "unit_price": 16.21,
+        "subtotal": 32.42
+      }
+    ],
+    "subtotal": 32.42,
+    "discount": 4.44,
+    "total": 27.98,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_6ddba7d2f128",
+    "session_id": "sess_24b43da382",
+    "user_id": "user_000093",
+    "timestamp": "2026-01-27T12:41:50.410901",
+    "items": [
+      {
+        "product_id": "prod_00044",
+        "quantity": 1,
+        "unit_price": 201.23,
+        "subtotal": 201.23
+      }
+    ],
+    "subtotal": 201.23,
+    "discount": 29.37,
+    "total": 171.86,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_7c8bdbd36ebd",
+    "session_id": "sess_9651a9241b",
+    "user_id": "user_000094",
+    "timestamp": "2026-01-03T11:39:46.671608",
+    "items": [
+      {
+        "product_id": "prod_00030",
+        "quantity": 3,
+        "unit_price": 112.71,
+        "subtotal": 338.13
+      }
+    ],
+    "subtotal": 338.13,
+    "discount": 38.78,
+    "total": 299.35,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_998076a20b55",
+    "session_id": "sess_4f5bec5bfc",
+    "user_id": "user_000096",
+    "timestamp": "2026-01-21T16:46:56.877431",
+    "items": [
+      {
+        "product_id": "prod_00002",
+        "quantity": 3,
+        "unit_price": 291.11,
+        "subtotal": 873.33
+      }
+    ],
+    "subtotal": 873.33,
+    "discount": 47.91,
+    "total": 825.42,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_1e8d6f724acd",
+    "session_id": "sess_48d6a2d192",
+    "user_id": "user_000096",
+    "timestamp": "2026-03-05T08:25:33.641609",
+    "items": [
+      {
+        "product_id": "prod_00039",
+        "quantity": 3,
+        "unit_price": 92.89,
+        "subtotal": 278.67
+      }
+    ],
+    "subtotal": 278.67,
+    "discount": 35.56,
+    "total": 243.11,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_86688ef91614",
+    "session_id": "sess_cb2e8a8770",
+    "user_id": "user_000097",
+    "timestamp": "2025-12-09T23:24:06.705591",
+    "items": [
+      {
+        "product_id": "prod_00119",
+        "quantity": 1,
+        "unit_price": 16.34,
+        "subtotal": 16.34
+      }
+    ],
+    "subtotal": 16.34,
+    "discount": 1.69,
+    "total": 14.65,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_73e4723a26ef",
+    "session_id": "sess_1f785af17b",
+    "user_id": "user_000097",
+    "timestamp": "2026-02-20T01:36:19.869923",
+    "items": [
+      {
+        "product_id": "prod_00199",
+        "quantity": 1,
+        "unit_price": 290.09,
+        "subtotal": 290.09
+      }
+    ],
+    "subtotal": 290.09,
+    "discount": 24.95,
+    "total": 265.14,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_4b6ecd8d3cba",
+    "session_id": "sess_c0445f7a98",
+    "user_id": "user_000097",
+    "timestamp": "2026-02-19T09:20:45.194117",
+    "items": [
+      {
+        "product_id": "prod_00158",
+        "quantity": 2,
+        "unit_price": 97.95,
+        "subtotal": 195.9
+      }
+    ],
+    "subtotal": 195.9,
+    "discount": 25.65,
+    "total": 170.25,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_dcb3792c1450",
+    "session_id": "sess_5cebe0670e",
+    "user_id": "user_000098",
+    "timestamp": "2026-02-12T02:12:26.094263",
+    "items": [
+      {
+        "product_id": "prod_00042",
+        "quantity": 3,
+        "unit_price": 265.77,
+        "subtotal": 797.31
+      }
+    ],
+    "subtotal": 797.31,
+    "discount": 98.28,
+    "total": 699.03,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_3ee4762ffe93",
+    "session_id": "sess_ad9245861a",
+    "user_id": "user_000098",
+    "timestamp": "2026-02-15T01:50:17.665041",
+    "items": [
+      {
+        "product_id": "prod_00094",
+        "quantity": 3,
+        "unit_price": 133.1,
+        "subtotal": 399.29999999999995
+      }
+    ],
+    "subtotal": 399.3,
+    "discount": 35.54,
+    "total": 363.76,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_0001d9659c3f",
+    "session_id": "sess_4e93aa333b",
+    "user_id": "user_000098",
+    "timestamp": "2026-03-02T12:40:47.425884",
+    "items": [
+      {
+        "product_id": "prod_00086",
+        "quantity": 1,
+        "unit_price": 233.31,
+        "subtotal": 233.31
+      }
+    ],
+    "subtotal": 233.31,
+    "discount": 20.59,
+    "total": 212.72,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_363900cf3e58",
+    "session_id": "sess_0391c76b88",
+    "user_id": "user_000099",
+    "timestamp": "2026-02-11T03:52:19.629536",
+    "items": [
+      {
+        "product_id": "prod_00128",
+        "quantity": 3,
+        "unit_price": 14.57,
+        "subtotal": 43.71
+      }
+    ],
+    "subtotal": 43.71,
+    "discount": 2.47,
+    "total": 41.24,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_8f89296b6a21",
+    "session_id": "sess_c92a50a8e9",
+    "user_id": "user_000100",
+    "timestamp": "2026-01-31T16:11:36.748541",
+    "items": [
+      {
+        "product_id": "prod_00104",
+        "quantity": 3,
+        "unit_price": 195.8,
+        "subtotal": 587.4000000000001
+      }
+    ],
+    "subtotal": 587.4,
+    "discount": 42.19,
+    "total": 545.21,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_e0104cd25620",
+    "session_id": "sess_42e397a96f",
+    "user_id": "user_000101",
+    "timestamp": "2026-02-21T17:09:04.427771",
+    "items": [
+      {
+        "product_id": "prod_00119",
+        "quantity": 1,
+        "unit_price": 16.34,
+        "subtotal": 16.34
+      }
+    ],
+    "subtotal": 16.34,
+    "discount": 1.75,
+    "total": 14.59,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_88a77a685f3d",
+    "session_id": "sess_b40f1977ce",
+    "user_id": "user_000102",
+    "timestamp": "2026-01-10T03:25:54.945370",
+    "items": [
+      {
+        "product_id": "prod_00100",
+        "quantity": 2,
+        "unit_price": 296.0,
+        "subtotal": 592.0
+      }
+    ],
+    "subtotal": 592.0,
+    "discount": 47.5,
+    "total": 544.5,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_5286b7a893be",
+    "session_id": "sess_da4a65d4be",
+    "user_id": "user_000103",
+    "timestamp": "2026-01-25T03:43:52.363376",
+    "items": [
+      {
+        "product_id": "prod_00116",
+        "quantity": 2,
+        "unit_price": 204.82,
+        "subtotal": 409.64
+      }
+    ],
+    "subtotal": 409.64,
+    "discount": 52.67,
+    "total": 356.97,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_0ae576770d4d",
+    "session_id": "sess_c97e0c7a9a",
+    "user_id": "user_000103",
+    "timestamp": "2026-01-15T14:55:54.786788",
+    "items": [
+      {
+        "product_id": "prod_00093",
+        "quantity": 3,
+        "unit_price": 23.01,
+        "subtotal": 69.03
+      }
+    ],
+    "subtotal": 69.03,
+    "discount": 7.0,
+    "total": 62.03,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_1d2b8a0421df",
+    "session_id": "sess_1c8b041179",
+    "user_id": "user_000103",
+    "timestamp": "2026-01-25T10:25:00.100670",
+    "items": [
+      {
+        "product_id": "prod_00029",
+        "quantity": 1,
+        "unit_price": 185.12,
+        "subtotal": 185.12
+      }
+    ],
+    "subtotal": 185.12,
+    "discount": 24.56,
+    "total": 160.56,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_f07bc3889e92",
+    "session_id": "sess_254f9989de",
+    "user_id": "user_000104",
+    "timestamp": "2026-01-23T17:22:42.908976",
+    "items": [
+      {
+        "product_id": "prod_00037",
+        "quantity": 1,
+        "unit_price": 273.94,
+        "subtotal": 273.94
+      }
+    ],
+    "subtotal": 273.94,
+    "discount": 38.72,
+    "total": 235.22,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_aad783ef4201",
+    "session_id": "sess_6cd14ebc4e",
+    "user_id": "user_000104",
+    "timestamp": "2026-02-02T21:09:06.608080",
+    "items": [
+      {
+        "product_id": "prod_00092",
+        "quantity": 3,
+        "unit_price": 253.85,
+        "subtotal": 761.55
+      }
+    ],
+    "subtotal": 761.55,
+    "discount": 70.59,
+    "total": 690.96,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_f42291a00c22",
+    "session_id": "sess_ee02cb3522",
+    "user_id": "user_000106",
+    "timestamp": "2026-01-26T11:21:24.544729",
+    "items": [
+      {
+        "product_id": "prod_00181",
+        "quantity": 1,
+        "unit_price": 244.32,
+        "subtotal": 244.32
+      }
+    ],
+    "subtotal": 244.32,
+    "discount": 34.84,
+    "total": 209.48,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_1459cb9afc52",
+    "session_id": "sess_90525a26de",
+    "user_id": "user_000107",
+    "timestamp": "2026-01-07T00:37:32.867884",
+    "items": [
+      {
+        "product_id": "prod_00032",
+        "quantity": 3,
+        "unit_price": 280.13,
+        "subtotal": 840.39
+      }
+    ],
+    "subtotal": 840.39,
+    "discount": 122.75,
+    "total": 717.64,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_a819ee230d2c",
+    "session_id": "sess_148babc38c",
+    "user_id": "user_000107",
+    "timestamp": "2026-02-23T06:27:30.336971",
+    "items": [
+      {
+        "product_id": "prod_00147",
+        "quantity": 1,
+        "unit_price": 13.88,
+        "subtotal": 13.88
+      }
+    ],
+    "subtotal": 13.88,
+    "discount": 1.76,
+    "total": 12.12,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_01501e1d92fb",
+    "session_id": "sess_87114d0d86",
+    "user_id": "user_000108",
+    "timestamp": "2025-12-29T23:45:49.418879",
+    "items": [
+      {
+        "product_id": "prod_00058",
+        "quantity": 1,
+        "unit_price": 219.62,
+        "subtotal": 219.62
+      }
+    ],
+    "subtotal": 219.62,
+    "discount": 28.24,
+    "total": 191.38,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_2df35913ecdc",
+    "session_id": "sess_13ba091e1b",
+    "user_id": "user_000110",
+    "timestamp": "2026-01-18T08:53:45.007874",
+    "items": [
+      {
+        "product_id": "prod_00131",
+        "quantity": 3,
+        "unit_price": 168.54,
+        "subtotal": 505.62
+      }
+    ],
+    "subtotal": 505.62,
+    "discount": 28.15,
+    "total": 477.47,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_0a9f5a8fb8e1",
+    "session_id": "sess_a4d9f18696",
+    "user_id": "user_000111",
+    "timestamp": "2026-01-27T14:18:45.576040",
+    "items": [
+      {
+        "product_id": "prod_00119",
+        "quantity": 1,
+        "unit_price": 16.34,
+        "subtotal": 16.34
+      }
+    ],
+    "subtotal": 16.34,
+    "discount": 1.81,
+    "total": 14.53,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_2c6245ecd06d",
+    "session_id": "sess_3f8a6aef4b",
+    "user_id": "user_000112",
+    "timestamp": "2026-01-06T09:28:35.301499",
+    "items": [
+      {
+        "product_id": "prod_00100",
+        "quantity": 2,
+        "unit_price": 296.0,
+        "subtotal": 592.0
+      }
+    ],
+    "subtotal": 592.0,
+    "discount": 70.5,
+    "total": 521.5,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_6bf809126e0e",
+    "session_id": "sess_5997d8f41a",
+    "user_id": "user_000112",
+    "timestamp": "2026-01-31T02:49:51.109426",
+    "items": [
+      {
+        "product_id": "prod_00172",
+        "quantity": 3,
+        "unit_price": 249.74,
+        "subtotal": 749.22
+      }
+    ],
+    "subtotal": 749.22,
+    "discount": 67.89,
+    "total": 681.33,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_867178a2b930",
+    "session_id": "sess_0835301891",
+    "user_id": "user_000112",
+    "timestamp": "2026-01-03T20:47:00.931687",
+    "items": [
+      {
+        "product_id": "prod_00151",
+        "quantity": 2,
+        "unit_price": 283.98,
+        "subtotal": 567.96
+      }
+    ],
+    "subtotal": 567.96,
+    "discount": 45.63,
+    "total": 522.33,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_cfc6418faa95",
+    "session_id": "sess_22d3ad2dfd",
+    "user_id": "user_000113",
+    "timestamp": "2026-02-02T09:09:14.663501",
+    "items": [
+      {
+        "product_id": "prod_00180",
+        "quantity": 1,
+        "unit_price": 274.12,
+        "subtotal": 274.12
+      }
+    ],
+    "subtotal": 274.12,
+    "discount": 18.21,
+    "total": 255.91,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_a1aa231e1f0c",
+    "session_id": "sess_08aa180d6b",
+    "user_id": "user_000114",
+    "timestamp": "2026-01-23T09:12:54.321209",
+    "items": [
+      {
+        "product_id": "prod_00109",
+        "quantity": 1,
+        "unit_price": 33.47,
+        "subtotal": 33.47
+      }
+    ],
+    "subtotal": 33.47,
+    "discount": 2.7,
+    "total": 30.77,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_2349b1c93f4a",
+    "session_id": "sess_f12ab6f582",
+    "user_id": "user_000115",
+    "timestamp": "2026-01-17T03:58:57.263225",
+    "items": [
+      {
+        "product_id": "prod_00121",
+        "quantity": 3,
+        "unit_price": 215.08,
+        "subtotal": 645.24
+      }
+    ],
+    "subtotal": 645.24,
+    "discount": 73.94,
+    "total": 571.3,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_ad15c048927c",
+    "session_id": "sess_a858a41286",
+    "user_id": "user_000115",
+    "timestamp": "2025-12-20T17:21:27.505046",
+    "items": [
+      {
+        "product_id": "prod_00077",
+        "quantity": 3,
+        "unit_price": 155.03,
+        "subtotal": 465.09000000000003
+      }
+    ],
+    "subtotal": 465.09,
+    "discount": 30.51,
+    "total": 434.58,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_37b7e156a4b4",
+    "session_id": "sess_0b4497af18",
+    "user_id": "user_000116",
+    "timestamp": "2026-01-04T21:53:34.246674",
+    "items": [
+      {
+        "product_id": "prod_00040",
+        "quantity": 1,
+        "unit_price": 235.07,
+        "subtotal": 235.07
+      }
+    ],
+    "subtotal": 235.07,
+    "discount": 16.59,
+    "total": 218.48,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_11758e5b9703",
+    "session_id": "sess_7a4338c3ad",
+    "user_id": "user_000116",
+    "timestamp": "2026-01-08T03:12:12.026704",
+    "items": [
+      {
+        "product_id": "prod_00179",
+        "quantity": 2,
+        "unit_price": 67.95,
+        "subtotal": 135.9
+      }
+    ],
+    "subtotal": 135.9,
+    "discount": 7.2,
+    "total": 128.7,
+    "payment_method": "mobile_money",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_a7effb68ebfc",
+    "session_id": "sess_150789dc85",
+    "user_id": "user_000117",
+    "timestamp": "2026-01-23T01:38:39.142406",
+    "items": [
+      {
+        "product_id": "prod_00113",
+        "quantity": 2,
+        "unit_price": 298.93,
+        "subtotal": 597.86
+      }
+    ],
+    "subtotal": 597.86,
+    "discount": 71.16,
+    "total": 526.7,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_e6b46ef4ade4",
+    "session_id": "sess_e9a2021a04",
+    "user_id": "user_000118",
+    "timestamp": "2026-01-31T13:27:23.411836",
+    "items": [
+      {
+        "product_id": "prod_00197",
+        "quantity": 3,
+        "unit_price": 79.41,
+        "subtotal": 238.23
+      }
+    ],
+    "subtotal": 238.23,
+    "discount": 34.43,
+    "total": 203.8,
+    "payment_method": "credit_card",
+    "status": "completed"
+  },
+  {
+    "transaction_id": "txn_1434e7e5d55a",
+    "session_id": "sess_dda1f24cac",
+    "user_id": "user_000119",
+    "timestamp": "2025-12-18T03:21:06.720790",
+    "items": [
+      {
+        "product_id": "prod_00167",
+        "quantity": 2,
+        "unit_price": 42.73,
+        "subtotal": 85.46
+      }
+    ],
+    "subtotal": 85.46,
+    "discount": 6.78,
+    "total": 78.68,
+    "payment_method": "bank_transfer",
+    "status": "completed"
+  }
+]

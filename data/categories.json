@@ -1,0 +1,170 @@
+[
+  {
+    "category_id": "cat_000",
+    "name": "Without",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_000_00",
+        "name": "Thus",
+        "profit_margin": 0.1
+      },
+      {
+        "subcategory_id": "sub_000_01",
+        "name": "This",
+        "profit_margin": 0.39
+      },
+      {
+        "subcategory_id": "sub_000_02",
+        "name": "Because",
+        "profit_margin": 0.1
+      }
+    ]
+  },
+  {
+    "category_id": "cat_001",
+    "name": "Game",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_001_00",
+        "name": "High",
+        "profit_margin": 0.14
+      },
+      {
+        "subcategory_id": "sub_001_01",
+        "name": "Use",
+        "profit_margin": 0.34
+      },
+      {
+        "subcategory_id": "sub_001_02",
+        "name": "Site",
+        "profit_margin": 0.14
+      }
+    ]
+  },
+  {
+    "category_id": "cat_002",
+    "name": "Young",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_002_00",
+        "name": "Could",
+        "profit_margin": 0.17
+      },
+      {
+        "subcategory_id": "sub_002_01",
+        "name": "Company",
+        "profit_margin": 0.17
+      },
+      {
+        "subcategory_id": "sub_002_02",
+        "name": "Instead",
+        "profit_margin": 0.35
+      }
+    ]
+  },
+  {
+    "category_id": "cat_003",
+    "name": "Who",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_003_00",
+        "name": "Senior",
+        "profit_margin": 0.17
+      },
+      {
+        "subcategory_id": "sub_003_01",
+        "name": "Lead",
+        "profit_margin": 0.33
+      },
+      {
+        "subcategory_id": "sub_003_02",
+        "name": "Service",
+        "profit_margin": 0.27
+      }
+    ]
+  },
+  {
+    "category_id": "cat_004",
+    "name": "Success",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_004_00",
+        "name": "Hundred",
+        "profit_margin": 0.18
+      },
+      {
+        "subcategory_id": "sub_004_01",
+        "name": "Growth",
+        "profit_margin": 0.23
+      },
+      {
+        "subcategory_id": "sub_004_02",
+        "name": "Possible",
+        "profit_margin": 0.35
+      }
+    ]
+  },
+  {
+    "category_id": "cat_005",
+    "name": "Spend",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_005_00",
+        "name": "Successful",
+        "profit_margin": 0.27
+      },
+      {
+        "subcategory_id": "sub_005_01",
+        "name": "Last",
+        "profit_margin": 0.14
+      },
+      {
+        "subcategory_id": "sub_005_02",
+        "name": "Charge",
+        "profit_margin": 0.11
+      }
+    ]
+  },
+  {
+    "category_id": "cat_006",
+    "name": "Option",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_006_00",
+        "name": "Course",
+        "profit_margin": 0.15
+      },
+      {
+        "subcategory_id": "sub_006_01",
+        "name": "Community",
+        "profit_margin": 0.28
+      },
+      {
+        "subcategory_id": "sub_006_02",
+        "name": "Organization",
+        "profit_margin": 0.18
+      }
+    ]
+  },
+  {
+    "category_id": "cat_007",
+    "name": "Surface",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_007_00",
+        "name": "Detail",
+        "profit_margin": 0.32
+      },
+      {
+        "subcategory_id": "sub_007_01",
+        "name": "Most",
+        "profit_margin": 0.13
+      },
+      {
+        "subcategory_id": "sub_007_02",
+        "name": "Dark",
+        "profit_margin": 0.14
+      }
+    ]
+  }
+]

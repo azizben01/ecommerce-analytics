@@ -1,0 +1,6 @@
+city,province,customer_count,total_revenue_rwf,avg_order_value_rwf,total_orders,total_revenue_usd,avg_order_usd
+Ouahigouya,Yatenga,29,10204.22,159.4409375,64,9.18,0.14
+Bobo-Dioulasso,Houet,21,6956.94,151.23782608695652,46,6.26,0.14
+Ouagadougou,Kadiogo,20,6520.5,163.0125,40,5.87,0.15
+Koudougou,Boulkiemdé,21,5906.45,155.4328947368421,38,5.32,0.14
+Banfora,Comoé,12,3230.01,170.00052631578947,19,2.91,0.15

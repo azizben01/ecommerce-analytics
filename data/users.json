@@ -1,0 +1,1202 @@
+[
+  {
+    "user_id": "user_000000",
+    "geo_data": {
+      "city": "Ouahigouya",
+      "state": "Yatenga",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-31T05:20:15.113226",
+    "last_active": "2026-02-28T13:11:39.411763"
+  },
+  {
+    "user_id": "user_000001",
+    "geo_data": {
+      "city": "Ouagadougou",
+      "state": "Kadiogo",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-07T17:03:35.549530",
+    "last_active": "2026-03-06T12:10:28.888790"
+  },
+  {
+    "user_id": "user_000002",
+    "geo_data": {
+      "city": "Koudougou",
+      "state": "Boulkiemd\u00e9",
+      "country": "BF"
+    },
+    "registration_date": "2026-02-02T12:50:47.176536",
+    "last_active": "2026-02-12T22:55:41.324922"
+  },
+  {
+    "user_id": "user_000003",
+    "geo_data": {
+      "city": "Ouahigouya",
+      "state": "Yatenga",
+      "country": "BF"
+    },
+    "registration_date": "2026-02-21T13:15:39.593770",
+    "last_active": "2026-03-06T19:35:35.770974"
+  },
+  {
+    "user_id": "user_000004",
+    "geo_data": {
+      "city": "Ouagadougou",
+      "state": "Kadiogo",
+      "country": "BF"
+    },
+    "registration_date": "2026-02-11T01:21:48.518417",
+    "last_active": "2026-02-12T01:29:34.514400"
+  },
+  {
+    "user_id": "user_000005",
+    "geo_data": {
+      "city": "Koudougou",
+      "state": "Boulkiemd\u00e9",
+      "country": "BF"
+    },
+    "registration_date": "2026-02-02T06:45:07.034826",
+    "last_active": "2026-03-06T09:44:45.746572"
+  },
+  {
+    "user_id": "user_000006",
+    "geo_data": {
+      "city": "Ouagadougou",
+      "state": "Kadiogo",
+      "country": "BF"
+    },
+    "registration_date": "2026-02-08T15:37:26.798738",
+    "last_active": "2026-02-16T10:50:55.151196"
+  },
+  {
+    "user_id": "user_000007",
+    "geo_data": {
+      "city": "Banfora",
+      "state": "Como\u00e9",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-01T06:32:50.894965",
+    "last_active": "2026-02-04T04:32:42.890127"
+  },
+  {
+    "user_id": "user_000008",
+    "geo_data": {
+      "city": "Banfora",
+      "state": "Como\u00e9",
+      "country": "BF"
+    },
+    "registration_date": "2025-12-17T13:23:59.746847",
+    "last_active": "2026-01-26T18:05:33.980992"
+  },
+  {
+    "user_id": "user_000009",
+    "geo_data": {
+      "city": "Ouagadougou",
+      "state": "Kadiogo",
+      "country": "BF"
+    },
+    "registration_date": "2025-12-10T02:14:41.331312",
+    "last_active": "2026-01-14T13:58:45.002232"
+  },
+  {
+    "user_id": "user_000010",
+    "geo_data": {
+      "city": "Banfora",
+      "state": "Como\u00e9",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-24T10:49:50.913833",
+    "last_active": "2026-02-02T17:25:12.774338"
+  },
+  {
+    "user_id": "user_000011",
+    "geo_data": {
+      "city": "Ouagadougou",
+      "state": "Kadiogo",
+      "country": "BF"
+    },
+    "registration_date": "2025-12-13T21:55:58.987876",
+    "last_active": "2026-02-22T22:42:23.547250"
+  },
+  {
+    "user_id": "user_000012",
+    "geo_data": {
+      "city": "Ouahigouya",
+      "state": "Yatenga",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-26T02:47:41.426484",
+    "last_active": "2026-01-27T00:49:12.684467"
+  },
+  {
+    "user_id": "user_000013",
+    "geo_data": {
+      "city": "Koudougou",
+      "state": "Boulkiemd\u00e9",
+      "country": "BF"
+    },
+    "registration_date": "2026-02-23T02:19:29.855044",
+    "last_active": "2026-03-04T03:05:27.460384"
+  },
+  {
+    "user_id": "user_000014",
+    "geo_data": {
+      "city": "Banfora",
+      "state": "Como\u00e9",
+      "country": "BF"
+    },
+    "registration_date": "2026-03-02T05:28:51.894553",
+    "last_active": "2026-03-02T22:51:09.398262"
+  },
+  {
+    "user_id": "user_000015",
+    "geo_data": {
+      "city": "Ouagadougou",
+      "state": "Kadiogo",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-12T21:10:07.856795",
+    "last_active": "2026-01-24T17:24:38.799922"
+  },
+  {
+    "user_id": "user_000016",
+    "geo_data": {
+      "city": "Ouahigouya",
+      "state": "Yatenga",
+      "country": "BF"
+    },
+    "registration_date": "2025-12-30T21:50:27.473152",
+    "last_active": "2026-02-24T21:10:27.268339"
+  },
+  {
+    "user_id": "user_000017",
+    "geo_data": {
+      "city": "Koudougou",
+      "state": "Boulkiemd\u00e9",
+      "country": "BF"
+    },
+    "registration_date": "2026-03-02T03:10:13.168194",
+    "last_active": "2026-03-07T01:44:19.028549"
+  },
+  {
+    "user_id": "user_000018",
+    "geo_data": {
+      "city": "Ouahigouya",
+      "state": "Yatenga",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-30T05:38:41.973572",
+    "last_active": "2026-02-14T05:21:00.556989"
+  },
+  {
+    "user_id": "user_000019",
+    "geo_data": {
+      "city": "Ouagadougou",
+      "state": "Kadiogo",
+      "country": "BF"
+    },
+    "registration_date": "2025-12-25T02:48:03.724414",
+    "last_active": "2026-01-15T07:32:19.053655"
+  },
+  {
+    "user_id": "user_000020",
+    "geo_data": {
+      "city": "Banfora",
+      "state": "Como\u00e9",
+      "country": "BF"
+    },
+    "registration_date": "2026-03-06T03:34:53.202346",
+    "last_active": "2026-03-06T23:23:32.808381"
+  },
+  {
+    "user_id": "user_000021",
+    "geo_data": {
+      "city": "Bobo-Dioulasso",
+      "state": "Houet",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-23T18:18:37.322430",
+    "last_active": "2026-02-20T10:40:17.395190"
+  },
+  {
+    "user_id": "user_000022",
+    "geo_data": {
+      "city": "Ouahigouya",
+      "state": "Yatenga",
+      "country": "BF"
+    },
+    "registration_date": "2025-12-26T20:00:13.860568",
+    "last_active": "2026-02-10T21:00:00.179854"
+  },
+  {
+    "user_id": "user_000023",
+    "geo_data": {
+      "city": "Ouahigouya",
+      "state": "Yatenga",
+      "country": "BF"
+    },
+    "registration_date": "2025-12-27T11:46:07.646230",
+    "last_active": "2026-01-20T16:31:20.074615"
+  },
+  {
+    "user_id": "user_000024",
+    "geo_data": {
+      "city": "Ouahigouya",
+      "state": "Yatenga",
+      "country": "BF"
+    },
+    "registration_date": "2026-02-08T17:01:38.894932",
+    "last_active": "2026-03-01T07:26:23.283063"
+  },
+  {
+    "user_id": "user_000025",
+    "geo_data": {
+      "city": "Bobo-Dioulasso",
+      "state": "Houet",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-08T20:07:21.375478",
+    "last_active": "2026-01-26T08:56:36.418693"
+  },
+  {
+    "user_id": "user_000026",
+    "geo_data": {
+      "city": "Bobo-Dioulasso",
+      "state": "Houet",
+      "country": "BF"
+    },
+    "registration_date": "2026-02-15T05:10:16.976293",
+    "last_active": "2026-02-23T06:35:24.671913"
+  },
+  {
+    "user_id": "user_000027",
+    "geo_data": {
+      "city": "Banfora",
+      "state": "Como\u00e9",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-16T13:10:16.623765",
+    "last_active": "2026-01-19T12:44:44.109277"
+  },
+  {
+    "user_id": "user_000028",
+    "geo_data": {
+      "city": "Bobo-Dioulasso",
+      "state": "Houet",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-02T01:13:46.851256",
+    "last_active": "2026-01-12T14:12:30.432995"
+  },
+  {
+    "user_id": "user_000029",
+    "geo_data": {
+      "city": "Banfora",
+      "state": "Como\u00e9",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-31T06:04:05.551063",
+    "last_active": "2026-02-03T10:50:02.697043"
+  },
+  {
+    "user_id": "user_000030",
+    "geo_data": {
+      "city": "Ouahigouya",
+      "state": "Yatenga",
+      "country": "BF"
+    },
+    "registration_date": "2025-12-12T09:13:18.703015",
+    "last_active": "2026-02-17T20:39:49.601940"
+  },
+  {
+    "user_id": "user_000031",
+    "geo_data": {
+      "city": "Koudougou",
+      "state": "Boulkiemd\u00e9",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-23T03:02:39.515883",
+    "last_active": "2026-02-03T08:59:02.474883"
+  },
+  {
+    "user_id": "user_000032",
+    "geo_data": {
+      "city": "Ouagadougou",
+      "state": "Kadiogo",
+      "country": "BF"
+    },
+    "registration_date": "2026-03-06T22:28:39.019783",
+    "last_active": "2026-03-07T12:32:12.595264"
+  },
+  {
+    "user_id": "user_000033",
+    "geo_data": {
+      "city": "Ouagadougou",
+      "state": "Kadiogo",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-25T12:17:57.620343",
+    "last_active": "2026-02-23T21:12:49.144187"
+  },
+  {
+    "user_id": "user_000034",
+    "geo_data": {
+      "city": "Koudougou",
+      "state": "Boulkiemd\u00e9",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-22T09:25:27.143890",
+    "last_active": "2026-03-06T07:26:11.411406"
+  },
+  {
+    "user_id": "user_000035",
+    "geo_data": {
+      "city": "Koudougou",
+      "state": "Boulkiemd\u00e9",
+      "country": "BF"
+    },
+    "registration_date": "2025-12-26T18:12:54.265357",
+    "last_active": "2026-02-19T14:56:56.487611"
+  },
+  {
+    "user_id": "user_000036",
+    "geo_data": {
+      "city": "Ouahigouya",
+      "state": "Yatenga",
+      "country": "BF"
+    },
+    "registration_date": "2025-12-09T15:15:13.125377",
+    "last_active": "2026-01-04T10:00:04.073073"
+  },
+  {
+    "user_id": "user_000037",
+    "geo_data": {
+      "city": "Ouahigouya",
+      "state": "Yatenga",
+      "country": "BF"
+    },
+    "registration_date": "2026-02-21T04:44:42.287012",
+    "last_active": "2026-03-02T08:58:12.270403"
+  },
+  {
+    "user_id": "user_000038",
+    "geo_data": {
+      "city": "Koudougou",
+      "state": "Boulkiemd\u00e9",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-20T17:35:14.748884",
+    "last_active": "2026-02-06T07:40:34.859940"
+  },
+  {
+    "user_id": "user_000039",
+    "geo_data": {
+      "city": "Bobo-Dioulasso",
+      "state": "Houet",
+      "country": "BF"
+    },
+    "registration_date": "2025-12-29T17:56:02.641663",
+    "last_active": "2026-02-09T07:00:43.129313"
+  },
+  {
+    "user_id": "user_000040",
+    "geo_data": {
+      "city": "Ouahigouya",
+      "state": "Yatenga",
+      "country": "BF"
+    },
+    "registration_date": "2025-12-28T21:22:07.992544",
+    "last_active": "2026-01-21T10:44:32.076316"
+  },
+  {
+    "user_id": "user_000041",
+    "geo_data": {
+      "city": "Ouahigouya",
+      "state": "Yatenga",
+      "country": "BF"
+    },
+    "registration_date": "2026-03-07T08:26:16.969116",
+    "last_active": "2026-03-07T11:37:03.885043"
+  },
+  {
+    "user_id": "user_000042",
+    "geo_data": {
+      "city": "Koudougou",
+      "state": "Boulkiemd\u00e9",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-19T23:20:19.624216",
+    "last_active": "2026-03-06T16:07:04.709454"
+  },
+  {
+    "user_id": "user_000043",
+    "geo_data": {
+      "city": "Ouahigouya",
+      "state": "Yatenga",
+      "country": "BF"
+    },
+    "registration_date": "2026-02-26T20:37:08.964346",
+    "last_active": "2026-03-04T02:06:56.496969"
+  },
+  {
+    "user_id": "user_000044",
+    "geo_data": {
+      "city": "Ouagadougou",
+      "state": "Kadiogo",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-15T14:18:01.368268",
+    "last_active": "2026-02-13T03:59:19.947076"
+  },
+  {
+    "user_id": "user_000045",
+    "geo_data": {
+      "city": "Ouagadougou",
+      "state": "Kadiogo",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-07T21:09:06.808295",
+    "last_active": "2026-01-27T19:00:52.027242"
+  },
+  {
+    "user_id": "user_000046",
+    "geo_data": {
+      "city": "Bobo-Dioulasso",
+      "state": "Houet",
+      "country": "BF"
+    },
+    "registration_date": "2025-12-08T09:15:45.575869",
+    "last_active": "2026-01-20T00:19:07.028119"
+  },
+  {
+    "user_id": "user_000047",
+    "geo_data": {
+      "city": "Ouahigouya",
+      "state": "Yatenga",
+      "country": "BF"
+    },
+    "registration_date": "2026-02-08T06:23:53.428913",
+    "last_active": "2026-02-15T04:06:47.811873"
+  },
+  {
+    "user_id": "user_000048",
+    "geo_data": {
+      "city": "Ouagadougou",
+      "state": "Kadiogo",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-07T10:45:51.190805",
+    "last_active": "2026-03-04T00:56:03.675414"
+  },
+  {
+    "user_id": "user_000049",
+    "geo_data": {
+      "city": "Ouagadougou",
+      "state": "Kadiogo",
+      "country": "BF"
+    },
+    "registration_date": "2025-12-29T10:47:32.136280",
+    "last_active": "2026-02-07T10:11:28.539427"
+  },
+  {
+    "user_id": "user_000050",
+    "geo_data": {
+      "city": "Ouahigouya",
+      "state": "Yatenga",
+      "country": "BF"
+    },
+    "registration_date": "2026-02-28T17:43:01.628213",
+    "last_active": "2026-03-02T23:34:08.586469"
+  },
+  {
+    "user_id": "user_000051",
+    "geo_data": {
+      "city": "Ouahigouya",
+      "state": "Yatenga",
+      "country": "BF"
+    },
+    "registration_date": "2025-12-27T22:06:17.396447",
+    "last_active": "2026-02-18T01:49:15.705506"
+  },
+  {
+    "user_id": "user_000052",
+    "geo_data": {
+      "city": "Koudougou",
+      "state": "Boulkiemd\u00e9",
+      "country": "BF"
+    },
+    "registration_date": "2026-02-21T13:05:02.457525",
+    "last_active": "2026-02-24T05:14:40.075004"
+  },
+  {
+    "user_id": "user_000053",
+    "geo_data": {
+      "city": "Ouagadougou",
+      "state": "Kadiogo",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-12T09:45:16.389199",
+    "last_active": "2026-01-13T23:06:31.668250"
+  },
+  {
+    "user_id": "user_000054",
+    "geo_data": {
+      "city": "Ouahigouya",
+      "state": "Yatenga",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-06T20:07:32.205384",
+    "last_active": "2026-03-05T02:14:20.009550"
+  },
+  {
+    "user_id": "user_000055",
+    "geo_data": {
+      "city": "Ouahigouya",
+      "state": "Yatenga",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-06T06:56:38.330680",
+    "last_active": "2026-01-18T03:48:57.578404"
+  },
+  {
+    "user_id": "user_000056",
+    "geo_data": {
+      "city": "Koudougou",
+      "state": "Boulkiemd\u00e9",
+      "country": "BF"
+    },
+    "registration_date": "2025-12-11T20:13:05.238235",
+    "last_active": "2026-01-11T01:36:09.582814"
+  },
+  {
+    "user_id": "user_000057",
+    "geo_data": {
+      "city": "Bobo-Dioulasso",
+      "state": "Houet",
+      "country": "BF"
+    },
+    "registration_date": "2025-12-24T15:04:31.789980",
+    "last_active": "2026-03-03T18:19:00.466490"
+  },
+  {
+    "user_id": "user_000058",
+    "geo_data": {
+      "city": "Koudougou",
+      "state": "Boulkiemd\u00e9",
+      "country": "BF"
+    },
+    "registration_date": "2025-12-10T04:28:57.304386",
+    "last_active": "2025-12-17T03:35:35.025491"
+  },
+  {
+    "user_id": "user_000059",
+    "geo_data": {
+      "city": "Bobo-Dioulasso",
+      "state": "Houet",
+      "country": "BF"
+    },
+    "registration_date": "2026-02-18T02:31:07.797996",
+    "last_active": "2026-03-02T05:02:32.673254"
+  },
+  {
+    "user_id": "user_000060",
+    "geo_data": {
+      "city": "Banfora",
+      "state": "Como\u00e9",
+      "country": "BF"
+    },
+    "registration_date": "2025-12-16T10:58:44.081600",
+    "last_active": "2026-01-17T04:10:54.125217"
+  },
+  {
+    "user_id": "user_000061",
+    "geo_data": {
+      "city": "Bobo-Dioulasso",
+      "state": "Houet",
+      "country": "BF"
+    },
+    "registration_date": "2026-02-05T04:56:39.262160",
+    "last_active": "2026-03-07T13:13:33.472241"
+  },
+  {
+    "user_id": "user_000062",
+    "geo_data": {
+      "city": "Bobo-Dioulasso",
+      "state": "Houet",
+      "country": "BF"
+    },
+    "registration_date": "2026-02-28T19:17:53.991621",
+    "last_active": "2026-03-06T17:30:50.975845"
+  },
+  {
+    "user_id": "user_000063",
+    "geo_data": {
+      "city": "Bobo-Dioulasso",
+      "state": "Houet",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-13T06:02:27.381189",
+    "last_active": "2026-01-17T00:48:46.610037"
+  },
+  {
+    "user_id": "user_000064",
+    "geo_data": {
+      "city": "Bobo-Dioulasso",
+      "state": "Houet",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-03T21:04:30.002374",
+    "last_active": "2026-01-18T20:14:36.229764"
+  },
+  {
+    "user_id": "user_000065",
+    "geo_data": {
+      "city": "Ouahigouya",
+      "state": "Yatenga",
+      "country": "BF"
+    },
+    "registration_date": "2026-02-04T02:34:06.196576",
+    "last_active": "2026-02-06T15:19:36.146895"
+  },
+  {
+    "user_id": "user_000066",
+    "geo_data": {
+      "city": "Koudougou",
+      "state": "Boulkiemd\u00e9",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-18T08:42:12.132618",
+    "last_active": "2026-03-05T18:44:34.258802"
+  },
+  {
+    "user_id": "user_000067",
+    "geo_data": {
+      "city": "Koudougou",
+      "state": "Boulkiemd\u00e9",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-23T22:13:07.281472",
+    "last_active": "2026-02-24T12:37:49.169544"
+  },
+  {
+    "user_id": "user_000068",
+    "geo_data": {
+      "city": "Bobo-Dioulasso",
+      "state": "Houet",
+      "country": "BF"
+    },
+    "registration_date": "2025-12-14T11:39:39.816026",
+    "last_active": "2025-12-28T09:57:16.365785"
+  },
+  {
+    "user_id": "user_000069",
+    "geo_data": {
+      "city": "Bobo-Dioulasso",
+      "state": "Houet",
+      "country": "BF"
+    },
+    "registration_date": "2026-02-28T13:56:58.803432",
+    "last_active": "2026-03-03T02:07:20.394287"
+  },
+  {
+    "user_id": "user_000070",
+    "geo_data": {
+      "city": "Koudougou",
+      "state": "Boulkiemd\u00e9",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-17T21:21:00.963499",
+    "last_active": "2026-02-02T12:52:31.301152"
+  },
+  {
+    "user_id": "user_000071",
+    "geo_data": {
+      "city": "Koudougou",
+      "state": "Boulkiemd\u00e9",
+      "country": "BF"
+    },
+    "registration_date": "2025-12-30T04:30:21.435987",
+    "last_active": "2026-03-04T09:05:00.882697"
+  },
+  {
+    "user_id": "user_000072",
+    "geo_data": {
+      "city": "Ouagadougou",
+      "state": "Kadiogo",
+      "country": "BF"
+    },
+    "registration_date": "2026-02-24T14:33:38.060670",
+    "last_active": "2026-02-27T21:13:17.538954"
+  },
+  {
+    "user_id": "user_000073",
+    "geo_data": {
+      "city": "Koudougou",
+      "state": "Boulkiemd\u00e9",
+      "country": "BF"
+    },
+    "registration_date": "2026-02-24T13:59:01.175210",
+    "last_active": "2026-03-05T23:46:36.449537"
+  },
+  {
+    "user_id": "user_000074",
+    "geo_data": {
+      "city": "Bobo-Dioulasso",
+      "state": "Houet",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-01T21:49:39.168907",
+    "last_active": "2026-02-26T20:50:18.258486"
+  },
+  {
+    "user_id": "user_000075",
+    "geo_data": {
+      "city": "Koudougou",
+      "state": "Boulkiemd\u00e9",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-07T04:00:56.297134",
+    "last_active": "2026-02-15T01:02:06.095017"
+  },
+  {
+    "user_id": "user_000076",
+    "geo_data": {
+      "city": "Ouahigouya",
+      "state": "Yatenga",
+      "country": "BF"
+    },
+    "registration_date": "2025-12-17T23:05:45.112538",
+    "last_active": "2026-02-05T13:03:16.199335"
+  },
+  {
+    "user_id": "user_000077",
+    "geo_data": {
+      "city": "Bobo-Dioulasso",
+      "state": "Houet",
+      "country": "BF"
+    },
+    "registration_date": "2025-12-18T18:11:23.242379",
+    "last_active": "2026-01-16T18:44:20.624173"
+  },
+  {
+    "user_id": "user_000078",
+    "geo_data": {
+      "city": "Koudougou",
+      "state": "Boulkiemd\u00e9",
+      "country": "BF"
+    },
+    "registration_date": "2025-12-13T02:04:53.548273",
+    "last_active": "2026-02-24T07:23:25.021073"
+  },
+  {
+    "user_id": "user_000079",
+    "geo_data": {
+      "city": "Ouahigouya",
+      "state": "Yatenga",
+      "country": "BF"
+    },
+    "registration_date": "2025-12-17T22:39:18.558467",
+    "last_active": "2026-02-01T09:53:42.191519"
+  },
+  {
+    "user_id": "user_000080",
+    "geo_data": {
+      "city": "Banfora",
+      "state": "Como\u00e9",
+      "country": "BF"
+    },
+    "registration_date": "2025-12-14T16:48:26.140955",
+    "last_active": "2026-03-04T21:35:20.338611"
+  },
+  {
+    "user_id": "user_000081",
+    "geo_data": {
+      "city": "Banfora",
+      "state": "Como\u00e9",
+      "country": "BF"
+    },
+    "registration_date": "2026-03-07T00:16:37.498409",
+    "last_active": "2026-03-07T10:22:16.100188"
+  },
+  {
+    "user_id": "user_000082",
+    "geo_data": {
+      "city": "Bobo-Dioulasso",
+      "state": "Houet",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-25T13:04:31.144545",
+    "last_active": "2026-02-13T22:19:57.021855"
+  },
+  {
+    "user_id": "user_000083",
+    "geo_data": {
+      "city": "Ouahigouya",
+      "state": "Yatenga",
+      "country": "BF"
+    },
+    "registration_date": "2025-12-29T17:33:42.911510",
+    "last_active": "2026-02-07T04:11:30.745886"
+  },
+  {
+    "user_id": "user_000084",
+    "geo_data": {
+      "city": "Bobo-Dioulasso",
+      "state": "Houet",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-31T05:42:02.084235",
+    "last_active": "2026-03-05T09:14:48.550572"
+  },
+  {
+    "user_id": "user_000085",
+    "geo_data": {
+      "city": "Ouagadougou",
+      "state": "Kadiogo",
+      "country": "BF"
+    },
+    "registration_date": "2026-02-18T15:28:54.266973",
+    "last_active": "2026-02-21T17:55:27.097879"
+  },
+  {
+    "user_id": "user_000086",
+    "geo_data": {
+      "city": "Koudougou",
+      "state": "Boulkiemd\u00e9",
+      "country": "BF"
+    },
+    "registration_date": "2026-02-11T23:51:06.328369",
+    "last_active": "2026-02-15T10:06:40.973074"
+  },
+  {
+    "user_id": "user_000087",
+    "geo_data": {
+      "city": "Banfora",
+      "state": "Como\u00e9",
+      "country": "BF"
+    },
+    "registration_date": "2026-02-09T06:33:30.733902",
+    "last_active": "2026-02-14T21:30:35.458231"
+  },
+  {
+    "user_id": "user_000088",
+    "geo_data": {
+      "city": "Ouagadougou",
+      "state": "Kadiogo",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-02T09:31:20.924395",
+    "last_active": "2026-02-13T02:50:20.535051"
+  },
+  {
+    "user_id": "user_000089",
+    "geo_data": {
+      "city": "Bobo-Dioulasso",
+      "state": "Houet",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-19T16:38:14.858351",
+    "last_active": "2026-02-27T02:57:53.119657"
+  },
+  {
+    "user_id": "user_000090",
+    "geo_data": {
+      "city": "Ouahigouya",
+      "state": "Yatenga",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-20T05:36:58.403196",
+    "last_active": "2026-02-23T01:37:37.723019"
+  },
+  {
+    "user_id": "user_000091",
+    "geo_data": {
+      "city": "Bobo-Dioulasso",
+      "state": "Houet",
+      "country": "BF"
+    },
+    "registration_date": "2026-02-15T05:51:39.804559",
+    "last_active": "2026-03-02T06:23:52.412832"
+  },
+  {
+    "user_id": "user_000092",
+    "geo_data": {
+      "city": "Ouahigouya",
+      "state": "Yatenga",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-30T06:16:30.536919",
+    "last_active": "2026-02-07T02:11:50.078854"
+  },
+  {
+    "user_id": "user_000093",
+    "geo_data": {
+      "city": "Ouagadougou",
+      "state": "Kadiogo",
+      "country": "BF"
+    },
+    "registration_date": "2025-12-22T23:55:59.671377",
+    "last_active": "2026-03-02T20:02:55.814118"
+  },
+  {
+    "user_id": "user_000094",
+    "geo_data": {
+      "city": "Bobo-Dioulasso",
+      "state": "Houet",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-29T01:39:35.550300",
+    "last_active": "2026-02-20T12:57:16.012670"
+  },
+  {
+    "user_id": "user_000095",
+    "geo_data": {
+      "city": "Bobo-Dioulasso",
+      "state": "Houet",
+      "country": "BF"
+    },
+    "registration_date": "2026-02-16T16:07:27.623081",
+    "last_active": "2026-02-20T19:38:50.138441"
+  },
+  {
+    "user_id": "user_000096",
+    "geo_data": {
+      "city": "Ouagadougou",
+      "state": "Kadiogo",
+      "country": "BF"
+    },
+    "registration_date": "2025-12-31T01:41:09.262037",
+    "last_active": "2026-02-07T06:14:41.025913"
+  },
+  {
+    "user_id": "user_000097",
+    "geo_data": {
+      "city": "Banfora",
+      "state": "Como\u00e9",
+      "country": "BF"
+    },
+    "registration_date": "2025-12-19T19:21:16.024243",
+    "last_active": "2025-12-25T10:58:31.175459"
+  },
+  {
+    "user_id": "user_000098",
+    "geo_data": {
+      "city": "Koudougou",
+      "state": "Boulkiemd\u00e9",
+      "country": "BF"
+    },
+    "registration_date": "2025-12-23T16:25:36.164449",
+    "last_active": "2025-12-29T18:50:56.425261"
+  },
+  {
+    "user_id": "user_000099",
+    "geo_data": {
+      "city": "Banfora",
+      "state": "Como\u00e9",
+      "country": "BF"
+    },
+    "registration_date": "2025-12-17T13:03:34.888897",
+    "last_active": "2026-01-26T19:50:35.482496"
+  },
+  {
+    "user_id": "user_000100",
+    "geo_data": {
+      "city": "Ouahigouya",
+      "state": "Yatenga",
+      "country": "BF"
+    },
+    "registration_date": "2026-03-03T17:23:56.849486",
+    "last_active": "2026-03-06T20:55:53.668406"
+  },
+  {
+    "user_id": "user_000101",
+    "geo_data": {
+      "city": "Bobo-Dioulasso",
+      "state": "Houet",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-20T23:09:23.934500",
+    "last_active": "2026-03-02T15:01:50.304563"
+  },
+  {
+    "user_id": "user_000102",
+    "geo_data": {
+      "city": "Ouagadougou",
+      "state": "Kadiogo",
+      "country": "BF"
+    },
+    "registration_date": "2026-02-14T05:29:36.043636",
+    "last_active": "2026-02-16T00:44:39.822640"
+  },
+  {
+    "user_id": "user_000103",
+    "geo_data": {
+      "city": "Ouagadougou",
+      "state": "Kadiogo",
+      "country": "BF"
+    },
+    "registration_date": "2025-12-25T00:33:20.605440",
+    "last_active": "2026-01-19T15:12:33.874502"
+  },
+  {
+    "user_id": "user_000104",
+    "geo_data": {
+      "city": "Ouahigouya",
+      "state": "Yatenga",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-02T09:59:10.946245",
+    "last_active": "2026-02-15T21:24:47.047297"
+  },
+  {
+    "user_id": "user_000105",
+    "geo_data": {
+      "city": "Ouahigouya",
+      "state": "Yatenga",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-16T05:58:11.723339",
+    "last_active": "2026-02-04T23:15:17.518747"
+  },
+  {
+    "user_id": "user_000106",
+    "geo_data": {
+      "city": "Koudougou",
+      "state": "Boulkiemd\u00e9",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-11T13:12:26.304302",
+    "last_active": "2026-02-09T21:09:40.055974"
+  },
+  {
+    "user_id": "user_000107",
+    "geo_data": {
+      "city": "Ouahigouya",
+      "state": "Yatenga",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-25T17:19:51.334886",
+    "last_active": "2026-02-21T19:29:50.461456"
+  },
+  {
+    "user_id": "user_000108",
+    "geo_data": {
+      "city": "Banfora",
+      "state": "Como\u00e9",
+      "country": "BF"
+    },
+    "registration_date": "2026-02-10T04:32:07.252176",
+    "last_active": "2026-02-21T01:46:23.649030"
+  },
+  {
+    "user_id": "user_000109",
+    "geo_data": {
+      "city": "Koudougou",
+      "state": "Boulkiemd\u00e9",
+      "country": "BF"
+    },
+    "registration_date": "2026-02-14T04:37:24.009376",
+    "last_active": "2026-02-28T08:24:48.488408"
+  },
+  {
+    "user_id": "user_000110",
+    "geo_data": {
+      "city": "Ouahigouya",
+      "state": "Yatenga",
+      "country": "BF"
+    },
+    "registration_date": "2026-02-04T08:14:22.942556",
+    "last_active": "2026-02-08T20:17:30.415887"
+  },
+  {
+    "user_id": "user_000111",
+    "geo_data": {
+      "city": "Ouahigouya",
+      "state": "Yatenga",
+      "country": "BF"
+    },
+    "registration_date": "2025-12-25T14:38:59.721500",
+    "last_active": "2026-01-11T15:00:20.848572"
+  },
+  {
+    "user_id": "user_000112",
+    "geo_data": {
+      "city": "Ouahigouya",
+      "state": "Yatenga",
+      "country": "BF"
+    },
+    "registration_date": "2025-12-24T03:21:13.256302",
+    "last_active": "2025-12-27T08:19:39.650658"
+  },
+  {
+    "user_id": "user_000113",
+    "geo_data": {
+      "city": "Koudougou",
+      "state": "Boulkiemd\u00e9",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-23T02:31:18.622275",
+    "last_active": "2026-02-11T23:59:37.652503"
+  },
+  {
+    "user_id": "user_000114",
+    "geo_data": {
+      "city": "Ouahigouya",
+      "state": "Yatenga",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-06T15:18:05.244607",
+    "last_active": "2026-01-22T00:27:56.339658"
+  },
+  {
+    "user_id": "user_000115",
+    "geo_data": {
+      "city": "Ouahigouya",
+      "state": "Yatenga",
+      "country": "BF"
+    },
+    "registration_date": "2026-02-08T11:41:31.550539",
+    "last_active": "2026-02-08T13:16:44.938175"
+  },
+  {
+    "user_id": "user_000116",
+    "geo_data": {
+      "city": "Ouagadougou",
+      "state": "Kadiogo",
+      "country": "BF"
+    },
+    "registration_date": "2026-01-26T02:53:46.189031",
+    "last_active": "2026-02-01T22:59:59.773610"
+  },
+  {
+    "user_id": "user_000117",
+    "geo_data": {
+      "city": "Bobo-Dioulasso",
+      "state": "Houet",
+      "country": "BF"
+    },
+    "registration_date": "2025-12-27T15:58:59.647022",
+    "last_active": "2026-03-05T20:22:12.956300"
+  },
+  {
+    "user_id": "user_000118",
+    "geo_data": {
+      "city": "Koudougou",
+      "state": "Boulkiemd\u00e9",
+      "country": "BF"
+    },
+    "registration_date": "2026-02-20T17:25:40.970673",
+    "last_active": "2026-03-06T03:35:59.313395"
+  },
+  {
+    "user_id": "user_000119",
+    "geo_data": {
+      "city": "Ouagadougou",
+      "state": "Kadiogo",
+      "country": "BF"
+    },
+    "registration_date": "2025-12-16T03:51:43.162168",
+    "last_active": "2025-12-28T21:31:57.460413"
+  }
+]
